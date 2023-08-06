@@ -1,0 +1,1491 @@
+{
+    "Eines": {
+        "translation": "One",
+        "type": "indefinite article",
+        "original": "eine",
+        "examples": [
+            {
+                "de": "Eines Tages werde ich die Welt bereisen.",
+                "en": "One day I will travel the world."
+            }
+        ]
+    },
+    "Tages": {
+        "translation": "day",
+        "type": "noun",
+        "original": "Tag",
+        "examples": [
+            {
+                "de": "Der Tag war sonnig und warm.",
+                "en": "The day was sunny and warm."
+            }
+        ]
+    },
+    "in": {
+        "translation": "in",
+        "type": "preposition",
+        "original": "in",
+        "examples": [
+            {
+                "de": "Er war vertieft in sein Buch.",
+                "en": "He was engrossed in his book."
+            }
+        ]
+    },
+    "einem": {
+        "translation": "a",
+        "type": "indefinite article",
+        "original": "einer",
+        "examples": [
+            {
+                "de": "Ich kaufe einen Apfel.",
+                "en": "I am buying an apple."
+            }
+        ]
+    },
+    "kleinen": {
+        "translation": "small",
+        "type": "adjective",
+        "original": "klein",
+        "examples": [
+            {
+                "de": "Das kleine Kind spielte im Park.",
+                "en": "The small child played in the park."
+            }
+        ]
+    },
+    "Dorf": {
+        "translation": "village",
+        "type": "noun",
+        "original": "Dorf",
+        "examples": [
+            {
+                "de": "Das Dorf liegt abgelegen in den Bergen.",
+                "en": "The village is secluded in the mountains."
+            }
+        ]
+    },
+    "gab": {
+        "translation": "was",
+        "type": "verb",
+        "original": "geben",
+        "examples": [
+            {
+                "de": "Es gab viele Gäste auf der Party.",
+                "en": "There were many guests at the party."
+            }
+        ]
+    },
+    "es": {
+        "translation": "it",
+        "type": "pronoun",
+        "original": "es",
+        "examples": [
+            {
+                "de": "Es regnet heute.",
+                "en": "It is raining today."
+            }
+        ]
+    },
+    "einen": {
+        "translation": "a",
+        "type": "indefinite article",
+        "original": "einen",
+        "examples": [
+            {
+                "de": "Ich habe einen Plan.",
+                "en": "I have a plan."
+            }
+        ]
+    },
+    "Jungen": {
+        "translation": "boy",
+        "type": "noun",
+        "original": "Junge",
+        "examples": [
+            {
+                "de": "Die Jungen spielten Fußball im Park.",
+                "en": "The boys played soccer in the park."
+            }
+        ]
+    },
+    "namens": {
+        "translation": "named",
+        "type": "preposition",
+        "original": "Name",
+        "examples": [
+            {
+                "de": "Das Buch wurde von einem Autor namens Mark geschrieben.",
+                "en": "The book was written by an author named Mark."
+            }
+        ]
+    },
+    "Timo": {
+        "translation": "Timo",
+        "type": "proper noun",
+        "original": "Timo",
+        "examples": [
+            {
+                "de": "Timo zeigte Mitgefühl für die Tiere.",
+                "en": "Timo showed compassion for the animals."
+            }
+        ]
+    },
+    "war": {
+        "translation": "was",
+        "type": "verb",
+        "original": "sein",
+        "examples": [
+            {
+                "de": "Der Tag war sonnig und warm.",
+                "en": "The day was sunny and warm."
+            }
+        ]
+    },
+    "nicht": {
+        "translation": "not",
+        "type": "adverb",
+        "original": "nicht",
+        "examples": [
+            {
+                "de": "Er hat nicht aufgegeben, sondern weitergemacht.",
+                "en": "He didn't give up, but kept going."
+            }
+        ]
+    },
+    "wie": {
+        "translation": "like",
+        "type": "conjunction",
+        "original": "wie",
+        "examples": [
+            {
+                "de": "Ich möchte so sein wie du.",
+                "en": "I want to be like you."
+            }
+        ]
+    },
+    "andere": {
+        "translation": "other",
+        "type": "adjective",
+        "original": "anderer",
+        "examples": [
+            {
+                "de": "Andere Leute haben unterschiedliche Meinungen.",
+                "en": "Other people have different opinions."
+            }
+        ]
+    },
+    "Kinder": {
+        "translation": "children",
+        "type": "noun",
+        "original": "Kind",
+        "examples": [
+            {
+                "de": "Die Kinder spielen fröhlich im Garten.",
+                "en": "The children are playing happily in the garden."
+            }
+        ]
+    },
+    "Er": {
+        "translation": "He",
+        "type": "pronoun",
+        "original": "Er",
+        "examples": [
+            {
+                "de": "Er öffnete die Tür.",
+                "en": "He opened the door."
+            }
+        ]
+    },
+    "konnte": {
+        "translation": "could",
+        "type": "verb",
+        "original": "können",
+        "examples": [
+            {
+                "de": "Er konnte das Problem leicht lösen.",
+                "en": "He could solve the problem easily."
+            }
+        ]
+    },
+    "mit": {
+        "translation": "with",
+        "type": "preposition",
+        "original": "mit",
+        "examples": [
+            {
+                "de": "Er kam mit seiner Familie.",
+                "en": "He came with his family."
+            }
+        ]
+    },
+    "Tieren": {
+        "translation": "animals",
+        "type": "noun",
+        "original": "Tier",
+        "examples": [
+            {
+                "de": "Sie hat eine besondere Verbindung zu Tieren.",
+                "en": "She has a special connection with animals."
+            }
+        ]
+    },
+    "sprechen": {
+        "translation": "speak",
+        "type": "verb",
+        "original": "sprechen",
+        "examples": [
+            {
+                "de": "Er spricht fließend Englisch.",
+                "en": "He speaks fluent English."
+            }
+        ]
+    },
+    "verbrachte": {
+        "translation": "spent",
+        "type": "verb",
+        "original": "verbringen",
+        "examples": [
+            {
+                "de": "Sie verbrachte ihren Urlaub am Strand.",
+                "en": "She spent her vacation at the beach."
+            }
+        ]
+    },
+    "seine": {
+        "translation": "his",
+        "type": "pronoun",
+        "original": "sein",
+        "examples": [
+            {
+                "de": "Er zog seine Jacke an.",
+                "en": "He put on his jacket."
+            }
+        ]
+    },
+    "Zeit": {
+        "translation": "time",
+        "type": "noun",
+        "original": "Zeit",
+        "examples": [
+            {
+                "de": "Die Zeit vergeht schnell.",
+                "en": "Time passes quickly."
+            }
+        ]
+    },
+    "lieber": {
+        "translation": "preferably",
+        "type": "adverb",
+        "original": "lieber",
+        "examples": [
+            {
+                "de": "Ich mag lieber Eis als Kuchen.",
+                "en": "I prefer ice cream over cake."
+            }
+        ]
+    },
+    "den": {
+        "translation": "the",
+        "type": "definite article",
+        "original": "der",
+        "examples": [
+            {
+                "de": "Er las den ganzen Artikel.",
+                "en": "He read the whole article."
+            }
+        ]
+    },
+    "Wäldern": {
+        "translation": "forests",
+        "type": "noun",
+        "original": "Wald",
+        "examples": [
+            {
+                "de": "Ich liebe Spaziergänge in den Wäldern.",
+                "en": "I love walks in the forests."
+            }
+        ]
+    },
+    "seinen": {
+        "translation": "his",
+        "type": "pronoun",
+        "original": "sein",
+        "examples": [
+            {
+                "de": "Jeder soll seinen eigenen Weg gehen.",
+                "en": "Everyone should follow their own path."
+            }
+        ]
+    },
+    "tierischen": {
+        "translation": "animal",
+        "type": "adjective",
+        "original": "tierisch",
+        "examples": [
+            {
+                "de": "Tierische Produkte enthalten oft viel Protein.",
+                "en": "Animal products often contain a lot of protein."
+            }
+        ]
+    },
+    "Freunden": {
+        "translation": "friends",
+        "type": "noun",
+        "original": "Freund",
+        "examples": [
+            {
+                "de": "Sie ging mit ihren Freunden ins Kino.",
+                "en": "She went to the cinema with her friends."
+            }
+        ]
+    },
+    "als": {
+        "translation": "as",
+        "type": "conjunction",
+        "original": "als",
+        "examples": [
+            {
+                "de": "Sie sah älter aus als ihr Bruder.",
+                "en": "She looked older than her brother."
+            }
+        ]
+    },
+    "auf": {
+        "translation": "to",
+        "type": "preposition",
+        "original": "auf",
+        "examples": [
+            {
+                "de": "Der Ball rollte auf die Straße.",
+                "en": "The ball rolled onto the street."
+            }
+        ]
+    },
+    "Feldern": {
+        "translation": "fields",
+        "type": "noun",
+        "original": "Feld",
+        "examples": [
+            {
+                "de": "Die Bauern arbeiten auf den Feldern.",
+                "en": "The farmers work in the fields."
+            }
+        ]
+    },
+    "zu": {
+        "translation": "to",
+        "type": "infinitive marker",
+        "original": "zu",
+        "examples": [
+            {
+                "de": "Wir haben uns entschieden, zu bleiben.",
+                "en": "We have decided to stay."
+            }
+        ]
+    },
+    "arbeiten": {
+        "translation": "work",
+        "type": "verb",
+        "original": "arbeiten",
+        "examples": [
+            {
+                "de": "Sie arbeitet in einem Büro.",
+                "en": "She works in an office."
+            }
+        ]
+    },
+    "bemerkte": {
+        "translation": "noticed",
+        "type": "verb",
+        "original": "bemerken",
+        "examples": [
+            {
+                "de": "Er bemerkte einen Fehler in der Rechnung.",
+                "en": "He noticed an error in the bill."
+            }
+        ]
+    },
+    "dass": {
+        "translation": "that",
+        "type": "conjunction",
+        "original": "dass",
+        "examples": [
+            {
+                "de": "Es ist wichtig, dass wir alle zusammenarbeiten.",
+                "en": "It is important that we all work together."
+            }
+        ]
+    },
+    "geliebten": {
+        "translation": "beloved",
+        "type": "adjective",
+        "original": "geliebt",
+        "examples": [
+            {
+                "de": "Sie vermisst ihre geliebte Oma.",
+                "en": "She misses her beloved grandma."
+            }
+        ]
+    },
+    "Tiere": {
+        "translation": "animals",
+        "type": "noun",
+        "original": "Tier",
+        "examples": [
+            {
+                "de": "Tiere haben unterschiedliche Verhaltensweisen.",
+                "en": "Animals have different behaviors."
+            }
+        ]
+    },
+    "sich": {
+        "translation": "itself",
+        "type": "pronoun",
+        "original": "sich",
+        "examples": [
+            {
+                "de": "Er versteckte sich hinter einem Baum.",
+                "en": "He hid behind a tree."
+            }
+        ]
+    },
+    "seltsam": {
+        "translation": "strange",
+        "type": "adjective",
+        "original": "seltsam",
+        "examples": [
+            {
+                "de": "Es war ein seltsamer Vorfall.",
+                "en": "It was a strange incident."
+            }
+        ]
+    },
+    "verhielten": {
+        "translation": "behaved",
+        "type": "verb",
+        "original": "verhalten",
+        "examples": [
+            {
+                "de": "Die Schüler verhielten sich ruhig im Unterricht.",
+                "en": "The students behaved quietly in the class."
+            }
+        ]
+    },
+    "Sie": {
+        "translation": "they",
+        "type": "pronoun",
+        "original": "sie",
+        "examples": [
+            {
+                "de": "Sie haben eine Einladung erhalten.",
+                "en": "They received an invitation."
+            }
+        ]
+    },
+    "waren": {
+        "translation": "were",
+        "type": "verb",
+        "original": "sein",
+        "examples": [
+            {
+                "de": "Sie waren gestern im Kino.",
+                "en": "They were at the cinema yesterday."
+            }
+        ]
+    },
+    "unruhig": {
+        "translation": "restless",
+        "type": "adjective",
+        "original": "unruhig",
+        "examples": [
+            {
+                "de": "Das Baby war unruhig und konnte nicht schlafen.",
+                "en": "The baby was restless and couldn't sleep."
+            }
+        ]
+    },
+    "und": {
+        "translation": "and",
+        "type": "conjunction",
+        "original": "und",
+        "examples": [
+            {
+                "de": "Ich möchte einen Tee und ein Stück Kuchen bestellen.",
+                "en": "I would like to order a tea and a piece of cake."
+            }
+        ]
+    },
+    "ängstlich": {
+        "translation": "anxious",
+        "type": "adjective",
+        "original": "ängstlich",
+        "examples": [
+            {
+                "de": "Der Hund wirkte ängstlich.",
+                "en": "The dog seemed anxious."
+            }
+        ]
+    },
+    "Irgendetwas": {
+        "translation": "something",
+        "type": "pronoun",
+        "original": "Irgendetwas",
+        "examples": [
+            {
+                "de": "Irgendetwas stimmt hier nicht.",
+                "en": "Something is not right here."
+            }
+        ]
+    },
+    "stimmte": {
+        "translation": "was right",
+        "type": "verb",
+        "original": "stimmen",
+        "examples": [
+            {
+                "de": "Die Informationen stimmten nicht mit der Realität überein.",
+                "en": "The information did not match reality."
+            }
+        ]
+    },
+    "folgte": {
+        "translation": "followed",
+        "type": "verb",
+        "original": "folgen",
+        "examples": [
+            {
+                "de": "Er folgte ihr unauffällig.",
+                "en": "He followed her discreetly."
+            }
+        ]
+    },
+    "tief": {
+        "translation": "deep",
+        "type": "adjective",
+        "original": "tief",
+        "examples": [
+            {
+                "de": "Der Brunnen ist sehr tief.",
+                "en": "The well is very deep."
+            }
+        ]
+    },
+    "Wald": {
+        "translation": "forest",
+        "type": "noun",
+        "original": "Wald",
+        "examples": [
+            {
+                "de": "Sie lieben es, im Wald spazieren zu gehen.",
+                "en": "They love to take walks in the forest."
+            }
+        ]
+    },
+    "sah": {
+        "translation": "saw",
+        "type": "verb",
+        "original": "sehen",
+        "examples": [
+            {
+                "de": "Sie sah eine interessante Dokumentation.",
+                "en": "She watched an interesting documentary."
+            }
+        ]
+    },
+    "eine": {
+        "translation": "a",
+        "type": "indefinite article",
+        "original": "eine",
+        "examples": [
+            {
+                "de": "Ich hätte gerne eine Tasse Tee.",
+                "en": "I would like a cup of tea."
+            }
+        ]
+    },
+    "große": {
+        "translation": "big",
+        "type": "adjective",
+        "original": "groß",
+        "examples": [
+            {
+                "de": "Er hat eine große Wohnung.",
+                "en": "He has a big apartment."
+            }
+        ]
+    },
+    "dunkle": {
+        "translation": "dark",
+        "type": "adjective",
+        "original": "dunkel",
+        "examples": [
+            {
+                "de": "Es war eine dunkle Nacht ohne Mondlicht.",
+                "en": "It was a dark night without moonlight."
+            }
+        ]
+    },
+    "Gestalt": {
+        "translation": "figure",
+        "type": "noun",
+        "original": "Gestalt",
+        "examples": [
+            {
+                "de": "Eine geheimnisvolle Gestalt tauchte aus dem Nebel auf.",
+                "en": "A mysterious figure emerged from the fog."
+            }
+        ]
+    },
+    "im": {
+        "translation": "in the",
+        "type": "preposition",
+        "original": "im",
+        "examples": [
+            {
+                "de": "Sie sind im Urlaub.",
+                "en": "They are on vacation."
+            }
+        ]
+    },
+    "Schatten": {
+        "translation": "shadow",
+        "type": "noun",
+        "original": "Schatten",
+        "examples": [
+            {
+                "de": "Das Kind hatte Angst vor dem Schatten.",
+                "en": "The child was afraid of the shadow."
+            }
+        ]
+    },
+    "Es": {
+        "translation": "It",
+        "type": "pronoun",
+        "original": "Es",
+        "examples": [
+            {
+                "de": "Es regnet draußen.",
+                "en": "It's raining outside."
+            }
+        ]
+    },
+    "ein": {
+        "translation": "a",
+        "type": "indefinite article",
+        "original": "ein",
+        "examples": [
+            {
+                "de": "Sie aß ein Stück Kuchen.",
+                "en": "She ate a piece of cake."
+            }
+        ]
+    },
+    "riesiger": {
+        "translation": "gigantic",
+        "type": "adjective",
+        "original": "riesig",
+        "examples": [
+            {
+                "de": "Vor uns stand ein riesiger Berg.",
+                "en": "In front of us was a huge mountain."
+            }
+        ]
+    },
+    "Bär": {
+        "translation": "bear",
+        "type": "noun",
+        "original": "Bär",
+        "examples": [
+            {
+                "de": "Im Wald lebt ein großer Bär.",
+                "en": "There is a big bear living in the forest."
+            }
+        ]
+    },
+    "der": {
+        "translation": "the",
+        "type": "definite article",
+        "original": "der",
+        "examples": [
+            {
+                "de": "Der Lehrer erklärte die Aufgabe.",
+                "en": "The teacher explained the task."
+            }
+        ]
+    },
+    "verirrt": {
+        "translation": "lost",
+        "type": "verb",
+        "original": "verirren",
+        "examples": [
+            {
+                "de": "Die verirrten Wanderer wurden gerettet.",
+                "en": "The lost hikers were rescued."
+            }
+        ]
+    },
+    "hatte": {
+        "translation": "had",
+        "type": "verb",
+        "original": "haben",
+        "examples": [
+            {
+                "de": "Sie hatte eine Idee.",
+                "en": "She had an idea."
+            }
+        ]
+    },
+    "Angst": {
+        "translation": "fear",
+        "type": "noun",
+        "original": "Angst",
+        "examples": [
+            {
+                "de": "Sie hatte große Angst vor dem Dunkeln.",
+                "en": "She was very afraid of the dark."
+            }
+        ]
+    },
+    "keine": {
+        "translation": "no",
+        "type": "no",
+        "original": "keine",
+        "examples": [
+            {
+                "de": "Es gab keine Antwort auf meine Frage.",
+                "en": "There was no answer to my question."
+            }
+        ]
+    },
+    "ging": {
+        "translation": "went",
+        "type": "verb",
+        "original": "gehen",
+        "examples": [
+            {
+                "de": "Sie ging zum Supermarkt.",
+                "en": "She went to the supermarket."
+            }
+        ]
+    },
+    "Bären": {
+        "translation": "bear",
+        "type": "noun",
+        "original": "Bär",
+        "examples": [
+            {
+                "de": "Die Bären leben im Wald.",
+                "en": "The bears live in the forest."
+            }
+        ]
+    },
+    "sprach": {
+        "translation": "spoke",
+        "type": "verb",
+        "original": "sprechen",
+        "examples": [
+            {
+                "de": "Sie sprach leise, damit niemand sie hören konnte.",
+                "en": "She spoke quietly so that nobody could hear her."
+            }
+        ]
+    },
+    "sanfter": {
+        "translation": "gentle",
+        "type": "adjective",
+        "original": "sanft",
+        "examples": [
+            {
+                "de": "Sie massierte ihn sanft.",
+                "en": "She massaged him gently."
+            }
+        ]
+    },
+    "Stimme": {
+        "translation": "voice",
+        "type": "noun",
+        "original": "Stimme",
+        "examples": [
+            {
+                "de": "Seine Stimme klang beruhigend.",
+                "en": "His voice sounded calming."
+            }
+        ]
+    },
+    "ihn": {
+        "translation": "him",
+        "type": "pronoun",
+        "original": "ihn",
+        "examples": [
+            {
+                "de": "Ich habe ihn gestern getroffen.",
+                "en": "I met him yesterday."
+            }
+        ]
+    },
+    "Der": {
+        "translation": "The",
+        "type": "definite article",
+        "original": "Der",
+        "examples": [
+            {
+                "de": "Der Löwe brüllte laut.",
+                "en": "The lion roared loudly."
+            }
+        ]
+    },
+    "überrascht": {
+        "translation": "surprised",
+        "type": "adjective",
+        "original": "überraschen",
+        "examples": [
+            {
+                "de": "Er war überrascht von der Nachricht.",
+                "en": "He was surprised by the news."
+            }
+        ]
+    },
+    "denn": {
+        "translation": "because",
+        "type": "conjunction",
+        "original": "denn",
+        "examples": [
+            {
+                "de": "Er konnte nicht kommen, denn er war krank.",
+                "en": "He couldn't come because he was sick."
+            }
+        ]
+    },
+    "er": {
+        "translation": "he",
+        "type": "pronoun",
+        "original": "er",
+        "examples": [
+            {
+                "de": "Er studiert Geschichte.",
+                "en": "He studies history."
+            }
+        ]
+    },
+    "noch": {
+        "translation": "never",
+        "type": "adverb",
+        "original": "noch",
+        "examples": [
+            {
+                "de": "Ich bin noch nicht fertig.",
+                "en": "I am not finished yet."
+            }
+        ]
+    },
+    "nie": {
+        "translation": "met",
+        "type": "adverb",
+        "original": "nie",
+        "examples": [
+            {
+                "de": "Ich habe ihn noch nie getroffen.",
+                "en": "I have never met him before."
+            }
+        ]
+    },
+    "Menschen": {
+        "translation": "human",
+        "type": "noun",
+        "original": "Mensch",
+        "examples": [
+            {
+                "de": "Menschen sind soziale Wesen.",
+                "en": "Humans are social beings."
+            }
+        ]
+    },
+    "getroffen": {
+        "translation": "encountered",
+        "type": "verb",
+        "original": "treffen",
+        "examples": [
+            {
+                "de": "Sie haben sich gestern getroffen.",
+                "en": "They met yesterday."
+            }
+        ]
+    },
+    "Sprache": {
+        "translation": "language",
+        "type": "noun",
+        "original": "Sprache",
+        "examples": [
+            {
+                "de": "Deutsche Sprache ist schön.",
+                "en": "German language is beautiful."
+            }
+        ]
+    },
+    "Mit": {
+        "translation": "With",
+        "type": "preposition",
+        "original": "Mit",
+        "examples": [
+            {
+                "de": "Mit deiner Hilfe schaffe ich es.",
+                "en": "With your help, I can do it."
+            }
+        ]
+    },
+    "Timos": {
+        "translation": "Timo's",
+        "type": "proper noun",
+        "original": "Timo",
+        "examples": []
+    },
+    "Hilfe": {
+        "translation": "help",
+        "type": "noun",
+        "original": "Hilfe",
+        "examples": [
+            {
+                "de": "Danke für deine Hilfe.",
+                "en": "Thank you for your help."
+            }
+        ]
+    },
+    "fand": {
+        "translation": "found",
+        "type": "verb",
+        "original": "finden",
+        "examples": [
+            {
+                "de": "Er fand eine Lösung für das Problem.",
+                "en": "He found a solution to the problem."
+            }
+        ]
+    },
+    "Weg": {
+        "translation": "way",
+        "type": "noun",
+        "original": "Weg",
+        "examples": [
+            {
+                "de": "Der Weg war steinig und schwer zu gehen.",
+                "en": "The path was rocky and difficult to walk."
+            }
+        ]
+    },
+    "zurück": {
+        "translation": "back",
+        "type": "adverb",
+        "original": "zurück",
+        "examples": [
+            {
+                "de": "Sie kam zurück von ihrer Reise.",
+                "en": "She came back from her trip."
+            }
+        ]
+    },
+    "Heimat": {
+        "translation": "home",
+        "type": "noun",
+        "original": "Heimat",
+        "examples": [
+            {
+                "de": "Sie kehrte in ihre Heimat zurück.",
+                "en": "She returned to her homeland."
+            }
+        ]
+    },
+    "Die": {
+        "translation": "The",
+        "type": "definite article",
+        "original": "Die",
+        "examples": [
+            {
+                "de": "Die Blumen blühen im Frühling.",
+                "en": "The flowers bloom in spring."
+            }
+        ]
+    },
+    "feierten": {
+        "translation": "celebrated",
+        "type": "verb",
+        "original": "feiern",
+        "examples": [
+            {
+                "de": "Wir feierten den Geburtstag meiner Schwester.",
+                "en": "We celebrated my sister's birthday."
+            }
+        ]
+    },
+    "ihren": {
+        "translation": "their",
+        "type": "pronoun",
+        "original": "ihr",
+        "examples": [
+            {
+                "de": "Die Kinder lieben ihre Spielzeuge.",
+                "en": "The children love their toys."
+            }
+        ]
+    },
+    "Helden": {
+        "translation": "hero",
+        "type": "noun",
+        "original": "Held",
+        "examples": [
+            {
+                "de": "Er wurde als Held gefeiert.",
+                "en": "He was celebrated as a hero."
+            }
+        ]
+    },
+    "Dorfbewohner": {
+        "translation": "villagers",
+        "type": "noun",
+        "original": "Dorfbewohner",
+        "examples": [
+            {
+                "de": "Die Dorfbewohner halfen einander.",
+                "en": "The villagers helped each other."
+            }
+        ]
+    },
+    "die": {
+        "translation": "to",
+        "type": "definite article",
+        "original": "die",
+        "examples": [
+            {
+                "de": "Die Blumen blühen im Frühling.",
+                "en": "The flowers bloom in spring."
+            }
+        ]
+    },
+    "von": {
+        "translation": "of",
+        "type": "preposition",
+        "original": "von",
+        "examples": [
+            {
+                "de": "Das Buch wurde von einem Autor namens Mark geschrieben.",
+                "en": "The book was written by an author named Mark."
+            }
+        ]
+    },
+    "mutigen": {
+        "translation": "brave",
+        "type": "adjective",
+        "original": "mutig",
+        "examples": [
+            {
+                "de": "Der mutige Feuerwehrmann rettete das Kind.",
+                "en": "The brave firefighter saved the child."
+            }
+        ]
+    },
+    "Tat": {
+        "translation": "deed",
+        "type": "noun",
+        "original": "Tat",
+        "examples": [
+            {
+                "de": "Es war eine gute Tat, anderen zu helfen.",
+                "en": "It was a good deed to help others."
+            }
+        ]
+    },
+    "des": {
+        "translation": "of the",
+        "type": "genitive article",
+        "original": "des",
+        "examples": [
+            {
+                "de": "Sie las das Buch des Autors.",
+                "en": "She read the book of the author."
+            }
+        ]
+    },
+    "hörten": {
+        "translation": "heard",
+        "type": "verb",
+        "original": "hören",
+        "examples": [
+            {
+                "de": "Die Nachbarn hörten laute Musik.",
+                "en": "The neighbors heard loud music."
+            }
+        ]
+    },
+    "ehrten": {
+        "translation": "honored",
+        "type": "verb",
+        "original": "ehren",
+        "examples": [
+            {
+                "de": "Wir ehrten die Opfer des Krieges.",
+                "en": "We honored the victims of the war."
+            }
+        ]
+    },
+    "lernten": {
+        "translation": "learned",
+        "type": "verb",
+        "original": "lernen",
+        "examples": [
+            {
+                "de": "Wir lernten Deutsch in der Schule.",
+                "en": "We learned German in school."
+            }
+        ]
+    },
+    "Waldes": {
+        "translation": "forest",
+        "type": "noun",
+        "original": "Wald",
+        "examples": [
+            {
+                "de": "Die Tiere des Waldes sind faszinierend.",
+                "en": "The animals of the forest are fascinating."
+            }
+        ]
+    },
+    "respektieren": {
+        "translation": "respect",
+        "type": "verb",
+        "original": "respektieren",
+        "examples": [
+            {
+                "de": "Man sollte die Natur respektieren.",
+                "en": "One should respect nature."
+            }
+        ]
+    },
+    "Von": {
+        "translation": "From",
+        "type": "preposition",
+        "original": "Von",
+        "examples": [
+            {
+                "de": "Von diesem Tag an änderte sich alles.",
+                "en": "From that day on, everything changed."
+            }
+        ]
+    },
+    "diesem": {
+        "translation": "this",
+        "type": "demonstrative pronoun",
+        "original": "dies",
+        "examples": [
+            {
+                "de": "In diesem Jahr wird viel passieren.",
+                "en": "A lot will happen this year."
+            }
+        ]
+    },
+    "Tag": {
+        "translation": "day",
+        "type": "noun",
+        "original": "Tag",
+        "examples": [
+            {
+                "de": "Es war ein schöner Tag am Strand.",
+                "en": "It was a beautiful day at the beach."
+            }
+        ]
+    },
+    "an": {
+        "translation": "on",
+        "type": "preposition",
+        "original": "an",
+        "examples": [
+            {
+                "de": "Ich rufe dich an, wenn ich Zeit habe.",
+                "en": "I will call you when I have time."
+            }
+        ]
+    },
+    "lebten": {
+        "translation": "lived",
+        "type": "verb",
+        "original": "leben",
+        "examples": [
+            {
+                "de": "Die Menschen lebten friedlich zusammen.",
+                "en": "People lived together peacefully."
+            }
+        ]
+    },
+    "Mensch": {
+        "translation": "human",
+        "type": "noun",
+        "original": "Mensch",
+        "examples": [
+            {
+                "de": "Der Mensch ist ein vernunftbegabtes Lebewesen.",
+                "en": "Human is a rational being."
+            }
+        ]
+    },
+    "Tier": {
+        "translation": "animal",
+        "type": "noun",
+        "original": "Tier",
+        "examples": []
+    },
+    "Frieden": {
+        "translation": "peace",
+        "type": "noun",
+        "original": "Frieden",
+        "examples": [
+            {
+                "de": "Wir wünschen uns Weltfrieden.",
+                "en": "We wish for world peace."
+            }
+        ]
+    },
+    "zusammen": {
+        "translation": "together",
+        "type": "adverb",
+        "original": "zusammen",
+        "examples": [
+            {
+                "de": "Wir verbrachten viel Zeit zusammen.",
+                "en": "We spent a lot of time together."
+            }
+        ]
+    },
+    "zeigte": {
+        "translation": "showed",
+        "type": "verb",
+        "original": "zeigen",
+        "examples": [
+            {
+                "de": "Er zeigte großes Interesse an der Kunst.",
+                "en": "He showed great interest in art."
+            }
+        ]
+    },
+    "allen": {
+        "translation": "everyone",
+        "type": "pronoun",
+        "original": "alle",
+        "examples": [
+            {
+                "de": "Wir danken allen für ihre Unterstützung.",
+                "en": "We thank everyone for their support."
+            }
+        ]
+    },
+    "Mut": {
+        "translation": "courage",
+        "type": "noun",
+        "original": "Mut",
+        "examples": [
+            {
+                "de": "Er bewies Mut in schwierigen Situationen.",
+                "en": "He showed courage in difficult situations."
+            }
+        ]
+    },
+    "bedeutet": {
+        "translation": "means",
+        "type": "verb",
+        "original": "bedeuten",
+        "examples": [
+            {
+                "de": "Liebe bedeutet viel für mich.",
+                "en": "Love means a lot to me."
+            }
+        ]
+    },
+    "haben": {
+        "translation": "have",
+        "type": "verb",
+        "original": "haben",
+        "examples": [
+            {
+                "de": "Ich habe keinen Hunger.",
+                "en": "I am not hungry."
+            }
+        ]
+    },
+    "sondern": {
+        "translation": "but",
+        "type": "conjunction",
+        "original": "sondern",
+        "examples": [
+            {
+                "de": "Das ist kein Vogel, sondern ein Flugzeug.",
+                "en": "That's not a bird, but an airplane."
+            }
+        ]
+    },
+    "das": {
+        "translation": "the",
+        "type": "definite article",
+        "original": "das",
+        "examples": [
+            {
+                "de": "Das Buch, das ich lese, ist interessant.",
+                "en": "The book I am reading is interesting."
+            }
+        ]
+    },
+    "Richtige": {
+        "translation": "right thing",
+        "type": "noun",
+        "original": "richtig",
+        "examples": [
+            {
+                "de": "Tue das Richtige und alles wird gut.",
+                "en": "Do the right thing, and everything will be fine."
+            }
+        ]
+    },
+    "tun": {
+        "translation": "do",
+        "type": "verb",
+        "original": "tun",
+        "examples": [
+            {
+                "de": "Er möchte etwas Sinnvolles tun.",
+                "en": "He wants to do something meaningful."
+            }
+        ]
+    },
+    "auch": {
+        "translation": "even",
+        "type": "adverb",
+        "original": "auch",
+        "examples": [
+            {
+                "de": "Sie ist nicht nur klug, sondern auch charmant.",
+                "en": "She is not only smart but also charming."
+            }
+        ]
+    },
+    "wenn": {
+        "translation": "if",
+        "type": "conjunction",
+        "original": "wenn",
+        "examples": [
+            {
+                "de": "Wenn es regnet, brauchst du einen Regenschirm.",
+                "en": "If it rains, you will need an umbrella."
+            }
+        ]
+    },
+    "man": {
+        "translation": "one",
+        "type": "pronoun",
+        "original": "man",
+        "examples": [
+            {
+                "de": "Man sagt, dass es morgen regnen wird.",
+                "en": "They say it will rain tomorrow."
+            }
+        ]
+    },
+    "hat": {
+        "translation": "has",
+        "type": "verb",
+        "original": "haben",
+        "examples": []
+    },
+    "Seine": {
+        "translation": "His",
+        "type": "possessive pronoun",
+        "original": "Seine",
+        "examples": []
+    },
+    "Geschichte": {
+        "translation": "story",
+        "type": "noun",
+        "original": "Geschichte",
+        "examples": []
+    },
+    "ist": {
+        "translation": "is",
+        "type": "verb",
+        "original": "sein",
+        "examples": []
+    },
+    "ständige": {
+        "translation": "constant",
+        "type": "adjective",
+        "original": "ständig",
+        "examples": []
+    },
+    "Erinnerung": {
+        "translation": "reminder",
+        "type": "noun",
+        "original": "Erinnerung",
+        "examples": []
+    },
+    "daran": {
+        "translation": "of that",
+        "type": "adverb",
+        "original": "daran",
+        "examples": []
+    },
+    "Verständnis": {
+        "translation": "understanding",
+        "type": "noun",
+        "original": "Verständnis",
+        "examples": []
+    },
+    "Mitgefühl": {
+        "translation": "compassion",
+        "type": "noun",
+        "original": "Mitgefühl",
+        "examples": []
+    },
+    "uns": {
+        "translation": "us",
+        "type": "pronoun",
+        "original": "uns",
+        "examples": []
+    },
+    "näher": {
+        "translation": "closer",
+        "type": "adjective",
+        "original": "näher",
+        "examples": []
+    },
+    "zusammenbringen": {
+        "translation": "bring together",
+        "type": "verb",
+        "original": "zusammenbringen",
+        "examples": []
+    },
+    "können": {
+        "translation": "can",
+        "type": "verb",
+        "original": "können",
+        "examples": []
+    },
+    "unabhängig": {
+        "translation": "regardless",
+        "type": "adjective",
+        "original": "unabhängig",
+        "examples": []
+    },
+    "unserer": {
+        "translation": "our",
+        "type": "pronoun",
+        "original": "unser",
+        "examples": []
+    },
+    "oder": {
+        "translation": "or",
+        "type": "conjunction",
+        "original": "oder",
+        "examples": []
+    },
+    "Art": {
+        "translation": "species",
+        "type": "noun",
+        "original": "Art",
+        "examples": []
+    }
+}

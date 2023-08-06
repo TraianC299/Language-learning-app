@@ -1,0 +1,2763 @@
+{
+  "Eines": {
+    "german": "Eines",
+    "english": "One",
+    "examples": [
+      {
+        "english": "One day, Timo decided to explore the deep woods.",
+        "german": "Eines Tages beschloss Timo, die tiefen Wälder zu erkunden."
+      }
+    ]
+  },
+  "Tages": {
+    "german": "Tages",
+    "english": "day",
+    "examples": [
+      {
+        "english": "One day, Timo noticed something strange in the woods.",
+        "german": "Eines Tages bemerkte Timo etwas Seltsames im Wald."
+      }
+    ]
+  },
+  "in": {
+    "german": "in",
+    "english": "in",
+    "examples": [
+      {
+        "english": "Timo lived in a small village.",
+        "german": "Timo lebte in einem kleinen Dorf."
+      }
+    ]
+  },
+  "einem": {
+    "german": "einem",
+    "english": "a",
+    "examples": [
+      {
+        "english": "Timo had a special bond with animals.",
+        "german": "Timo hatte eine besondere Verbindung zu Tieren."
+      }
+    ]
+  },
+  "kleinen": {
+    "german": "kleinen",
+    "english": "small",
+    "examples": [
+      {
+        "english": "Timo grew up in a small house near the forest.",
+        "german": "Timo wuchs in einem kleinen Haus in der Nähe des Waldes auf."
+      }
+    ]
+  },
+  "Dorf": {
+    "german": "Dorf",
+    "english": "village",
+    "examples": [
+      {
+        "english": "The village where Timo lived was peaceful and quiet.",
+        "german": "Das Dorf, in dem Timo lebte, war friedlich und ruhig."
+      }
+    ]
+  },
+  "gab": {
+    "german": "gab",
+    "english": "was",
+    "examples": [
+      {
+        "english": "There was a boy named Timo in the village.",
+        "german": "Es gab einen Jungen namens Timo im Dorf."
+      }
+    ]
+  },
+  "einen": {
+    "german": "einen",
+    "english": "a",
+    "examples": [
+      {
+        "english": "Timo had a unique ability to communicate with animals.",
+        "german": "Timo hatte die besondere Fähigkeit, mit Tieren zu kommunizieren."
+      }
+    ]
+  },
+  "Jungen": {
+    "german": "Jungen",
+    "english": "boy",
+    "examples": [
+      {
+        "english": "Timo was a curious and adventurous boy.",
+        "german": "Timo war ein neugieriger und abenteuerlustiger Junge."
+      }
+    ]
+  },
+  "namens": {
+    "german": "namens",
+    "english": "named",
+    "examples": [
+      {
+        "english": "The boy named Timo had a special gift.",
+        "german": "Der Junge namens Timo hatte ein besonderes Geschenk."
+      }
+    ]
+  },
+  "Timo": {
+    "german": "Timo",
+    "english": "Timo",
+    "examples": [
+      {
+        "english": "Timo loved spending time in nature.",
+        "german": "Timo liebte es, Zeit in der Natur zu verbringen."
+      }
+    ]
+  },
+  "war": {
+    "german": "war",
+    "english": "was",
+    "examples": [
+      {
+        "english": "Timo was different from other children.",
+        "german": "Timo war anders als andere Kinder."
+      }
+    ]
+  },
+  "nicht": {
+    "german": "nicht",
+    "english": "not",
+    "examples": [
+      {
+        "english": "Timo was not afraid of the dark woods.",
+        "german": "Timo hatte keine Angst vor den dunklen Wäldern."
+      }
+    ]
+  },
+  "wie": {
+    "german": "wie",
+    "english": "like",
+    "examples": [
+      {
+        "english": "Timo was not like other children who preferred indoor activities.",
+        "german": "Timo war nicht wie andere Kinder, die lieber drinnen spielten."
+      }
+    ]
+  },
+  "andere": {
+    "german": "andere",
+    "english": "other",
+    "examples": [
+      {
+        "english": "Timo had a special bond with animals, unlike other children.",
+        "german": "Timo hatte eine besondere Verbindung zu Tieren, im Gegensatz zu anderen Kindern."
+      }
+    ]
+  },
+  "Kinder": {
+    "german": "Kinder",
+    "english": "children",
+    "examples": [
+      {
+        "english": "Timo enjoyed playing with the village children.",
+        "german": "Timo spielte gerne mit den Kindern aus dem Dorf."
+      }
+    ]
+  },
+  "Er": {
+    "german": "Er",
+    "english": "He",
+    "examples": [
+      {
+        "english": "He had the ability to communicate with animals.",
+        "german": "Er hatte die Fähigkeit, mit Tieren zu kommunizieren."
+      }
+    ]
+  },
+  "konnte": {
+    "german": "konnte",
+    "english": "could",
+    "examples": [
+      {
+        "english": "He could understand their language.",
+        "german": "Er konnte ihre Sprache verstehen."
+      }
+    ]
+  },
+  "mit": {
+    "german": "mit",
+    "english": "with",
+    "examples": [
+      {
+        "english": "He could have conversations with animals.",
+        "german": "Er konnte Gespräche mit Tieren führen."
+      }
+    ]
+  },
+  "Tieren": {
+    "german": "Tieren",
+    "english": "animals",
+    "examples": [
+      {
+        "english": "He spent his time in the woods with his animal friends.",
+        "german": "Er verbrachte seine Zeit mit seinen tierischen Freunden im Wald."
+      }
+    ]
+  },
+  "sprechen": {
+    "german": "sprechen",
+    "english": "speak",
+    "examples": [
+      {
+        "english": "Timo had the amazing ability to speak the language of animals.",
+        "german": "Timo hatte die erstaunliche Fähigkeit, die Sprache der Tiere zu sprechen."
+      }
+    ]
+  },
+  "verbrachte": {
+    "german": "verbrachte",
+    "english": "spent",
+    "examples": [
+      {
+        "english": "He spent most of his time in the company of animals.",
+        "german": "Er verbrachte die meiste Zeit in Gesellschaft von Tieren."
+      }
+    ]
+  },
+  "seine": {
+    "german": "seine",
+    "english": "his",
+    "examples": [
+      {
+        "english": "His animal friends were his closest companions.",
+        "german": "Seine tierischen Freunde waren seine engsten Begleiter."
+      }
+    ]
+  },
+  "Zeit": {
+    "german": "Zeit",
+    "english": "time",
+    "examples": [
+      {
+        "english": "He cherished the time he spent in nature.",
+        "german": "Er schätzte die Zeit, die er in der Natur verbrachte."
+      }
+    ]
+  },
+  "lieber": {
+    "german": "lieber",
+    "english": "preferably",
+    "examples": [
+      {
+        "english": "He preferred the company of animals over working in the fields.",
+        "german": "Er zog die Gesellschaft von Tieren der Feldarbeit vor."
+      }
+    ]
+  },
+  "in": {
+    "german": "in",
+    "english": "in",
+    "examples": [
+      {
+        "english": "He found solace in the peacefulness of the woods.",
+        "german": "Er fand Trost in der Ruhe des Waldes."
+      }
+    ]
+  },
+  "den": {
+    "german": "den",
+    "english": "the",
+    "examples": [
+      {
+        "english": "He often wandered deep into the heart of the forest.",
+        "german": "Er streifte oft tief in das Herz des Waldes."
+      }
+    ]
+  },
+  "Wäldern": {
+    "german": "Wäldern",
+    "english": "woods",
+    "examples": [
+      {
+        "english": "He felt a deep connection with the enchanting woods.",
+        "german": "Er spürte eine tiefe Verbindung zu den bezaubernden Wäldern."
+      }
+    ]
+  },
+  "mit": {
+    "german": "mit",
+    "english": "with",
+    "examples": [
+      {
+        "english": "He formed strong friendships with the animals in the woods.",
+        "german": "Er schloss starke Freundschaften mit den Tieren im Wald."
+      }
+    ]
+  },
+  "seinen": {
+    "german": "seinen",
+    "english": "his",
+    "examples": [
+      {
+        "english": "His animal friends were always by his side.",
+        "german": "Seine tierischen Freunde waren immer an seiner Seite."
+      }
+    ]
+  },
+  "tierischen": {
+    "german": "tierischen",
+    "english": "animal",
+    "examples": [
+      {
+        "english": "He felt a deep kinship with the animal inhabitants of the forest.",
+        "german": "Er fühlte eine tiefe Verbundenheit mit den tierischen Bewohnern des Waldes."
+      }
+    ]
+  },
+  "Freunden": {
+    "german": "Freunden",
+    "english": "friends",
+    "examples": [
+      {
+        "english": "His animal friends were his source of joy and companionship.",
+        "german": "Seine tierischen Freunde waren seine Quelle der Freude und Gemeinschaft."
+      }
+    ]
+  },
+  "als": {
+    "german": "als",
+    "english": "than",
+    "examples": [
+      {
+        "english": "He felt more at ease in the presence of animals than humans.",
+        "german": "Er fühlte sich in der Gegenwart von Tieren wohler als in der von Menschen."
+      }
+    ]
+  },
+  "auf": {
+    "german": "auf",
+    "english": "on",
+    "examples": [
+      {
+        "english": "He relied on his animal friends for comfort and companionship.",
+        "german": "Er vertraute auf seine tierischen Freunde für Trost und Gesellschaft."
+      }
+    ]
+  },
+  "Feldern": {
+    "german": "Feldern",
+    "english": "fields",
+    "examples": [
+      {
+        "english": "He found little interest in working on the fields like other villagers.",
+        "german": "Er hatte wenig Interesse daran, wie andere Dorfbewohner auf den Feldern zu arbeiten."
+      }
+    ]
+  },
+  "Tages": {
+    "german": "Tages",
+    "english": "day",
+    "examples": [
+      {
+        "english": "One day, Timo noticed something strange in the behavior of his animal friends.",
+        "german": "Eines Tages bemerkte Timo etwas Seltsames im Verhalten seiner tierischen Freunde."
+      }
+    ]
+  },
+  "bemerkte": {
+    "german": "bemerkte",
+    "english": "noticed",
+    "examples": [
+      {
+        "english": "He noticed that his animal friends were restless and anxious.",
+        "german": "Er bemerkte, dass seine tierischen Freunde unruhig und ängstlich waren."
+      }
+    ]
+  },
+  "dass": {
+    "german": "dass",
+    "english": "that",
+    "examples": [
+      {
+        "english": "He sensed that something was not right.",
+        "german": "Er spürte, dass etwas nicht stimmte."
+      }
+    ]
+  },
+  "seine": {
+    "german": "seine",
+    "english": "his",
+    "examples": [
+      {
+        "english": "His beloved animals were behaving strangely.",
+        "german": "Seine geliebten Tiere verhielten sich seltsam."
+      }
+    ]
+  },
+  "geliebten": {
+    "german": "geliebten",
+    "english": "beloved",
+    "examples": [
+      {
+        "english": "He grew concerned about his beloved animals.",
+        "german": "Er machte sich Sorgen um seine geliebten Tiere."
+      }
+    ]
+  },
+  "Tiere": {
+    "german": "Tiere",
+    "english": "animals",
+    "examples": [
+      {
+        "english": "The animals seemed to be communicating something to Timo.",
+        "german": "Die Tiere schienen Timo etwas mitteilen zu wollen."
+      }
+    ]
+  },
+  "sich": {
+    "german": "sich",
+    "english": "themselves",
+    "examples": [
+      {
+        "english": "The animals were behaving in a way that Timo had never seen before.",
+        "german": "Die Tiere verhielten sich auf eine Weise, wie Timo es noch nie zuvor gesehen hatte."
+      }
+    ]
+  },
+  "seltsam": {
+    "german": "seltsam",
+    "english": "strange",
+    "examples": [
+      {
+        "english": "Timo sensed that something strange was happening.",
+        "german": "Timo spürte, dass etwas Seltsames geschah."
+      }
+    ]
+  },
+  "verhielten": {
+    "german": "verhielten",
+    "english": "behaved",
+    "examples": [
+      {
+        "english": "The animals behaved in an unusual manner.",
+        "german": "Die Tiere verhielten sich auf ungewöhnliche Weise."
+      }
+    ]
+  },
+  "unruhig": {
+    "german": "unruhig",
+    "english": "restless",
+    "examples": [
+      {
+        "english": "The animals seemed restless and uneasy.",
+        "german": "Die Tiere schienen unruhig und unbehaglich zu sein."
+      }
+    ]
+  },
+  "ängstlich": {
+    "german": "ängstlich",
+    "english": "anxious",
+    "examples": [
+      {
+        "english": "The animals appeared anxious and afraid.",
+        "german": "Die Tiere wirkten ängstlich und ängstlich."
+      }
+    ]
+  },
+  "Irgendetwas": {
+    "german": "Irgendetwas",
+    "english": "Something",
+    "examples": [
+      {
+        "english": "Something was clearly bothering the animals.",
+        "german": "Irgendetwas bedrückte die Tiere deutlich."
+      }
+    ]
+  },
+  "stimmte": {
+    "german": "stimmte",
+    "english": "was wrong",
+    "examples": [
+      {
+        "english": "Timo knew that something was wrong.",
+        "german": "Timo wusste, dass etwas nicht stimmte."
+      }
+    ]
+  },
+  "folgte": {
+    "german": "folgte",
+    "english": "followed",
+    "examples": [
+      {
+        "english": "Timo followed his animal friends into the depths of the forest.",
+        "german": "Timo folgte seinen tierischen Freunden in die Tiefen des Waldes."
+      }
+    ]
+  },
+  "tief": {
+    "german": "tief",
+    "english": "deep",
+    "examples": [
+      {
+        "english": "They ventured deep into the heart of the forest.",
+        "german": "Sie wagten sich tief in das Herz des Waldes."
+      }
+    ]
+  },
+  "Wald": {
+    "german": "Wald",
+    "english": "forest",
+    "examples": [
+      {
+        "english": "They entered the dense forest.",
+        "german": "Sie betraten den dichten Wald."
+      }
+    ]
+  },
+  "sah": {
+    "german": "sah",
+    "english": "saw",
+    "examples": [
+      {
+        "english": "Timo saw a large, dark figure in the shadows.",
+        "german": "Timo sah eine große, dunkle Gestalt im Schatten."
+      }
+    ]
+  },
+  "eine": {
+    "german": "eine",
+    "english": "a",
+    "examples": [
+      {
+        "english": "He encountered a mysterious creature in the forest.",
+        "german": "Er begegnete einer mysteriösen Kreatur im Wald."
+      }
+    ]
+  },
+  "große": {
+    "german": "große",
+    "english": "large",
+    "examples": [
+      {
+        "english": "The figure was of a large size, towering over the trees.",
+        "german": "Die Gestalt war von großer Größe und ragte über die Bäume hinaus."
+      }
+    ]
+  },
+  "dunkle": {
+    "german": "dunkle",
+    "english": "dark",
+    "examples": [
+      {
+        "english": "The dark figure seemed to blend with the shadows.",
+        "german": "Die dunkle Gestalt schien mit den Schatten zu verschmelzen."
+      }
+    ]
+  },
+  "Gestalt": {
+    "german": "Gestalt",
+    "english": "figure",
+    "examples": [
+      {
+        "english": "The mysterious figure caught Timo's attention.",
+        "german": "Die geheimnisvolle Gestalt erregte Timos Aufmerksamkeit."
+      }
+    ]
+  },
+  "im": {
+    "german": "im",
+    "english": "in the",
+    "examples": [
+      {
+        "english": "It was hiding in the deepest part of the forest.",
+        "german": "Sie verbarg sich im tiefsten Teil des Waldes."
+      }
+    ]
+  },
+  "Schatten": {
+    "german": "Schatten",
+    "english": "shadows",
+    "examples": [
+      {
+        "english": "The figure lurked in the shadows, unseen by most.",
+        "german": "Die Gestalt lauerte in den Schatten und wurde von den meisten unbemerkt."
+      }
+    ]
+  },
+  "Ein": {
+    "german": "Ein",
+    "english": "A",
+    "examples": [
+      {
+        "english": "A feeling of curiosity overcame Timo.",
+        "german": "Ein Gefühl der Neugier überkam Timo."
+      }
+    ]
+  },
+  "riesiger": {
+    "german": "riesiger",
+    "english": "giant",
+    "examples": [
+      {
+        "english": "Timo encountered a giant bear in the forest.",
+        "german": "Timo traf im Wald auf einen riesigen Bären."
+      }
+    ]
+  },
+  "Bär": {
+    "german": "Bär",
+    "english": "bear",
+    "examples": [
+      {
+        "english": "The bear seemed lost and afraid.",
+        "german": "Der Bär schien sich verirrt und ängstlich zu fühlen."
+      }
+    ]
+  },
+  "sich": {
+    "german": "sich",
+    "english": "himself",
+    "examples": [
+      {
+        "english": "The bear found himself lost in the unfamiliar territory.",
+        "german": "Der Bär hatte sich in dem unbekannten Gebiet verirrt."
+      }
+    ]
+  },
+  "im": {
+    "german": "im",
+    "english": "in the",
+    "examples": [
+      {
+        "english": "He had lost his way in the dense forest.",
+        "german": "Er hatte sich im dichten Wald verirrt."
+      }
+    ]
+  },
+  "Wald": {
+    "german": "Wald",
+    "english": "forest",
+    "examples": [
+      {
+        "english": "The bear was frightened in the unfamiliar forest.",
+        "german": "Der Bär war im unbekannten Wald verängstigt."
+      }
+    ]
+  },
+  "verirrt": {
+    "german": "verirrt",
+    "english": "lost",
+    "examples": [
+      {
+        "english": "The bear had lost his way and was in distress.",
+        "german": "Der Bär hatte sich verirrt und war in Not."
+      }
+    ]
+  },
+  "hatte": {
+    "german": "hatte",
+    "english": "had",
+    "examples": [
+      {
+        "english": "The bear had been wandering aimlessly for days.",
+        "german": "Der Bär hatte tagelang ziellos umhergeirrt."
+      }
+    ]
+  },
+  "Angst": {
+    "german": "Angst",
+    "english": "fear",
+    "examples": [
+      {
+        "english": "The bear was filled with fear and anxiety.",
+        "german": "Der Bär war voller Angst und Sorge."
+      }
+    ]
+  },
+  "keine": {
+    "german": "keine",
+    "english": "no",
+    "examples": [
+      {
+        "english": "Timo had no fear as he approached the bear.",
+        "german": "Timo hatte keine Angst, als er sich dem Bären näherte."
+      }
+    ]
+  },
+  "ging": {
+    "german": "ging",
+    "english": "went",
+    "examples": [
+      {
+        "english": "Timo went towards the bear with a gentle voice.",
+        "german": "Timo ging mit sanfter Stimme auf den Bären zu."
+      }
+    ]
+  },
+  "auf": {
+    "german": "auf",
+    "english": "towards",
+    "examples": [
+      {
+        "english": "He approached the bear with a calm demeanor.",
+        "german": "Er ging auf den Bären mit ruhiger Gelassenheit zu."
+      }
+    ]
+  },
+  "den": {
+    "german": "den",
+    "english": "the",
+    "examples": [
+      {
+        "english": "Timo spoke to the bear, trying to calm him down.",
+        "german": "Timo sprach mit dem Bären und versuchte, ihn zu beruhigen."
+      }
+    ]
+  },
+  "Bären": {
+    "german": "Bären",
+    "english": "bear",
+    "examples": [
+      {
+        "english": "Timo had a conversation with the bear, understanding his fears.",
+        "german": "Timo führte ein Gespräch mit dem Bären und verstand seine Ängste."
+      }
+    ]
+  },
+  "sanfter": {
+    "german": "sanfter",
+    "english": "gentle",
+    "examples": [
+      {
+        "english": "Timo used a gentle tone to communicate with the bear.",
+        "german": "Timo verwendete einen sanften Ton, um mit dem Bären zu kommunizieren."
+      }
+    ]
+  },
+  "Stimme": {
+    "german": "Stimme",
+    "english": "voice",
+    "examples": [
+      {
+        "english": "Timo's soothing voice had a calming effect on the bear.",
+        "german": "Die beruhigende Stimme von Timo hatte eine beruhigende Wirkung auf den Bären."
+      }
+    ]
+  },
+  "überrascht": {
+    "german": "überrascht",
+    "english": "surprised",
+    "examples": [
+      {
+        "english": "The bear was surprised to hear a human speaking its language.",
+        "german": "Der Bär war überrascht, einen Menschen zu hören, der seine Sprache sprach."
+      }
+    ]
+  },
+  "denn": {
+    "german": "denn",
+    "english": "because",
+    "examples": [
+      {
+        "english": "The bear was taken aback, as it had never encountered a human who could speak its language.",
+        "german": "Der Bär war überrascht, denn er hatte noch nie einen Menschen getroffen, der seine Sprache sprach."
+      }
+    ]
+  },
+  "er": {
+    "german": "er",
+    "english": "he",
+    "examples": [
+      {
+        "english": "He had never met a human who could understand him.",
+        "german": "Er hatte noch nie einen Menschen getroffen, der ihn verstehen konnte."
+      }
+    ]
+  },
+  "noch": {
+    "german": "noch",
+    "english": "never",
+    "examples": [
+      {
+        "english": "He had never encountered a human who shared his ability to communicate with animals.",
+        "german": "Er hatte noch nie einen Menschen getroffen, der seine Fähigkeit hatte, mit Tieren zu kommunizieren."
+      }
+    ]
+  },
+  "nie": {
+    "german": "nie",
+    "english": "never",
+    "examples": [
+      {
+        "english": "The bear had never experienced such a connection with a human before.",
+        "german": "Der Bär hatte zuvor noch nie eine solche Verbindung zu einem Menschen erlebt."
+      }
+    ]
+  },
+  "einen": {
+    "german": "einen",
+    "english": "a",
+    "examples": [
+      {
+        "english": "He had never encountered a human like Timo.",
+        "german": "Er hatte noch nie einen Menschen wie Timo getroffen."
+      }
+    ]
+  },
+  "Menschen": {
+    "german": "Menschen",
+    "english": "human",
+    "examples": [
+      {
+        "english": "The bear had never come across a human who could communicate with animals like Timo.",
+        "german": "Der Bär hatte noch nie einen Menschen getroffen, der wie Timo mit Tieren kommunizieren konnte."
+      }
+    ]
+  },
+  "getroffen": {
+    "german": "getroffen",
+    "english": "met",
+    "examples": [
+      {
+        "english": "The bear had never met someone like Timo before.",
+        "german": "Der Bär hatte zuvor noch nie jemanden wie Timo getroffen."
+      }
+    ]
+  },
+  "Sprache": {
+    "german": "Sprache",
+    "english": "language",
+    "examples": [
+      {
+        "english": "Timo's ability to speak the bear's language amazed everyone.",
+        "german": "Die Fähigkeit von Timo, die Sprache des Bären zu sprechen, erstaunte alle."
+      }
+    ]
+  },
+  "Mit": {
+    "german": "Mit",
+    "english": "With",
+    "examples": [
+      {
+        "english": "With Timo's help, the bear found its way back to its home.",
+        "german": "Mit Timos Hilfe fand der Bär den Weg zurück in seine Heimat."
+      }
+    ]
+  },
+  "Hilfe": {
+    "german": "Hilfe",
+    "english": "help",
+    "examples": [
+      {
+        "english": "The bear was grateful for Timo's help.",
+        "german": "Der Bär war Timo für seine Hilfe dankbar."
+      }
+    ]
+  },
+  "fand": {
+    "german": "fand",
+    "english": "found",
+    "examples": [
+      {
+        "english": "With Timo's guidance, the bear found its way back to safety.",
+        "german": "Mit Timos Anleitung fand der Bär seinen Weg zurück zur Sicherheit."
+      }
+    ]
+  },
+  "den": {
+    "german": "den",
+    "english": "the",
+    "examples": [
+      {
+        "english": "The bear found the path that led back to its home.",
+        "german": "Der Bär fand den Weg zurück zu seiner Heimat."
+      }
+    ]
+  },
+  "Weg": {
+    "german": "Weg",
+    "english": "way",
+    "examples": [
+      {
+        "english": "The bear finally found its way home, thanks to Timo's assistance.",
+        "german": "Der Bär fand schließlich dank Timos Hilfe den Weg nach Hause."
+      }
+    ]
+  },
+  "zurück": {
+    "german": "zurück",
+    "english": "back",
+    "examples": [
+      {
+        "english": "The bear was relieved to be back in its familiar territory.",
+        "german": "Der Bär war erleichtert, wieder in seinem vertrauten Gebiet zu sein."
+      }
+    ]
+  },
+  "seine": {
+    "german": "seine",
+    "english": "its",
+    "examples": [
+      {
+        "english": "The bear was grateful to have found its way back to its home.",
+        "german": "Der Bär war dankbar, seinen Weg zurück in seine Heimat gefunden zu haben."
+      }
+    ]
+  },
+  "Heimat": {
+    "german": "Heimat",
+    "english": "home",
+    "examples": [
+      {
+        "english": "The bear was relieved to return to the safety of its home.",
+        "german": "Der Bär war erleichtert, zur Sicherheit seiner Heimat zurückzukehren."
+      }
+    ]
+  },
+  "Die": {
+    "german": "Die",
+    "english": "The",
+    "examples": [
+      {
+        "english": "The other animals celebrated Timo as their hero.",
+        "german": "Die anderen Tiere feierten Timo als ihren Helden."
+      }
+    ]
+  },
+  "Tiere": {
+    "german": "Tiere",
+    "english": "animals",
+    "examples": [
+      {
+        "english": "The animals in the forest considered Timo their savior.",
+        "german": "Die Tiere im Wald betrachteten Timo als ihren Retter."
+      }
+    ]
+  },
+  "feierten": {
+    "german": "feierten",
+    "english": "celebrated",
+    "examples": [
+      {
+        "english": "The animals celebrated Timo's bravery and kindness.",
+        "german": "Die Tiere feierten Timos Tapferkeit und Freundlichkeit."
+      }
+    ]
+  },
+  "als": {
+    "german": "als",
+    "english": "as",
+    "examples": [
+      {
+        "english": "They regarded Timo as a true friend and protector.",
+        "german": "Sie betrachteten Timo als einen wahren Freund und Beschützer."
+      }
+    ]
+  },
+  "ihren": {
+    "german": "ihren",
+    "english": "their",
+    "examples": [
+      {
+        "english": "The animals considered Timo as their guardian and guide.",
+        "german": "Die Tiere betrachteten Timo als ihren Beschützer und Führer."
+      }
+    ]
+  },
+  "Retter": {
+    "german": "Retter",
+    "english": "savior",
+    "examples": [
+      {
+        "english": "Timo's bravery and compassion made him the animals' savior.",
+        "german": "Timos Tapferkeit und Mitgefühl machten ihn zum Retter der Tiere."
+      }
+    ]
+  },
+  "Fritz": {
+    "german": "Fritz",
+    "english": "Fritz",
+    "examples": [
+      {
+        "german": "Fritz ist ein kleiner Hund.",
+        "english": "Fritz is a small dog."
+      }
+    ],
+    "pronoun": "der"
+  },
+  "wohnte": {
+    "german": "wohnte",
+    "english": "lived",
+    "examples": [
+      {
+        "german": "Fritz wohnte in einer ruhigen Stadt.",
+        "english": "Fritz lived in a quiet city."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "in": {
+    "german": "in",
+    "english": "in",
+    "pronoun": "",
+    "plural": false
+  },
+  "ruhigen": {
+    "german": "ruhigen",
+    "english": "quiet",
+    "examples": [
+      {
+        "german": "Fritz wohnte in einer ruhigen Stadt.",
+        "english": "Fritz lived in a quiet city."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "mit": {
+    "german": "mit",
+    "english": "with",
+    "examples": [
+      {
+        "german": "Fritz wohnte in einer ruhigen Stadt mit seiner Familie.",
+        "english": "Fritz lived in a quiet city with his family."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "seiner": {
+    "german": "seiner",
+    "english": "his",
+    "pronoun": "",
+    "plural": false
+  },
+  "Schmetterlingen": {
+    "german": "Schmetterling",
+    "english": "butterfly",
+    "examples": [
+      {
+        "german": "Fritz liebte es, im Park zu spielen und nach Schmetterlingen zu jagen.",
+        "english": "Fritz loved to play in the park and chase butterflies."
+      }
+    ],
+    "pronoun": "die"
+  },
+  "Eines": {
+    "german": "Eines",
+    "english": "One",
+    "examples": [
+      {
+        "german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.",
+        "english": "One day, he saw a particularly beautiful butterfly and chased after it."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Tages": {
+    "german": "Tages",
+    "english": "day",
+    "examples": [
+      {
+        "german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.",
+        "english": "One day, he saw a particularly beautiful butterfly and chased after it."
+      }
+    ],
+    "pronoun": "der"
+  },
+  "sah": {
+    "german": "sah",
+    "english": "saw",
+    "examples": [
+      {
+        "german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.",
+        "english": "One day, he saw a particularly beautiful butterfly and chased after it."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "einen": {
+    "german": "einen",
+    "english": "a",
+    "examples": [
+      {
+        "german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.",
+        "english": "One day, he saw a particularly beautiful butterfly and chased after it."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "besonders": {
+    "german": "besonders",
+    "english": "particularly",
+    "examples": [
+      {
+        "german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.",
+        "english": "One day, he saw a particularly beautiful butterfly and chased after it."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "schönen": {
+    "german": "schönen",
+    "english": "beautiful",
+    "examples": [
+      {
+        "german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.",
+        "english": "One day, he saw a particularly beautiful butterfly and chased after it."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "rannte": {
+    "german": "rannte",
+    "english": "ran",
+    "examples": [
+      {
+        "german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.",
+        "english": "One day, he saw a particularly beautiful butterfly and ran after it."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "hinterher": {
+    "german": "hinterher",
+    "english": "after it",
+    "examples": [
+      {
+        "german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.",
+        "english": "One day, he saw a particularly beautiful butterfly and ran after it."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "flog": {
+    "german": "flog",
+    "english": "flew",
+    "examples": [
+      {
+        "german": "Der Schmetterling flog hoch in den Himmel.",
+        "english": "The butterfly flew high into the sky."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "hoch": {
+    "german": "hoch",
+    "english": "high",
+    "examples": [
+      {
+        "german": "Der Schmetterling flog hoch in den Himmel.",
+        "english": "The butterfly flew high into the sky."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "den": {
+    "german": "den",
+    "english": "the",
+    "pronoun": "den",
+    "plural": false
+  },
+  "Himmel": {
+    "german": "Himmel",
+    "english": "sky",
+    "examples": [
+      {
+        "german": "Der Schmetterling flog hoch in den Himmel.",
+        "english": "The butterfly flew high into the sky."
+      }
+    ],
+    "pronoun": "der"
+  },
+  "verlor": {
+    "german": "verlor",
+    "english": "lost",
+    "examples": [
+      {
+        "german": "Fritz verlor sich in der Stadt.",
+        "english": "Fritz got lost in the city."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "sich": {
+    "german": "sich",
+    "english": "himself",
+    "pronoun": "",
+    "plural": false
+  },
+  "der": {
+    "german": "der",
+    "english": "the",
+    "pronoun": "der",
+    "plural": false
+  },
+  "Stadt": {
+    "german": "Stadt",
+    "english": "city",
+    "examples": [
+      {
+        "german": "Fritz verlor sich in der Stadt.",
+        "english": "Fritz got lost in the city."
+      }
+    ],
+    "pronoun": "die"
+  },
+  "war": {
+    "german": "war",
+    "english": "was",
+    "pronoun": "",
+    "plural": false
+  },
+  "ängstlich": {
+    "german": "ängstlich",
+    "english": "anxious",
+    "examples": [
+      {
+        "german": "Er war sehr ängstlich und wusste nicht, wo er war.",
+        "english": "He was very anxious and didn't know where he was."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "und": {
+    "german": "und",
+    "english": "and",
+    "pronoun": "",
+    "plural": false
+  },
+  "wusste": {
+    "german": "wusste",
+    "english": "knew",
+    "examples": [
+      {
+        "german": "Er war sehr ängstlich und wusste nicht, wo er war.",
+        "english": "He was very anxious and didn't know where he was."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "nicht": {
+    "german": "nicht",
+    "english": "not",
+    "examples": [
+      {
+        "german": "Er war sehr ängstlich und wusste nicht, wo er war.",
+        "english": "He was very anxious and didn't know where he was."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "wo": {
+    "german": "wo",
+    "english": "where",
+    "examples": [
+      {
+        "german": "Er war sehr ängstlich und wusste nicht, wo er war.",
+        "english": "He was very anxious and didn't know where he was."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "er": {
+    "german": "er",
+    "english": "he",
+    "pronoun": "er",
+    "plural": false
+  },
+  "versuchte": {
+    "german": "versuchte",
+    "english": "tried",
+    "examples": [
+      {
+        "german": "Er versuchte den Weg nach Hause zu finden.",
+        "english": "He tried to find the way home."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Weg": {
+    "german": "Weg",
+    "english": "way",
+    "examples": [
+      {
+        "german": "Er versuchte den Weg nach Hause zu finden.",
+        "english": "He tried to find the way home."
+      }
+    ],
+    "pronoun": "der"
+  },
+  "aber": {
+    "german": "aber",
+    "english": "but",
+    "examples": [
+      {
+        "german": "Aber es war alles so anders.",
+        "english": "But everything was so different."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "es": {
+    "german": "es",
+    "english": "it",
+    "examples": [
+      {
+        "german": "Aber es war alles so anders.",
+        "english": "But everything was so different."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "alles": {
+    "german": "alles",
+    "english": "everything",
+    "examples": [
+      {
+        "german": "Aber es war alles so anders.",
+        "english": "But everything was so different."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "so": {
+    "german": "so",
+    "english": "so",
+    "examples": [
+      {
+        "german": "Aber es war alles so anders.",
+        "english": "But everything was so different."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "anders": {
+    "german": "anders",
+    "english": "different",
+    "examples": [
+      {
+        "german": "Aber es war alles so anders.",
+        "english": "But everything was so different."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "traurig": {
+    "german": "traurig",
+    "english": "sad",
+    "examples": [
+      {
+        "german": "Fritz war traurig und vermisste seine Familie sehr.",
+        "english": "Fritz was sad and missed his family a lot."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "vermisste": {
+    "german": "vermisste",
+    "english": "missed",
+    "examples": [
+      {
+        "german": "Fritz war traurig und vermisste seine Familie sehr.",
+        "english": "Fritz was sad and missed his family a lot."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Er": {
+    "german": "Er",
+    "english": "He",
+    "pronoun": "Er",
+    "plural": false
+  },
+  "saß": {
+    "german": "saß",
+    "english": "sat",
+    "examples": [
+      {
+        "german": "Er saß auf einer Bank und heulte leise.",
+        "english": "He sat on a bench and cried softly."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "auf": {
+    "german": "auf",
+    "english": "on",
+    "pronoun": "",
+    "plural": false
+  },
+  "einer": {
+    "german": "einer",
+    "english": "an",
+    "pronoun": "einer",
+    "plural": false
+  },
+  "Bank": {
+    "german": "Bank",
+    "english": "bench",
+    "examples": [
+      {
+        "german": "Er saß auf einer Bank und heulte leise.",
+        "english": "He sat on a bench and cried softly."
+      }
+    ],
+    "pronoun": "die"
+  },
+  "heulte": {
+    "german": "heulte",
+    "english": "cried",
+    "examples": [
+      {
+        "german": "Er saß auf einer Bank und heulte leise.",
+        "english": "He sat on a bench and cried softly."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "leise": {
+    "german": "leise",
+    "english": "softly",
+    "examples": [
+      {
+        "german": "Er saß auf einer Bank und heulte leise.",
+        "english": "He sat on a bench and cried softly."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Ein": {
+    "german": "Ein",
+    "english": "A",
+    "examples": [
+      {
+        "german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.",
+        "english": "A little girl named Lisa heard his crying."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "kleines": {
+    "german": "kleines",
+    "english": "little",
+    "examples": [
+      {
+        "german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.",
+        "english": "A little girl named Lisa heard his crying."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Mädchen": {
+    "german": "Mädchen",
+    "english": "girl",
+    "examples": [
+      {
+        "german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.",
+        "english": "A little girl named Lisa heard his crying."
+      }
+    ],
+    "pronoun": "das"
+  },
+  "namens": {
+    "german": "namens",
+    "english": "named",
+    "examples": [
+      {
+        "german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.",
+        "english": "A little girl named Lisa heard his crying."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "hörte": {
+    "german": "hörte",
+    "english": "heard",
+    "examples": [
+      {
+        "german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.",
+        "english": "A little girl named Lisa heard his crying."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "sein": {
+    "german": "sein",
+    "english": "his",
+    "examples": [
+      {
+        "german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.",
+        "english": "A little girl named Lisa heard his crying."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Weinen": {
+    "german": "Weinen",
+    "english": "crying",
+    "examples": [
+      {
+        "german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.",
+        "english": "A little girl named Lisa heard his crying."
+      }
+    ],
+    "pronoun": "das"
+  },
+  "traurigen": {
+    "german": "traurigen",
+    "english": "sad",
+    "examples": [
+      {
+        "german": "Sie sah den traurigen Hund.",
+        "english": "She saw the sad dog."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Hund": {
+    "german": "Hund",
+    "english": "dog",
+    "examples": [
+      {
+        "german": "Sie sah den traurigen Hund.",
+        "english": "She saw the sad dog."
+      }
+    ],
+    "pronoun": "der"
+  },
+  "entschied": {
+    "german": "entschied",
+    "english": "decided",
+    "examples": [
+      {
+        "german": "Sie entschied, ihm zu helfen.",
+        "english": "She decided to help him."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "ihm": {
+    "german": "ihm",
+    "english": "him",
+    "pronoun": "",
+    "plural": false
+  },
+  "zu": {
+    "german": "zu",
+    "english": "to",
+    "pronoun": "",
+    "plural": false
+  },
+  "helfen": {
+    "german": "helfen",
+    "english": "help",
+    "examples": [
+      {
+        "german": "Sie entschied, ihm zu helfen.",
+        "english": "She decided to help him."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "kannte": {
+    "german": "kannte",
+    "english": "knew",
+    "examples": [
+      {
+        "german": "Lisa kannte sich gut in der Stadt aus.",
+        "english": "Lisa knew her way around the city."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "gut": {
+    "german": "gut",
+    "english": "well",
+    "examples": [
+      {
+        "german": "Lisa kannte sich gut in der Stadt aus.",
+        "english": "Lisa knew her way around the city."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "aus": {
+    "german": "aus",
+    "english": "around",
+    "examples": [
+      {
+        "german": "Lisa kannte sich gut in der Stadt aus.",
+        "english": "Lisa knew her way around the city."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "führte": {
+    "german": "führte",
+    "english": "led",
+    "examples": [
+      {
+        "german": "Sie führte Fritz sicher nach Hause.",
+        "english": "She led Fritz safely home."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "sicher": {
+    "german": "sicher",
+    "english": "safely",
+    "examples": [
+      {
+        "german": "Sie führte Fritz sicher nach Hause.",
+        "english": "She led Fritz safely home."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "nach": {
+    "german": "nach",
+    "english": "for",
+    "pronoun": "",
+    "plural": false
+  },
+  "Hause": {
+    "german": "Hause",
+    "english": "home",
+    "examples": [
+      {
+        "german": "Sie führte Fritz sicher nach Hause.",
+        "english": "She led Fritz safely home."
+      }
+    ],
+    "pronoun": "das"
+  },
+  "Als": {
+    "german": "Als",
+    "english": "When",
+    "pronoun": "",
+    "plural": false
+  },
+  "seine": {
+    "german": "seine",
+    "english": "his",
+    "examples": [
+      {
+        "german": "Als Fritz seine Familie wieder sah,",
+        "english": "When Fritz saw his family again,"
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Familie": {
+    "german": "Familie",
+    "english": "family",
+    "examples": [
+      {
+        "german": "Als Fritz seine Familie wieder sah,",
+        "english": "When Fritz saw his family again,"
+      }
+    ],
+    "pronoun": "die"
+  },
+  "wieder": {
+    "german": "wieder",
+    "english": "again",
+    "pronoun": "",
+    "plural": false
+  },
+  "glücklich": {
+    "german": "glücklich",
+    "english": "happy",
+    "examples": [
+      {
+        "german": "war er so glücklich,",
+        "english": "he was so happy,"
+      }
+    ],
+    "pronoun": "-"
+  },
+  "dass": {
+    "german": "dass",
+    "english": "that",
+    "pronoun": "",
+    "plural": false
+  },
+  "vor": {
+    "german": "vor",
+    "english": "with",
+    "examples": [
+      {
+        "german": "dass er vor Freude bellte.",
+        "english": "that he barked with joy."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Freude": {
+    "german": "Freude",
+    "english": "joy",
+    "examples": [
+      {
+        "german": "dass er vor Freude bellte.",
+        "english": "that he barked with joy."
+      }
+    ],
+    "pronoun": "die"
+  },
+  "bellte": {
+    "german": "bellte",
+    "english": "barked",
+    "examples": [
+      {
+        "german": "dass er vor Freude bellte.",
+        "english": "that he barked with joy."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Seit": {
+    "german": "Seit",
+    "english": "Since",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "diesem": {
+    "german": "diesem",
+    "english": "that",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Tag": {
+    "german": "Tag",
+    "english": "day",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "der"
+  },
+  "liebte": {
+    "german": "liebte",
+    "english": "loved",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "Lisa": {
+    "german": "Lisa",
+    "english": "Lisa",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "die"
+  },
+  "sehr": {
+    "german": "sehr",
+    "english": "very",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "besuchte": {
+    "german": "besuchte",
+    "english": "visited",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "sie": {
+    "german": "sie",
+    "english": "her",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "-"
+  },
+  "jeden": {
+    "german": "jeden",
+    "english": "every",
+    "pronoun": "",
+    "plural": false
+  },
+  "im": {
+    "german": "im",
+    "english": "in the",
+    "pronoun": "",
+    "plural": false
+  },
+  "Park": {
+    "german": "Park",
+    "english": "park",
+    "examples": [
+      {
+        "german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.",
+        "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."
+      }
+    ],
+    "pronoun": "der"
+  },
+  "Es": {
+    "german": "Es",
+    "english": "It",
+    "gender": "das",
+    "examples": [
+      {
+        "english": "It is a beautiful day.",
+        "german": "Es ist ein schöner Tag."
+      },
+      {
+        "english": "It is raining outside.",
+        "german": "Es regnet draußen."
+      }
+    ]
+  },
+  "war": {
+    "german": "war",
+    "english": "was",
+    "examples": [
+      {
+        "english": "He was at home yesterday.",
+        "german": "Er war gestern zu Hause."
+      },
+      {
+        "english": "The event was a success.",
+        "german": "Die Veranstaltung war ein Erfolg."
+      }
+    ]
+  },
+  "ein": {
+    "german": "ein",
+    "english": "a",
+    "gender": "ein",
+    "examples": [
+      {
+        "english": "I have a cat.",
+        "german": "Ich habe eine Katze."
+      },
+      {
+        "english": "She bought a new car.",
+        "german": "Sie hat ein neues Auto gekauft."
+      }
+    ]
+  },
+  "kalter": {
+    "german": "kalter",
+    "english": "cold",
+    "gender": "kalter",
+    "examples": [
+      {
+        "english": "I need a hot drink to warm up in this cold weather.",
+        "german": "Ich brauche ein heißes Getränk, um mich in diesem kalten Wetter aufzuwärmen."
+      },
+      {
+        "english": "He wore a warm jacket to protect himself from the cold.",
+        "german": "Er trug eine warme Jacke, um sich vor der Kälte zu schützen."
+      }
+    ]
+  },
+  "Winterabend": {
+    "german": "Winterabend",
+    "english": "winter evening",
+    "gender": "der",
+    "examples": [
+      {
+        "english": "Let's go for a walk on a winter evening.",
+        "german": "Lass uns an einem Winterabend spazieren gehen."
+      },
+      {
+        "english": "She loves reading by the fireplace on a cozy winter evening.",
+        "german": "Sie liebt es, an einem gemütlichen Winterabend am Kamin zu lesen."
+      }
+    ]
+  },
+  "in": {
+    "german": "in",
+    "english": "in",
+    "examples": [
+      {
+        "english": "He lives in Germany.",
+        "german": "Er lebt in Deutschland."
+      },
+      {
+        "english": "Let's meet in the park.",
+        "german": "Lass uns im Park treffen."
+      }
+    ]
+  },
+  "Berlin": {
+    "german": "Berlin",
+    "english": "Berlin",
+    "gender": "in",
+    "examples": [
+      {
+        "english": "She visited Berlin last summer.",
+        "german": "Sie hat im letzten Sommer Berlin besucht."
+      },
+      {
+        "english": "Berlin is known for its vibrant nightlife.",
+        "german": "Berlin ist für sein lebendiges Nachtleben bekannt."
+      }
+    ]
+  },
+  "Der": {
+    "german": "Der",
+    "english": "The",
+    "gender": "der",
+    "examples": [
+      {
+        "english": "The book is on the table.",
+        "german": "Das Buch liegt auf dem Tisch."
+      },
+      {
+        "english": "The cat is sleeping.",
+        "german": "Die Katze schläft."
+      }
+    ]
+  },
+  "berühmte": {
+    "german": "berühmte",
+    "english": "famous",
+    "examples": [
+      {
+        "english": "She is a famous actress.",
+        "german": "Sie ist eine berühmte Schauspielerin."
+      },
+      {
+        "english": "The museum houses many famous paintings.",
+        "german": "Das Museum beherbergt viele berühmte Gemälde."
+      }
+    ]
+  },
+  "Detektiv": {
+    "german": "Detektiv",
+    "english": "detective",
+    "gender": "den",
+    "examples": [
+      {
+        "english": "The detective solved the mystery.",
+        "german": "Der Detektiv löste das Rätsel."
+      },
+      {
+        "english": "She hired a private detective to find her missing dog.",
+        "german": "Sie engagierte einen Privatdetektiv, um ihren vermissten Hund zu finden."
+      }
+    ]
+  },
+  "Hans": {
+    "german": "Hans",
+    "english": "Hans",
+    "examples": [
+      {
+        "english": "Hans is a talented musician.",
+        "german": "Hans ist ein talentierter Musiker."
+      },
+      {
+        "english": "She went to school with Hans.",
+        "german": "Sie ging mit Hans zur Schule."
+      }
+    ]
+  },
+  "Bauer": {
+    "german": "Bauer",
+    "english": "Bauer",
+    "examples": [
+      {
+        "english": "The farmer works on his land.",
+        "german": "Der Bauer arbeitet auf seinem Land."
+      },
+      {
+        "english": "She bought fresh produce directly from the local Bauer.",
+        "german": "Sie kaufte frische Produkte direkt vom lokalen Bauer."
+      }
+    ]
+  },
+  "wurde": {
+    "german": "wurde",
+    "english": "was",
+    "examples": [
+      {
+        "english": "He was elected as the new president.",
+        "german": "Er wurde zum neuen Präsidenten gewählt."
+      },
+      {
+        "english": "The cake was baked by her mother.",
+        "german": "Der Kuchen wurde von ihrer Mutter gebacken."
+      }
+    ]
+  },
+  "zu": {
+    "german": "zu",
+    "english": "to",
+    "examples": [
+      {
+        "english": "Let's go to the movies tonight.",
+        "german": "Lass uns heute Abend ins Kino gehen."
+      },
+      {
+        "english": "She gave the gift to her friend.",
+        "german": "Sie gab das Geschenk ihrem Freund."
+      }
+    ]
+  },
+  "einem": {
+    "german": "einem",
+    "english": "a",
+    "gender": "einem",
+    "examples": [
+      {
+        "english": "I need a pen to write this letter.",
+        "german": "Ich brauche einen Stift, um diesen Brief zu schreiben."
+      },
+      {
+        "english": "She is going on a trip to Paris.",
+        "german": "Sie macht eine Reise nach Paris."
+      }
+    ]
+  },
+  "Fall": {
+    "german": "Fall",
+    "english": "case",
+    "gender": "ein",
+    "examples": [
+      {
+        "english": "The detective solved the mysterious case.",
+        "german": "Der Detektiv löste den geheimnisvollen Fall."
+      },
+      {
+        "english": "She presented her argument in court for the defense case.",
+        "german": "Sie präsentierte ihr Argument vor Gericht für den Verteidigungsfall."
+      }
+    ]
+  },
+  "gerufen": {
+    "german": "gerufen",
+    "english": "called",
+    "examples": [
+      {
+        "english": "She called her friend to invite her to the party.",
+        "german": "Sie rief ihre Freundin an, um sie zur Party einzuladen."
+      },
+      {
+        "english": "He was called to the principal's office.",
+        "german": "Er wurde zum Büro des Schulleiters gerufen."
+      }
+    ]
+  },
+  "bei": {
+    "german": "bei",
+    "english": "with",
+    "examples": [
+      {
+        "english": "She had dinner with her family.",
+        "german": "Sie hatte Abendessen bei ihrer Familie."
+      },
+      {
+        "english": "He is staying at a hotel during his visit to the city.",
+        "german": "Er wohnt bei einem Hotel während seines Besuchs in der Stadt."
+      }
+    ]
+  },
+  "dem": {
+    "german": "dem",
+    "english": "the",
+    "gender": "dem",
+    "examples": [
+      {
+        "english": "The book is on the shelf.",
+        "german": "Das Buch steht auf dem Regal."
+      },
+      {
+        "english": "She bought the dress from the store.",
+        "german": "Sie kaufte das Kleid im Geschäft."
+      }
+    ]
+  },
+  "Diebstahl": {
+    "german": "Diebstahl",
+    "english": "theft",
+    "gender": "der",
+    "examples": [
+      {
+        "english": "The theft of the car was reported to the police.",
+        "german": "Der Diebstahl des Autos wurde der Polizei gemeldet."
+      },
+      {
+        "english": "She was a victim of a robbery and reported the theft of her belongings.",
+        "german": "Sie war Opfer eines Raubüberfalls und meldete den Diebstahl ihrer Sachen."
+      }
+    ]
+  },
+  "eines": {
+    "german": "eines",
+    "english": "of a",
+    "gender": "eines",
+    "examples": [
+      {
+        "english": "She found a solution to the problem.",
+        "german": "Sie fand eine Lösung des Problems."
+      },
+      {
+        "english": "He gave a presentation on the history of art.",
+        "german": "Er hielt eine Präsentation über die Geschichte der Kunst."
+      }
+    ]
+  },
+  "wertvollen": {
+    "german": "wertvollen",
+    "english": "valuable",
+    "examples": [
+      {
+        "english": "She inherited a valuable antique from her grandmother.",
+        "german": "Sie erbte ein wertvolles Antiquitätenstück von ihrer Großmutter."
+      },
+      {
+        "english": "He keeps his valuable possessions in a safe.",
+        "german": "Er bewahrt seine wertvollen Besitztümer in einem Safe auf."
+      }
+    ]
+  },
+  "Gemäldes": {
+    "german": "Gemäldes",
+    "english": "painting",
+    "gender": "des",
+    "examples": [
+      {
+        "english": "The museum has a vast collection of famous paintings.",
+        "german": "Das Museum hat eine umfangreiche Sammlung berühmter Gemälde."
+      },
+      {
+        "english": "She is an artist who specializes in abstract paintings.",
+        "german": "Sie ist eine Künstlerin, die sich auf abstrakte Gemälde spezialisiert hat."
+      }
+    ]
+  },
+  "ging": {
+    "german": "ging",
+    "english": "was about",
+    "examples": [
+      {
+        "english": "The conversation went on for hours.",
+        "german": "Das Gespräch dauerte stundenlang an."
+      },
+      {
+        "english": "She went to the party but left early.",
+        "german": "Sie ging zur Party, verließ aber früh."
+      }
+    ]
+  },
+  "Das": {
+    "german": "Das",
+    "english": "The",
+    "gender": "das",
+    "examples": [
+      {
+        "english": "The movie was entertaining.",
+        "german": "Der Film war unterhaltsam."
+      },
+      {
+        "english": "She enjoyed the concert.",
+        "german": "Sie genoss das Konzert."
+      }
+    ]
+  },
+  "Gemälde": {
+    "german": "Gemälde",
+    "english": "painting",
+    "gender": "das",
+    "examples": [
+      {
+        "english": "The painting depicts a beautiful landscape.",
+        "german": "Das Gemälde stellt eine schöne Landschaft dar."
+      },
+      {
+        "english": "She bought a new frame for her favorite painting.",
+        "german": "Sie kaufte einen neuen Rahmen für ihr Lieblingsgemälde."
+      }
+    ]
+  },
+  "befand": {
+    "german": "befand",
+    "english": "was located",
+    "examples": [
+      {
+        "english": "The hotel was located near the beach.",
+        "german": "Das Hotel befand sich in der Nähe des Strandes."
+      },
+      {
+        "english": "She found herself in a situation she didn't expect.",
+        "german": "Sie befand sich in einer unerwarteten Situation."
+      }
+    ]
+  },
+  "sich": {
+    "german": "sich",
+    "english": "himself",
+    "examples": [
+      {
+        "english": "He enjoyed himself at the party.",
+        "german": "Er amüsierte sich auf der Party."
+      },
+      {
+        "english": "She found herself in a difficult situation.",
+        "german": "Sie befand sich in einer schwierigen Situation."
+      }
+    ]
+  },
+  "im": {
+    "german": "im",
+    "english": "in the",
+    "examples": [
+      {
+        "english": "She is currently living in the United States.",
+        "german": "Sie lebt derzeit in den Vereinigten Staaten."
+      },
+      {
+        "english": "He works in the marketing department of a multinational company.",
+        "german": "Er arbeitet in der Marketingabteilung eines multinationalen Unternehmens."
+      }
+    ]
+  },
+  "Besitz": {
+    "german": "Besitz",
+    "english": "possession",
+    "gender": "des",
+    "examples": [
+      {
+        "english": "The car is his most prized possession.",
+        "german": "Das Auto ist sein wertvollster Besitz."
+      },
+      {
+        "english": "She takes good care of her possessions.",
+        "german": "Sie kümmert sich gut um ihren Besitz."
+      }
+    ]
+  },
+  "von": {
+    "german": "von",
+    "english": "of",
+    "examples": [
+      {
+        "english": "She received a letter from her friend.",
+        "german": "Sie erhielt einen Brief von ihrer Freundin."
+      },
+      {
+        "english": "He is a professor of economics.",
+        "german": "Er ist Professor der Volkswirtschaftslehre."
+      }
+    ]
+  },
+  "Frau": {
+    "german": "Frau",
+    "english": "Mrs.",
+    "gender": "der",
+    "examples": [
+      {
+        "english": "Mrs. Schmidt is a respected teacher.",
+        "german": "Frau Schmidt ist eine angesehene Lehrerin."
+      },
+      {
+        "english": "She introduced herself as Mrs. Smith.",
+        "german": "Sie stellte sich als Frau Smith vor."
+      }
+    ]
+  },
+  "Schmidt": {
+    "german": "Schmidt",
+    "english": "Schmidt",
+    "examples": [
+      {
+        "english": "Mr. Schmidt is the CEO of the company.",
+        "german": "Herr Schmidt ist der CEO des Unternehmens."
+      },
+      {
+        "english": "She met Mr. Schmidt at the conference.",
+        "german": "Sie traf Herrn Schmidt auf der Konferenz."
+      }
+    ]
+  },
+  "einer": {
+    "german": "einer",
+    "english": "an",
+    "gender": "einer",
+    "examples": [
+      {
+        "english": "She is an artist.",
+        "german": "Sie ist eine Künstlerin."
+      },
+      {
+        "english": "He is an engineer.",
+        "german": "Er ist ein Ingenieur."
+      }
+    ]
+  },
+  "reichen": {
+    "german": "reichen",
+    "english": "wealthy",
+    "examples": [
+      {
+        "english": "She comes from a wealthy family.",
+        "german": "Sie stammt aus einer wohlhabenden Familie."
+      },
+      {
+        "english": "He enjoys the luxuries that come with being wealthy.",
+        "german": "Er genießt die Annehmlichkeiten, die mit dem Wohlstand einhergehen."
+      }
+    ]
+  },
+  "Kunstsammlerin": {
+    "german": "Kunstsammlerin",
+    "english": "art collector",
+    "gender": "einer",
+    "examples": [
+      {
+        "english": "She is an avid art collector.",
+        "german": "Sie ist eine begeisterte Kunstsammlerin."
+      },
+      {
+        "english": "He met a famous art collector at the gallery.",
+        "german": "Er traf einen bekannten Kunstsammler in der Galerie."
+      }
+    ]
+  },
+  "Als": {
+    "german": "Als",
+    "english": "When"
+  },
+  "ankam": {
+    "german": "ankam",
+    "english": "arrived"
+  },
+  "befragte": {
+    "german": "befragte",
+    "english": "questioned"
+  },
+  "er": {
+    "german": "er",
+    "english": "he"
+  },
+  "die": {
+    "german": "die",
+    "english": "the",
+    "gender": "die"
+  },
+  "Dienstboten": {
+    "german": "Dienstboten",
+    "english": "servants",
+    "gender": "die",
+    "plural": true
+  },
+  "und": {
+    "german": "und",
+    "english": "and"
+  },
+  "durchsuchte": {
+    "german": "durchsuchte",
+    "english": "searched"
+  },
+  "das": {
+    "german": "das",
+    "english": "the",
+    "gender": "das"
+  },
+  "Haus": {
+    "german": "Haus",
+    "english": "house",
+    "gender": "das"
+  },
+  "nach": {
+    "german": "nach",
+    "english": "for"
+  },
+  "Anhaltspunkten": {
+    "german": "Anhaltspunkten",
+    "english": "clues",
+    "gender": "den",
+    "plural": true
+  },
+  "Er": {
+    "german": "Er",
+    "english": "He"
+  },
+  "fand": {
+    "german": "fand",
+    "english": "found"
+  },
+  "heraus": {
+    "german": "heraus",
+    "english": "out"
+  },
+  "dass": {
+    "german": "dass",
+    "english": "that"
+  },
+  "am": {
+    "german": "am",
+    "english": "on the"
+  },
+  "Abend": {
+    "german": "Abend",
+    "english": "evening",
+    "gender": "dem"
+  },
+  "des": {
+    "german": "des",
+    "english": "of the"
+  },
+  "Diebstahls": {
+    "german": "Diebstahls",
+    "english": "theft",
+    "gender": "des"
+  },
+  "eine": {
+    "german": "eine",
+    "english": "a",
+    "gender": "eine"
+  },
+  "Dinnerparty": {
+    "german": "Dinnerparty",
+    "english": "dinner party",
+    "gender": "eine"
+  },
+  "stattgefunden": {
+    "german": "stattgefunden",
+    "english": "took place"
+  },
+  "hatte": {
+    "german": "hatte",
+    "english": "had"
+  },
+  "der": {
+    "german": "der",
+    "english": "the",
+    "gender": "der"
+  },
+  "viele": {
+    "german": "viele",
+    "english": "many",
+    "plural": true
+  },
+  "Gäste": {
+    "german": "Gäste",
+    "english": "guests",
+    "gender": "der",
+    "plural": true
+  },
+  "anwesend": {
+    "german": "anwesend",
+    "english": "were present"
+  },
+  "jeden": {
+    "german": "jeden",
+    "english": "every"
+  },
+  "Gast": {
+    "german": "Gast",
+    "english": "guest",
+    "gender": "jeden"
+  },
+  "sammelte": {
+    "german": "sammelte",
+    "english": "collected"
+  },
+  "alle": {
+    "german": "alle",
+    "english": "all",
+    "plural": true
+  },
+  "verfügbaren": {
+    "german": "verfügbaren",
+    "english": "available"
+  },
+  "Informationen": {
+    "german": "Informationen",
+    "english": "information",
+    "gender": "alle",
+    "plural": true
+  },
+  "Plötzlich": {
+    "german": "Plötzlich",
+    "english": "Suddenly"
+  },
+  "fiel": {
+    "german": "fiel",
+    "english": "caught"
+  },
+  "ihm": {
+    "german": "ihm",
+    "english": "him"
+  },
+  "auf": {
+    "german": "auf",
+    "english": "on"
+  },
+  "Herr": {
+    "german": "Herr",
+    "english": "Mr.",
+    "gender": "Herrn"
+  },
+  "Meyer": {
+    "german": "Meyer",
+    "english": "Meyer"
+  },
+  "merkwürdig": {
+    "german": "merkwürdig",
+    "english": "strange"
+  },
+  "verhalten": {
+    "german": "verhalten",
+    "english": "behaved"
+  },
+  "ungewöhnlichen": {
+    "german": "ungewöhnlichen",
+    "english": "unusual"
+  },
+  "Zeit": {
+    "german": "Zeit",
+    "english": "time",
+    "gender": "einer"
+  },
+  "verlassen": {
+    "german": "verlassen",
+    "english": "left"
+  },
+  "kurz": {
+    "german": "kurz",
+    "english": "shortly"
+  },
+  "darauf": {
+    "german": "darauf",
+    "english": "afterward"
+  },
+  "zurückgekehrt": {
+    "german": "zurückgekehrt",
+    "english": "returned"
+  },
+  "beschloss": {
+    "german": "beschloss",
+    "english": "decided"
+  },
+  "Herrn": {
+    "german": "Herrn",
+    "english": "Mr.",
+    "gender": "den"
+  },
+  "genauer": {
+    "german": "genauer",
+    "english": "closer"
+  },
+  "unter": {
+    "german": "unter",
+    "english": "under"
+  },
+  "Lupe": {
+    "german": "Lupe",
+    "english": "magnifying glass",
+    "gender": "die"
+  },
+  "nehmen": {
+    "german": "nehmen",
+    "english": "take"
+  },
+  "folgte": {
+    "german": "folgte",
+    "english": "followed"
+  },
+  "stellte": {
+    "german": "stellte",
+    "english": "discovered"
+  },
+  "fest": {
+    "german": "fest",
+    "english": "that"
+  },
+  "gestohlene": {
+    "german": "gestohlene",
+    "english": "stolen"
+  },
+  "gab": {
+    "german": "gab",
+    "english": "admitted"
+  },
+  "schließlich": {
+    "german": "schließlich",
+    "english": "finally"
+  },
+  "Täter": {
+    "german": "Täter",
+    "english": "perpetrator",
+    "gender": "der"
+  },
+  "verhaftet": {
+    "german": "verhaftet",
+    "english": "arrested"
+  },
+  "Dank": {
+    "german": "Dank",
+    "english": "Thanks"
+  },
+  "Bauers": {
+    "german": "Bauers",
+    "english": "to Bauer's"
+  },
+  "schnellem": {
+    "german": "schnellem",
+    "english": "quick"
+  },
+  "Denken": {
+    "german": "Denken",
+    "english": "thinking",
+    "gender": "Dank"
+  },
+  "seiner": {
+    "german": "seiner",
+    "english": "his"
+  },
+  "gründlichen": {
+    "german": "gründlichen",
+    "english": "thorough"
+  },
+  "Ermittlungen": {
+    "german": "Ermittlungen",
+    "english": "investigations",
+    "plural": true
+  },
+  "konnte": {
+    "german": "konnte",
+    "english": "was able to"
+  },
+  "Kunstwerk": {
+    "german": "Kunstwerk",
+    "english": "artwork",
+    "gender": "das"
+  },
+  "zurückgegeben": {
+    "german": "zurückgegeben",
+    "english": "returned"
+  },
+  "überführt": {
+    "german": "überführt",
+    "english": "convicted"
+  },
+  "werden": {
+    "german": "werden",
+    "english": "be"
+  },
+  "wieder": {
+    "german": "wieder",
+    "english": "again"
+  },
+  "erfolgreicher": {
+    "german": "erfolgreicher",
+    "english": "successful"
+  },
+  "für": {
+    "german": "für",
+    "english": "for"
+  },
+  "den": {
+    "german": "den",
+    "english": "the",
+    "gender": "den"
+  },
+  "berühmten": {
+    "german": "berühmten",
+    "english": "famous"
+  },
+  "leidenschaftlich": {
+    "german": "leidenschaftlich",
+    "english": "passionate",
+    "examples": [
+      {
+        "english": "She is passionate about music.",
+        "german": "Sie ist leidenschaftlich für Musik."
+      },
+      {
+        "english": "He has a passionate love for cooking.",
+        "german": "Er hat eine leidenschaftliche Liebe zum Kochen."
+      }
+    ]
+  },
+  "Gemäldeausstellung": {
+    "german": "Gemäldeausstellung",
+    "english": "painting exhibition",
+    "gender": "einer",
+    "examples": [
+      {
+        "english": "She attended a painting exhibition at the museum.",
+        "german": "Sie besuchte eine Gemäldeausstellung im Museum."
+      },
+      {
+        "english": "He showcased his artwork at a local painting exhibition.",
+        "german": "Er präsentierte seine Kunstwerke auf einer örtlichen Gemäldeausstellung."
+      }
+    ]
+  },
+  "organisiert": {
+    "german": "organisiert",
+    "english": "organized",
+    "examples": [
+      {
+        "english": "She organized a charity event for the local community.",
+        "german": "Sie organisierte eine Wohltätigkeitsveranstaltung für die örtliche Gemeinschaft."
+      },
+      {
+        "english": "He is the head of the organized crime syndicate.",
+        "german": "Er ist der Kopf des organisierten Verbrechenssyndikats."
+      }
+    ]
+  },
+  "Museum": {
+    "german": "Museum",
+    "english": "museum",
+    "gender": "dem",
+    "examples": [
+      {
+        "english": "The museum houses a vast collection of artifacts.",
+        "german": "Das Museum beherbergt eine umfangreiche Sammlung von Artefakten."
+      },
+      {
+        "english": "She visited the art museum on her trip to Paris.",
+        "german": "Sie besuchte das Kunstmuseum während ihrer Reise nach Paris."
+      }
+    ]
+  },
+  "Ausstellungssaal": {
+    "german": "Ausstellungssaal",
+    "english": "exhibition hall",
+    "gender": "dem",
+    "examples": [
+      {
+        "english": "The exhibition hall showcased the works of renowned artists.",
+        "german": "Der Ausstellungssaal präsentierte die Werke renommierter Künstler."
+      },
+      {
+        "english": "She attended an art exhibition in the grand exhibition hall.",
+        "german": "Sie besuchte eine Kunstausstellung im großen Ausstellungssaal."
+      }
+    ]
+  }
+}

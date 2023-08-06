@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #282c34;
+}
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.shadow {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 20px;
+}
+
+.transition {
+  transition: all 0.3s ease;
+}
+.full {
+  width: 100%;
+  height: 100%;
+}
+.flex {
+  display: flex;
+}
+.column {
+  flex-direction: column;
+}
+
+.gap1 {
+  gap: 1rem;
+}
+.gap05 {
+  gap: 0.5rem;
+}
+.gap2 {
+  gap: 2rem;
+}
+.jc {
+  justify-content: center;
+}
+.jsb {
+  justify-content: space-between;
+}
+
+.jfs {
+  justify-content: flex-start;
+}
+
+.ac {
+  align-items: center;
+}
+.afs {
+  align-items: flex-start;
+}
+
+.afe {
+  align-items: flex-end;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+
+
+.ma {
+  margin: auto;
+}
+.m0 {
+  margin: 0 !important;
+}
+.m-1 {
+  margin: 0.25rem !important;
+}
+
+.m-2 {
+  margin: 0.5rem !important;
+}
+
+.m-3 {
+  margin: 0.75rem !important;
+}
+
+.m-4 {
+  margin: 1rem !important;
+}
+.m-8 {
+  margin: 2rem !important;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+.mb-1 {
+  margin-bottom: 0.25rem !important;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem !important;
+}
+
+.mb-3 {
+  margin-bottom: 0.75rem !important;
+}
+
+.mb-4 {
+  margin-bottom: 1rem !important;
+}
+
+.mb-8 {
+  margin-bottom: 2rem !important;
+}
+
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+.mt-1 {
+  margin-top: 0.25rem !important;
+}
+
+.mt-2 {
+  margin-top: 0.5rem !important;
+}
+
+.mt-3 {
+  margin-top: 0.75rem !important;
+}
+
+.mt-4 {
+  margin-top: 1rem !important;
+}
+
+.mt-8 {
+  margin-top: 2rem !important;
+}
+
+
+.p-1 {
+  padding: 0.25rem !important;
+}
+
+.p-2 {
+  padding: 0.5rem !important;
+}
+
+
+.p-3 {
+  padding: 0.75rem !important;
+}
+
+
+.p-4 {
+  padding: 1rem !important;
+}
+
+.p-5 {
+  padding: 1.25rem !important;
+}
+
+.p-6 {
+  padding: 1.5rem !important;
+}
+
+.p-7 {
+  padding: 1.75rem !important;
+}
+
+.p-8 {
+  padding: 2rem !important;
+}
+
+
+.w-full {
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.bold {
+  font-weight: 600 !important;
+}
+.scrollbar-hide{
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.semiBold {
+  font-weight: 500 !important;
+}
+
+.scroll {
+  overflow-y: scroll;
+}
+
+.flex1 {
+  flex: 1;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.h1 {
+  margin: 0px 0px 0.35em;
+  font-weight: 300;
+  font-size: 5rem;
+  line-height: 1.167;
+  letter-spacing: -0.01562em;
+}
+.h2 {
+  margin: 0px 0px 0.35em;
+  font-size: 3.75rem;
+  line-height: 1.2;
+  letter-spacing: -0.00833em;
+  font-weight: 300;
+}
+.h3 {
+  margin: 0px 0px 0.35em;
+  font-weight: 400;
+  font-size: 2.5rem;
+  line-height: 1.167;
+  letter-spacing: 0em;
+}
+.h4 {
+  margin: 0px 0px 0.35em;
+  font-weight: 400;
+  font-size: 2.125rem;
+  line-height: 1.235;
+  letter-spacing: 0.00735em;
+}
+.h5 {
+  margin: 0px 0px 0.35em;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.334;
+  letter-spacing: 0em;
+}
+.h6 {
+  margin: 0px 0px 0.2rem;
+  font-weight: 500;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  letter-spacing: 0.0075em;
+}
+.p {
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.0075em;
+}
+.sp {
+  font-weight: normal;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  font-weight: 500;
+  letter-spacing: 0.0075em;
+  color: $grey
+}
+
+.ssp{
+  font-weight: normal;
+  font-size: 0.65rem;
+  line-height: 1.5;
+  letter-spacing: 0.0075em;
+  color: $grey
+}
+
+.yellow {
+  color: $primary;
+}
+
+.t400 {
+  font-weight: 400;
+}
+.t600 {
+  font-weight: 600;
+}
+.t700 {
+  font-weight: 700;
+}
+.t900 {
+  font-weight: 900;
+}
+.textLink {
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.0075em;
+  color: #407bff;
+  font-weight: 600;
+}

@@ -1,0 +1,1201 @@
+{
+    "Es": {
+        "translation": "It",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Es regnet heute.",
+                "en": "It's raining today."
+            }
+        ]
+    },
+    "war": {
+        "translation": "was",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Er war gestern hier.",
+                "en": "He was here yesterday."
+            }
+        ]
+    },
+    "einmal": {
+        "translation": "once",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Sie kommt nur einmal im Jahr.",
+                "en": "She comes only once a year."
+            }
+        ]
+    },
+    "ein": {
+        "translation": "a",
+        "type": "article",
+        "original": "article",
+        "examples": [
+            {
+                "de": "Ich habe ein Buch.",
+                "en": "I have a book."
+            }
+        ]
+    },
+    "kleiner": {
+        "translation": "little",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Das ist ein kleiner Tisch.",
+                "en": "That is a small table."
+            }
+        ]
+    },
+    "Hund": {
+        "translation": "dog",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Der Hund bellt.",
+                "en": "The dog is barking."
+            }
+        ]
+    },
+    "namens": {
+        "translation": "named",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Das Buch ist von einem Autor namens Peter.",
+                "en": "The book is by an author named Peter."
+            }
+        ]
+    },
+    "Fritz": {
+        "translation": "Fritz",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Fritz ist ein netter Junge.",
+                "en": "Fritz is a nice boy."
+            }
+        ]
+    },
+    "Er": {
+        "translation": "He",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Er kommt später.",
+                "en": "He is coming later."
+            }
+        ]
+    },
+    "wohnte": {
+        "translation": "lived",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie wohnte lange in der Stadt.",
+                "en": "She lived in the city for a long time."
+            }
+        ]
+    },
+    "in": {
+        "translation": "in",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Die Tasse steht in der Küche.",
+                "en": "The cup is in the kitchen."
+            }
+        ]
+    },
+    "einer": {
+        "translation": "a",
+        "type": "article",
+        "original": "article",
+        "examples": [
+            {
+                "de": "Ich habe einer Freundin geholfen.",
+                "en": "I helped a friend."
+            }
+        ]
+    },
+    "ruhigen": {
+        "translation": "quiet",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Ich genieße einen ruhigen Tag.",
+                "en": "I'm enjoying a peaceful day."
+            }
+        ]
+    },
+    "Stadt": {
+        "translation": "city",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Die Stadt ist groß.",
+                "en": "The city is big."
+            }
+        ]
+    },
+    "mit": {
+        "translation": "with",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Er geht mit seinen Freunden ins Kino.",
+                "en": "He is going to the cinema with his friends."
+            }
+        ]
+    },
+    "seiner": {
+        "translation": "of his",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Das ist sein Auto.",
+                "en": "That is his car."
+            }
+        ]
+    },
+    "Familie": {
+        "translation": "family",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Wir besuchen meine Familie am Wochenende.",
+                "en": "We visit my family on the weekends."
+            }
+        ]
+    },
+    "liebte": {
+        "translation": "loved",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie liebte ihn sehr.",
+                "en": "She loved him very much."
+            }
+        ]
+    },
+    "es": {
+        "translation": "it",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Es ist kalt draußen.",
+                "en": "It's cold outside."
+            }
+        ]
+    },
+    "im": {
+        "translation": "in the",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Wir treffen uns im Park.",
+                "en": "We're meeting in the park."
+            }
+        ]
+    },
+    "Park": {
+        "translation": "park",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Die Kinder spielen im Park.",
+                "en": "The children are playing in the park."
+            }
+        ]
+    },
+    "zu": {
+        "translation": "to",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Sie geht zu ihrer Freundin.",
+                "en": "She's going to her friend's place."
+            }
+        ]
+    },
+    "spielen": {
+        "translation": "play",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Die Kinder spielen im Garten.",
+                "en": "The children are playing in the garden."
+            }
+        ]
+    },
+    "und": {
+        "translation": "and",
+        "type": "conjunction",
+        "original": "conjunction",
+        "examples": [
+            {
+                "de": "Ich mag Kaffee und Tee.",
+                "en": "I like coffee and tea."
+            }
+        ]
+    },
+    "nach": {
+        "translation": "to",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Ich suche nach meinem Schlüssel.",
+                "en": "I'm looking for my keys."
+            }
+        ]
+    },
+    "Schmetterlingen": {
+        "translation": "butterflies",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Im Sommer fliegen viele Schmetterlinge.",
+                "en": "Many butterflies fly in the summer."
+            }
+        ]
+    },
+    "Eines": {
+        "translation": "One",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Eines Tages werde ich reisen.",
+                "en": "One day, I will travel."
+            }
+        ]
+    },
+    "Tages": {
+        "translation": "day",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Am Ende des Tages bin ich müde.",
+                "en": "At the end of the day, I am tired."
+            }
+        ]
+    },
+    "sah": {
+        "translation": "saw",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie sah den Sonnenuntergang.",
+                "en": "She saw the sunset."
+            }
+        ]
+    },
+    "er": {
+        "translation": "he",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Er spricht Deutsch.",
+                "en": "He speaks German."
+            }
+        ]
+    },
+    "einen": {
+        "translation": "a",
+        "type": "article",
+        "original": "article",
+        "examples": [
+            {
+                "de": "Ich brauche einen Stift.",
+                "en": "I need a pen."
+            }
+        ]
+    },
+    "besonders": {
+        "translation": "particularly",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Das Essen war besonders lecker.",
+                "en": "The food was especially delicious."
+            }
+        ]
+    },
+    "schönen": {
+        "translation": "beautiful",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Es ist ein schöner Tag.",
+                "en": "It's a beautiful day."
+            }
+        ]
+    },
+    "Schmetterling": {
+        "translation": "butterfly",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Der Schmetterling fliegt bunt durch den Garten.",
+                "en": "The butterfly flies brightly through the garden."
+            }
+        ]
+    },
+    "rannte": {
+        "translation": "ran",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Er rannte schnell.",
+                "en": "He ran fast."
+            }
+        ]
+    },
+    "ihm": {
+        "translation": "him",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Sie gab ihm das Geschenk.",
+                "en": "She gave him the gift."
+            }
+        ]
+    },
+    "hinterher": {
+        "translation": "behind",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Ich lief ihm hinterher.",
+                "en": "I ran after him."
+            }
+        ]
+    },
+    "Der": {
+        "translation": "The",
+        "type": "article",
+        "original": "article",
+        "examples": [
+            {
+                "de": "Der Film war gut.",
+                "en": "The movie was good."
+            }
+        ]
+    },
+    "flog": {
+        "translation": "flew",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Der Vogel flog hoch.",
+                "en": "The bird flew high."
+            }
+        ]
+    },
+    "hoch": {
+        "translation": "high",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Das Haus ist sehr hoch.",
+                "en": "The house is very tall."
+            }
+        ]
+    },
+    "den": {
+        "translation": "the",
+        "type": "article",
+        "original": "article",
+        "examples": [
+            {
+                "de": "Sie sah den Film.",
+                "en": "She watched the movie."
+            }
+        ]
+    },
+    "Himmel": {
+        "translation": "sky",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Die Sterne leuchten am Himmel.",
+                "en": "The stars are shining in the sky."
+            }
+        ]
+    },
+    "verlor": {
+        "translation": "lost",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Er verlor seinen Schlüssel.",
+                "en": "He lost his key."
+            }
+        ]
+    },
+    "sich": {
+        "translation": "herself",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Sie verletzte sich.",
+                "en": "She hurt herself."
+            }
+        ]
+    },
+    "sehr": {
+        "translation": "very",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Sie ist sehr glücklich über das Geschenk.",
+                "en": "She is very happy about the gift."
+            }
+        ]
+    },
+    "ängstlich": {
+        "translation": "scared",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Der Hund war ängstlich während des Gewitters.",
+                "en": "The dog was anxious during the thunderstorm."
+            }
+        ]
+    },
+    "wusste": {
+        "translation": "knew",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Ich wusste nicht, dass du kommen würdest.",
+                "en": "I didn't know you would come."
+            }
+        ]
+    },
+    "nicht": {
+        "translation": "not",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Das ist nicht mein Buch.",
+                "en": "That is not my book."
+            }
+        ]
+    },
+    "wo": {
+        "translation": "where",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Weißt du, wo die Brücke ist?",
+                "en": "Do you know where the bridge is?"
+            }
+        ]
+    },
+    "versuchte": {
+        "translation": "tried",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Er versuchte das Rätsel zu lösen.",
+                "en": "He tried to solve the puzzle."
+            }
+        ]
+    },
+    "Weg": {
+        "translation": "way",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Der Weg ist lang.",
+                "en": "The road is long."
+            }
+        ]
+    },
+    "Hause": {
+        "translation": "home",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Wir gingen nach Hause.",
+                "en": "We went home."
+            }
+        ]
+    },
+    "finden": {
+        "translation": "find",
+        "type": "verb",
+        "original": "",
+        "examples": [
+            {
+                "de": "Ich kann meinen Schlüssel nicht finden.",
+                "en": "I can't find my key."
+            }
+        ]
+    },
+    "aber": {
+        "translation": "but",
+        "type": "conjunction",
+        "original": "conjunction",
+        "examples": [
+            {
+                "de": "Sie ist reich, aber unglücklich.",
+                "en": "She is rich, but unhappy."
+            }
+        ]
+    },
+    "alles": {
+        "translation": "all",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Alles ist möglich.",
+                "en": "Everything is possible."
+            }
+        ]
+    },
+    "so": {
+        "translation": "so",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Es ist so einfach.",
+                "en": "It's so easy."
+            }
+        ]
+    },
+    "anders": {
+        "translation": "different",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Die Situation ist anders.",
+                "en": "The situation is different."
+            }
+        ]
+    },
+    "traurig": {
+        "translation": "sad",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Er ist traurig.",
+                "en": "He is sad."
+            }
+        ]
+    },
+    "vermisste": {
+        "translation": "missed",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie vermisste ihre Freunde.",
+                "en": "She missed her friends."
+            }
+        ]
+    },
+    "seine": {
+        "translation": "his",
+        "type": "pronoun",
+        "original": "",
+        "examples": [
+            {
+                "de": "Seine Schwester heißt Anna.",
+                "en": "His sister's name is Anna."
+            }
+        ]
+    },
+    "saß": {
+        "translation": "sat",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Er saß am Tisch.",
+                "en": "He sat at the table."
+            }
+        ]
+    },
+    "auf": {
+        "translation": "on",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Das Buch liegt auf dem Tisch.",
+                "en": "The book is on the table."
+            }
+        ]
+    },
+    "Bank": {
+        "translation": "bench",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Ich habe Geld auf der Bank.",
+                "en": "I have money in the bank."
+            }
+        ]
+    },
+    "heulte": {
+        "translation": "howled",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Das Baby heulte laut.",
+                "en": "The baby cried loudly."
+            }
+        ]
+    },
+    "leise": {
+        "translation": "softly",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Flüstere leise.",
+                "en": "Whisper softly."
+            }
+        ]
+    },
+    "Ein": {
+        "translation": "A",
+        "type": "article",
+        "original": "article",
+        "examples": [
+            {
+                "de": "Ein Mann geht.",
+                "en": "A man is walking."
+            }
+        ]
+    },
+    "kleines": {
+        "translation": "little",
+        "type": "adjective",
+        "original": "",
+        "examples": [
+            {
+                "de": "Sie hat ein kleines Haus am Meer.",
+                "en": "She has a small house by the sea."
+            }
+        ]
+    },
+    "Mädchen": {
+        "translation": "girl",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Das Mädchen lacht.",
+                "en": "The girl is laughing."
+            }
+        ]
+    },
+    "Lisa": {
+        "translation": "Lisa",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Lisa singt ein Lied.",
+                "en": "Lisa is singing a song."
+            }
+        ]
+    },
+    "hörte": {
+        "translation": "heard",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Er hörte Musik.",
+                "en": "He listened to music."
+            }
+        ]
+    },
+    "sein": {
+        "translation": "his",
+        "type": "pronoun",
+        "original": "",
+        "examples": [
+            {
+                "de": "Das ist sein Auto.",
+                "en": "That is his car."
+            }
+        ]
+    },
+    "Weinen": {
+        "translation": "crying",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Das Weinen hörte plötzlich auf.",
+                "en": "The crying suddenly stopped."
+            }
+        ]
+    },
+    "Sie": {
+        "translation": "They",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "Sie lächelt.",
+                "en": "She is smiling."
+            }
+        ]
+    },
+    "traurigen": {
+        "translation": "sad",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Ich hörte traurige Musik.",
+                "en": "I listened to sad music."
+            }
+        ]
+    },
+    "entschied": {
+        "translation": "decided",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie entschied sich zu gehen.",
+                "en": "She decided to leave."
+            }
+        ]
+    },
+    "helfen": {
+        "translation": "help",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Kannst du mir helfen?",
+                "en": "Can you help me?"
+            }
+        ]
+    },
+    "kannte": {
+        "translation": "knew",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie kannte den Weg.",
+                "en": "She knew the way."
+            }
+        ]
+    },
+    "gut": {
+        "translation": "well",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Das Essen schmeckt gut.",
+                "en": "The food tastes good."
+            }
+        ]
+    },
+    "führte": {
+        "translation": "led",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Der Guide führte uns durch die Stadt.",
+                "en": "The guide led us through the city."
+            }
+        ]
+    },
+    "sicher": {
+        "translation": "safely",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Wir sind sicher angekommen.",
+                "en": "We arrived safely."
+            }
+        ]
+    },
+    "Als": {
+        "translation": "When",
+        "type": "conjunction",
+        "original": "conjunction",
+        "examples": [
+            {
+                "de": "Als sie ankam, war er nicht da.",
+                "en": "When she arrived, he wasn't there."
+            }
+        ]
+    },
+    "wieder": {
+        "translation": "again",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Ich werde wieder kommen.",
+                "en": "I will come again."
+            }
+        ]
+    },
+    "glücklich": {
+        "translation": "happy",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Sie ist glücklich mit ihrem Job.",
+                "en": "She is happy with her job."
+            }
+        ]
+    },
+    "dass": {
+        "translation": "that",
+        "type": "conjunction",
+        "original": "conjunction",
+        "examples": [
+            {
+                "de": "Ich glaube, dass er recht hat.",
+                "en": "I believe that he is right."
+            }
+        ]
+    },
+    "vor": {
+        "translation": "with",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Sie steht vor dem Haus.",
+                "en": "She is standing in front of the house."
+            }
+        ]
+    },
+    "Freude": {
+        "translation": "joy",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Die Kinder lachen vor Freude.",
+                "en": "The children are laughing with joy."
+            }
+        ]
+    },
+    "bellte": {
+        "translation": "barked",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Der Hund bellte laut.",
+                "en": "The dog barked loudly."
+            }
+        ]
+    },
+    "Seit": {
+        "translation": "Since",
+        "type": "preposition",
+        "original": "preposition",
+        "examples": [
+            {
+                "de": "Seit gestern regnet es.",
+                "en": "It has been raining since yesterday."
+            }
+        ]
+    },
+    "diesem": {
+        "translation": "this",
+        "type": "pronoun",
+        "original": "pronoun",
+        "examples": [
+            {
+                "de": "In diesem Moment war sie sehr aufgeregt.",
+                "en": "In this moment, she was very excited."
+            }
+        ]
+    },
+    "Tag": {
+        "translation": "day",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Jeder Tag ist ein Geschenk.",
+                "en": "Every day is a gift."
+            }
+        ]
+    },
+    "besuchte": {
+        "translation": "visited",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Wir besuchten unsere Großeltern.",
+                "en": "We visited our grandparents."
+            }
+        ]
+    },
+    "sie": {
+        "translation": "her",
+        "type": "pronoun",
+        "original": "",
+        "examples": [
+            {
+                "de": "Sie geht gern spazieren.",
+                "en": "She likes to go for a walk."
+            }
+        ]
+    },
+    "jeden": {
+        "translation": "every",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Er arbeitet jeden Tag.",
+                "en": "He works every day."
+            }
+        ]
+    },
+    "wurden": {
+        "translation": "became",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie wurden Freunde.",
+                "en": "They became friends."
+            }
+        ]
+    },
+    "die": {
+        "translation": "the",
+        "type": "article",
+        "original": "article",
+        "examples": [
+            {
+                "de": "Die Blumen blühen im Frühling.",
+                "en": "The flowers bloom in spring."
+            }
+        ]
+    },
+    "besten": {
+        "translation": "best",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Wir sind die besten Freunde.",
+                "en": "We are the best friends."
+            }
+        ]
+    },
+    "Freunde": {
+        "translation": "friends",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Er hat viele Freunde.",
+                "en": "He has many friends."
+            }
+        ]
+    },
+    "spielten": {
+        "translation": "played",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Die Kinder spielten im Sandkasten.",
+                "en": "The children played in the sandbox."
+            }
+        ]
+    },
+    "immer": {
+        "translation": "always",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Er ist immer pünktlich.",
+                "en": "He is always on time."
+            }
+        ]
+    },
+    "zusammen": {
+        "translation": "together",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Wir gingen zusammen ins Kino.",
+                "en": "We went to the cinema together."
+            }
+        ]
+    },
+    "hat": {
+        "translation": "has",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie hat einen neuen Job.",
+                "en": "She has a new job."
+            }
+        ]
+    },
+    "nie": {
+        "translation": "never",
+        "type": "adverb",
+        "original": "adverb",
+        "examples": [
+            {
+                "de": "Er hat nie aufgegeben.",
+                "en": "He never gave up."
+            }
+        ]
+    },
+    "gejagt": {
+        "translation": "chased",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Er hat den Ball gejagt.",
+                "en": "He chased the ball."
+            }
+        ]
+    },
+    "gelernt": {
+        "translation": "learned",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Sie hat viel gelernt.",
+                "en": "She has learned a lot."
+            }
+        ]
+    },
+    "Sicherheit": {
+        "translation": "safety",
+        "type": "noun",
+        "original": "noun",
+        "examples": [
+            {
+                "de": "Die Sicherheit der Kinder ist wichtig.",
+                "en": "The safety of the children is important."
+            }
+        ]
+    },
+    "wichtiger": {
+        "translation": "more important",
+        "type": "adjective",
+        "original": "adjective",
+        "examples": [
+            {
+                "de": "Die Gesundheit ist wichtiger als Geld.",
+                "en": "Health is more important than money."
+            }
+        ]
+    },
+    "ist": {
+        "translation": "is",
+        "type": "verb",
+        "original": "verb",
+        "examples": [
+            {
+                "de": "Er ist ein Arzt.",
+                "en": "He is a doctor."
+            }
+        ]
+    },
+    "als": {
+        "translation": "than",
+        "type": "conjunction",
+        "original": "conjunction",
+        "examples": [
+            {
+                "de": "Sie ist größer als ich.",
+                "en": "She is taller than me."
+            }
+        ]
+    },
+    "jeder": {
+        "translation": "any",
+        "type": "pronoun",
+        "original": "",
+        "examples": [
+            {
+                "de": "Jeder Tag ist eine neue Chance.",
+                "en": "Every day is a new opportunity."
+            }
+        ]
+    }
+}

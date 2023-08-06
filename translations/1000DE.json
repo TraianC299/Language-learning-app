@@ -1,0 +1,4188 @@
+{
+  "Kaffee": {
+    "lemma": "Kaffee",
+    "pronoun": "der",
+    "english": "Coffee",
+    "examples": [
+      {
+        "english": "I drink coffee every morning.",
+        "german": "Ich trinke jeden Morgen Kaffee."
+      },
+      {
+        "english": "She prefers black coffee.",
+        "german": "Sie bevorzugt schwarzen Kaffee."
+      }
+    ]
+  },
+  "ernst": {
+    "lemma": "ernst",
+    "pronoun": "",
+    "english": "serious",
+    "examples": [
+      {
+        "english": "He is a serious person.",
+        "german": "Er ist eine ernsthafte Person."
+      },
+      {
+        "english": "The situation requires serious attention.",
+        "german": "Die Situation erfordert ernsthafte Aufmerksamkeit."
+      }
+    ]
+  },
+  "wollt": {
+    "lemma": "wollen",
+    "pronoun": "",
+    "english": "want",
+    "examples": [
+      {
+        "english": "What do you want to do tonight?",
+        "german": "Was möchtest du heute Abend machen?"
+      },
+      {
+        "english": "I want to go on vacation.",
+        "german": "Ich möchte in den Urlaub fahren."
+      }
+    ]
+  },
+  "tragen": {
+    "lemma": "tragen",
+    "pronoun": "",
+    "english": "wear",
+    "examples": [
+      {
+        "english": "She always wears a hat.",
+        "german": "Sie trägt immer einen Hut."
+      },
+      {
+        "english": "He likes to wear casual clothes.",
+        "german": "Er trägt gerne legere Kleidung."
+      }
+    ]
+  },
+  "Zeug": {
+    "lemma": "Zeug",
+    "pronoun": "das",
+    "english": "stuff",
+    "examples": [
+      {
+        "english": "I have a lot of stuff in my room.",
+        "german": "Ich habe viel Zeug in meinem Zimmer."
+      },
+      {
+        "english": "Please put your stuff away.",
+        "german": "Bitte räume dein Zeug weg."
+      }
+    ]
+  },
+  "trotzdem": {
+    "lemma": "trotzdem",
+    "pronoun": "",
+    "english": "nevertheless",
+    "examples": [
+      {
+        "english": "It was raining, but she went for a walk nevertheless.",
+        "german": "Es hat geregnet, aber sie ist trotzdem spazieren gegangen."
+      },
+      {
+        "english": "I told him not to do it, but he did it nevertheless.",
+        "german": "Ich habe ihm gesagt, dass er es nicht tun soll, aber er hat es trotzdem gemacht."
+      }
+    ]
+  },
+  "Ihren": {
+    "lemma": "ihr Ihr",
+    "pronoun": "ihr",
+    "english": "your",
+    "examples": [
+      {
+        "english": "Please take your bags with you.",
+        "german": "Bitte nehmt eure Taschen mit."
+      },
+      {
+        "english": "What's your name?",
+        "german": "Wie heißt ihr?"
+      }
+    ]
+  },
+  "kaufen": {
+    "lemma": "kaufen",
+    "pronoun": "",
+    "english": "buy",
+    "examples": [
+      {
+        "english": "I need to buy some groceries.",
+        "german": "Ich muss ein paar Lebensmittel kaufen."
+      },
+      {
+        "english": "She bought a new car.",
+        "german": "Sie hat ein neues Auto gekauft."
+      }
+    ]
+  },
+  "Liste": {
+    "lemma": "Liste",
+    "pronoun": "die",
+    "english": "list",
+    "examples": [
+      {
+        "english": "I made a to-do list for today.",
+        "german": "Ich habe eine Aufgabenliste für heute erstellt."
+      },
+      {
+        "english": "Please add your name to the list.",
+        "german": "Bitte tragen Sie sich in die Liste ein."
+      }
+    ]
+  },
+  "ändern": {
+    "lemma": "ändern",
+    "pronoun": "",
+    "english": "change",
+    "examples": [
+      {
+        "english": "I need to change my plans.",
+        "german": "Ich muss meine Pläne ändern."
+      },
+      {
+        "english": "Can you change the channel on the TV?",
+        "german": "Kannst du den Kanal am Fernseher ändern?"
+      }
+    ]
+  },
+  "Kampf": {
+    "lemma": "Kampf",
+    "pronoun": "der",
+    "english": "fight",
+    "examples": [
+      {
+        "english": "They had a fierce fight.",
+        "german": "Sie hatten einen heftigen Kampf."
+      },
+      {
+        "english": "He's always ready for a fight.",
+        "german": "Er ist immer bereit für einen Kampf."
+      }
+    ]
+  },
+  "hasse": {
+    "lemma": "hassen",
+    "pronoun": "",
+    "english": "hate",
+    "examples": [
+      {
+        "english": "I hate spiders.",
+        "german": "Ich hasse Spinnen."
+      },
+      {
+        "english": "She hates waking up early.",
+        "german": "Sie hasst es, früh aufzustehen."
+      }
+    ]
+  },
+  "Person": {
+    "lemma": "Person",
+    "pronoun": "die",
+    "english": "person",
+    "examples": [
+      {
+        "english": "He's a very kind person.",
+        "german": "Er ist eine sehr freundliche Person."
+      },
+      {
+        "english": "I met some interesting people at the party.",
+        "german": "Ich habe auf der Party interessante Leute kennengelernt."
+      }
+    ]
+  },
+  "Mund": {
+    "lemma": "Mund",
+    "pronoun": "der",
+    "english": "mouth",
+    "examples": [
+      {
+        "english": "Open your mouth and say 'ah'.",
+        "german": "Öffne deinen Mund und sag 'ah'."
+      },
+      {
+        "english": "He ate the sandwich in one bite without opening his mouth.",
+        "german": "Er hat das Sandwich in einem Biss gegessen, ohne den Mund zu öffnen."
+      }
+    ]
+  },
+  "umbringen": {
+    "lemma": "umbringen",
+    "pronoun": "",
+    "english": "kill",
+    "examples": [
+      {
+        "english": "He threatened to kill her if she didn't cooperate.",
+        "german": "Er drohte damit, sie umzubringen, wenn sie nicht kooperierte."
+      },
+      {
+        "english": "The assassin was hired to kill the target.",
+        "german": "Der Auftragsmörder wurde angeheuert, um das Ziel umzubringen."
+      }
+    ]
+  },
+  "Präsident": {
+    "lemma": "Präsident",
+    "pronoun": "der",
+    "english": "president",
+    "examples": [
+      {
+        "english": "The president gave a speech to the nation.",
+        "german": "Der Präsident hielt eine Rede an die Nation."
+      },
+      {
+        "english": "She aspires to become the president one day.",
+        "german": "Sie strebt danach, eines Tages Präsidentin zu werden."
+      }
+    ]
+  },
+  "Boden": {
+    "lemma": "Boden",
+    "pronoun": "der",
+    "english": "floor",
+    "examples": [
+      {
+        "english": "Please sweep the floor.",
+        "german": "Bitte fegen Sie den Boden."
+      },
+      {
+        "english": "The ball rolled across the floor.",
+        "german": "Der Ball rollte über den Boden."
+      }
+    ]
+  },
+  "Wohin": {
+    "lemma": "wohin",
+    "pronoun": "",
+    "english": "where to",
+    "examples": [
+      {
+        "english": "Where are you going?",
+        "german": "Wohin gehst du?"
+      },
+      {
+        "english": "Can you tell me where to find the nearest pharmacy?",
+        "german": "Können Sie mir sagen, wo ich die nächste Apotheke finde?"
+      }
+    ]
+  },
+  "machte": {
+    "lemma": "machen",
+    "pronoun": "",
+    "english": "made",
+    "examples": [
+      {
+        "english": "She made a delicious cake for the party.",
+        "german": "Sie hat einen köstlichen Kuchen für die Party gemacht."
+      },
+      {
+        "english": "He made a mistake by not studying for the exam.",
+        "german": "Er hat einen Fehler gemacht, indem er nicht für die Prüfung gelernt hat."
+      }
+    ]
+  },
+  "Party": {
+    "lemma": "Party",
+    "pronoun": "die",
+    "english": "party",
+    "examples": [
+      {
+        "english": "Are you going to the party tonight?",
+        "german": "Gehst du heute Abend zur Party?"
+      },
+      {
+        "english": "We had a great time at the birthday party.",
+        "german": "Wir hatten eine tolle Zeit auf der Geburtstagsparty."
+      }
+    ]
+  },
+  "gefragt": {
+    "lemma": "fragen",
+    "pronoun": "",
+    "english": "asked",
+    "examples": [
+      {
+        "english": "She asked him about his plans for the weekend.",
+        "german": "Sie hat ihn nach seinen Plänen für das Wochenende gefragt."
+      },
+      {
+        "english": "The journalist asked the politician a tough question.",
+        "german": "Der Journalist stellte dem Politiker eine schwierige Frage."
+      }
+    ]
+  },
+  "Seht": {
+    "lemma": "sehen",
+    "pronoun": "",
+    "english": "see",
+    "examples": [
+      {
+        "english": "Look, I can see a rainbow!",
+        "german": "Schau, ich kann einen Regenbogen sehen!"
+      },
+      {
+        "english": "Can you see the Eiffel Tower from your apartment?",
+        "german": "Kannst du den Eiffelturm von deiner Wohnung aus sehen?"
+      }
+    ]
+  },
+  "irgendwo": {
+    "lemma": "irgendwo",
+    "pronoun": "",
+    "english": "somewhere",
+    "examples": [
+      {
+        "english": "I left my keys somewhere in the house.",
+        "german": "Ich habe meine Schlüssel irgendwo im Haus gelassen."
+      },
+      {
+        "english": "Let's go on an adventure and explore somewhere new.",
+        "german": "Lass uns auf ein Abenteuer gehen und irgendwo Neues erkunden."
+      }
+    ]
+  },
+  "kümmern": {
+    "lemma": "kümmern",
+    "pronoun": "",
+    "english": "take care",
+    "examples": [
+      {
+        "english": "Don't worry, I'll take care of everything.",
+        "german": "Mach dir keine Sorgen, ich kümmere mich um alles."
+      },
+      {
+        "english": "She takes care of her plants with great dedication.",
+        "german": "Sie kümmert sich mit großer Hingabe um ihre Pflanzen."
+      }
+    ]
+  },
+  "kennt": {
+    "lemma": "kennen",
+    "pronoun": "",
+    "english": "know",
+    "examples": [
+      {
+        "english": "Do you know the way to the train station?",
+        "german": "Kennst du den Weg zum Bahnhof?"
+      },
+      {
+        "english": "He knows a lot about history.",
+        "german": "Er kennt sich gut mit Geschichte aus."
+      }
+    ]
+  },
+  "verletzt": {
+    "lemma": "verletzen",
+    "pronoun": "",
+    "english": "hurt",
+    "examples": [
+      {
+        "english": "She fell down and hurt her knee.",
+        "german": "Sie ist hingefallen und hat sich am Knie verletzt."
+      },
+      {
+        "english": "The accident left him with a severely injured leg.",
+        "german": "Der Unfall hat ihn mit einem schwer verletzten Bein zurückgelassen."
+      }
+    ]
+  },
+  "Habt": {
+    "lemma": "haben",
+    "pronoun": "",
+    "english": "have",
+    "examples": [
+      {
+        "english": "Do you have any siblings?",
+        "german": "Habt ihr Geschwister?"
+      },
+      {
+        "english": "I have a headache.",
+        "german": "Ich habe Kopfschmerzen."
+      }
+    ]
+  },
+  "Nachricht": {
+    "lemma": "Nachricht",
+    "pronoun": "die",
+    "english": "message",
+    "examples": [
+      {
+        "english": "I received a text message from her.",
+        "german": "Ich habe eine Nachricht von ihr erhalten."
+      },
+      {
+        "english": "Please leave a message after the beep.",
+        "german": "Bitte hinterlassen Sie eine Nachricht nach dem Piepton."
+      }
+    ]
+  },
+  "Willkommen": {
+    "lemma": "Willkommen",
+    "pronoun": "das",
+    "english": "welcome",
+    "examples": [
+      {
+        "english": "Welcome to our home!",
+        "german": "Willkommen in unserem Zuhause!"
+      },
+      {
+        "english": "They greeted the guests with a warm welcome.",
+        "german": "Sie begrüßten die Gäste mit einem herzlichen Willkommen."
+      }
+    ]
+  },
+  "vielen": {
+    "lemma": "viel",
+    "pronoun": "",
+    "english": "many",
+    "examples": [
+      {
+        "english": "There are many books on the shelf.",
+        "german": "Es gibt viele Bücher im Regal."
+      },
+      {
+        "english": "He has visited many countries.",
+        "german": "Er hat viele Länder besucht."
+      }
+    ]
+  },
+  "hart": {
+    "lemma": "hart",
+    "pronoun": "",
+    "english": "hard",
+    "examples": [
+      {
+        "english": "He works hard to achieve his goals.",
+        "german": "Er arbeitet hart, um seine Ziele zu erreichen."
+      },
+      {
+        "english": "Learning a new language can be hard, but it's worth it.",
+        "german": "Eine neue Sprache zu lernen kann schwer sein, aber es lohnt sich."
+      }
+    ]
+  },
+  "lasse": {
+    "lemma": "lassen",
+    "pronoun": "",
+    "english": "let",
+    "examples": [
+      {
+        "english": "Let me know if you need any help.",
+        "german": "Lass mich wissen, wenn du Hilfe brauchst."
+      },
+      {
+        "english": "She lets her children play in the park.",
+        "german": "Sie lässt ihre Kinder im Park spielen."
+      }
+    ]
+  },
+  "total": {
+    "lemma": "total",
+    "pronoun": "",
+    "english": "total",
+    "examples": [
+      {
+        "english": "I'm totally exhausted after a long day at work.",
+        "german": "Ich bin total erschöpft nach einem langen Arbeitstag."
+      },
+      {
+        "english": "The party was a total disaster.",
+        "german": "Die Party war ein totaler Reinfall."
+      }
+    ]
+  },
+  "Gefängnis": {
+    "lemma": "Gefängnis",
+    "pronoun": "das",
+    "english": "prison",
+    "examples": [
+      {
+        "english": "He was sentenced to five years in prison.",
+        "german": "Er wurde zu fünf Jahren Gefängnis verurteilt."
+      },
+      {
+        "english": "The prisoner escaped from the prison.",
+        "german": "Der Häftling ist aus dem Gefängnis entkommen."
+      }
+    ]
+  },
+  "außer": {
+    "lemma": "außer",
+    "pronoun": "",
+    "english": "except",
+    "examples": [
+      {
+        "english": "Everyone was invited to the party except for him.",
+        "german": "Alle wurden zur Party eingeladen, außer ihm."
+      },
+      {
+        "english": "I like all fruits except for bananas.",
+        "german": "Ich mag alle Früchte außer Bananen."
+      }
+    ]
+  },
+  "Sicherheit": {
+    "lemma": "Sicherheit",
+    "pronoun": "die",
+    "english": "security",
+    "examples": [
+      {
+        "english": "Security measures have been implemented to protect the building.",
+        "german": "Sicherheitsmaßnahmen wurden ergriffen, um das Gebäude zu schützen."
+      },
+      {
+        "english": "I forgot to lock the door. We need to prioritize our security.",
+        "german": "Ich habe vergessen, die Tür abzuschließen. Wir müssen unsere Sicherheit priorisieren."
+      }
+    ]
+  },
+  "Schnell": {
+    "lemma": "schnell",
+    "pronoun": "",
+    "english": "fast",
+    "examples": [
+      {
+        "english": "He runs very fast.",
+        "german": "Er rennt sehr schnell."
+      },
+      {
+        "english": "Please fasten your seatbelts. The ride will be fast.",
+        "german": "Bitte schnallen Sie sich an. Die Fahrt wird schnell sein."
+      }
+    ]
+  },
+  "wem": {
+    "lemma": "wer",
+    "pronoun": "",
+    "english": "whom",
+    "examples": [
+      {
+        "english": "To whom does this belong?",
+        "german": "Wem gehört das?"
+      },
+      {
+        "english": "I will give the package to whom it is addressed.",
+        "german": "Ich werde das Paket demjenigen geben, an den es adressiert ist."
+      }
+    ]
+  },
+  "ehrlich": {
+    "lemma": "ehrlich",
+    "pronoun": "",
+    "english": "honest",
+    "examples": [
+      {
+        "english": "I appreciate your honest opinion.",
+        "german": "Ich schätze deine ehrliche Meinung."
+      },
+      {
+        "english": "He is known for being an honest person.",
+        "german": "Er ist dafür bekannt, eine ehrliche Person zu sein."
+      }
+    ]
+  },
+  "interessiert": {
+    "lemma": "interessieren",
+    "pronoun": "",
+    "english": "interested",
+    "examples": [
+      {
+        "english": "I'm interested in learning more about art.",
+        "german": "Ich bin daran interessiert, mehr über Kunst zu erfahren."
+      },
+      {
+        "english": "She is not interested in sports.",
+        "german": "Sie hat kein Interesse an Sport."
+      }
+    ]
+  },
+  "Sex": {
+    "lemma": "Sex",
+    "pronoun": "der",
+    "english": "sex",
+    "examples": [
+      {
+        "english": "Sex education is important for young adults.",
+        "german": "Sexualerziehung ist wichtig für junge Erwachsene."
+      },
+      {
+        "english": "They had a frank conversation about sex.",
+        "german": "Sie führten ein offenes Gespräch über Sex."
+      }
+    ]
+  },
+  "sagten": {
+    "lemma": "sagen",
+    "pronoun": "",
+    "english": "said",
+    "examples": [
+      {
+        "english": "He said he would be late for the meeting.",
+        "german": "Er sagte, er würde sich beim Treffen verspäten."
+      },
+      {
+        "english": "They said goodbye and left the room.",
+        "german": "Sie sagten auf Wiedersehen und verließen den Raum."
+      }
+    ]
+  },
+  "ziehen": {
+    "lemma": "ziehen",
+    "pronoun": "",
+    "english": "pull",
+    "examples": [
+      {
+        "english": "Please pull the door closed behind you.",
+        "german": "Bitte ziehen Sie die Tür hinter sich zu."
+      },
+      {
+        "english": "He tried to pull the heavy box, but it was too heavy for him.",
+        "german": "Er versuchte, die schwere Kiste zu ziehen, aber sie war zu schwer für ihn."
+      }
+    ]
+  },
+  "Welche": {
+    "lemma": "welcher",
+    "pronoun": "",
+    "english": "which",
+    "examples": [
+      {
+        "english": "Which color do you prefer?",
+        "german": "Welche Farbe bevorzugen Sie?"
+      },
+      {
+        "english": "She couldn't decide which dress to wear.",
+        "german": "Sie konnte sich nicht entscheiden, welches Kleid sie tragen sollte."
+      }
+    ]
+  },
+  "Unser": {
+    "lemma": "unser",
+    "pronoun": "unser",
+    "english": "our",
+    "examples": [
+      {
+        "english": "This is our house.",
+        "german": "Das ist unser Haus."
+      },
+      {
+        "english": "Our team won the championship.",
+        "german": "Unser Team hat die Meisterschaft gewonnen."
+      }
+    ]
+  },
+  "Augenblick": {
+    "lemma": "Augenblick",
+    "pronoun": "der",
+    "english": "moment",
+    "examples": [
+      {
+        "english": "Wait a moment, I'll be right back.",
+        "german": "Warten Sie einen Augenblick, ich bin gleich zurück."
+      },
+      {
+        "english": "In that moment, he realized his mistake.",
+        "german": "In diesem Augenblick wurde ihm sein Fehler bewusst."
+      }
+    ]
+  },
+  "angerufen": {
+    "lemma": "anrufen",
+    "pronoun": "",
+    "english": "called",
+    "examples": [
+      {
+        "english": "She called her friend to invite her to the party.",
+        "german": "Sie hat ihre Freundin angerufen, um sie zur Party einzuladen."
+      },
+      {
+        "english": "He called the doctor to make an appointment.",
+        "german": "Er hat den Arzt angerufen, um einen Termin zu vereinbaren."
+      }
+    ]
+  },
+  "aufhören": {
+    "lemma": "aufhören",
+    "pronoun": "",
+    "english": "stop",
+    "examples": [
+      {
+        "english": "Please stop making so much noise.",
+        "german": "Bitte hört auf, so viel Lärm zu machen."
+      },
+      {
+        "english": "He decided to stop smoking.",
+        "german": "Er hat beschlossen, mit dem Rauchen aufzuhören."
+      }
+    ]
+  },
+  "Klasse": {
+    "lemma": "Klasse",
+    "pronoun": "die",
+    "english": "class",
+    "examples": [
+      {
+        "english": "I have a math class in the morning.",
+        "german": "Ich habe morgens eine Mathestunde."
+      },
+      {
+        "english": "The students in her class are very talented.",
+        "german": "Die Schüler in ihrer Klasse sind sehr talentiert."
+      }
+    ]
+  },
+  "Bild": {
+    "lemma": "Bild",
+    "pronoun": "das",
+    "english": "picture",
+    "examples": [
+      {
+        "english": "She painted a beautiful picture of the sunset.",
+        "german": "Sie malte ein wunderschönes Bild vom Sonnenuntergang."
+      },
+      {
+        "english": "Can you send me a picture of your new car?",
+        "german": "Kannst du mir ein Bild von deinem neuen Auto schicken?"
+      }
+    ]
+  },
+  "stark": {
+    "lemma": "stark",
+    "pronoun": "",
+    "english": "strong",
+    "examples": [
+      {
+        "english": "He is a strong and determined person.",
+        "german": "Er ist eine starke und entschlossene Person."
+      },
+      {
+        "english": "She lifted the heavy box with her strong muscles.",
+        "german": "Sie hob die schwere Kiste mit ihren starken Muskeln."
+      }
+    ]
+  },
+  "Dies": {
+    "lemma": "dieser",
+    "pronoun": "",
+    "english": "this",
+    "examples": [
+      {
+        "english": "This is my favorite book.",
+        "german": "Dies ist mein Lieblingsbuch."
+      },
+      {
+        "english": "I can't believe this happened.",
+        "german": "Ich kann nicht glauben, dass dies passiert ist."
+      }
+    ]
+  },
+  "Eure": {
+    "lemma": "euer",
+    "pronoun": "euer",
+    "english": "your",
+    "examples": [
+      {
+        "english": "Your opinion matters to us.",
+        "german": "Eure Meinung ist uns wichtig."
+      },
+      {
+        "english": "Please take your seats.",
+        "german": "Nehmt bitte eure Plätze ein."
+      }
+    ]
+  },
+  "zehn": {
+    "lemma": "zehn",
+    "pronoun": "",
+    "english": "ten",
+    "examples": [
+      {
+        "english": "There are ten apples in the basket.",
+        "german": "Im Korb sind zehn Äpfel."
+      },
+      {
+        "english": "He counted from one to ten.",
+        "german": "Er zählte von eins bis zehn."
+      }
+    ]
+  },
+  "Sinn": {
+    "lemma": "Sinn",
+    "pronoun": "der",
+    "english": "sense",
+    "examples": [
+      {
+        "english": "I don't understand the sense of this decision.",
+        "german": "Ich verstehe den Sinn dieser Entscheidung nicht."
+      },
+      {
+        "english": "She has a good sense of humor.",
+        "german": "Sie hat einen guten Sinn für Humor."
+      }
+    ]
+  },
+  "vorstellen": {
+    "lemma": "vorstellen",
+    "pronoun": "",
+    "english": "imagine",
+    "examples": [
+      {
+        "english": "Can you imagine living in a different country?",
+        "german": "Kannst du dir vorstellen, in einem anderen Land zu leben?"
+      },
+      {
+        "english": "He couldn't even imagine winning the lottery.",
+        "german": "Er konnte sich nicht einmal vorstellen, im Lotto zu gewinnen."
+      }
+    ]
+  },
+  "Traum": {
+    "lemma": "Traum",
+    "pronoun": "der",
+    "english": "dream",
+    "examples": [
+      {
+        "english": "I had a weird dream last night.",
+        "german": "Ich hatte letzte Nacht einen seltsamen Traum."
+      },
+      {
+        "english": "She is pursuing her dream of becoming a professional dancer.",
+        "german": "Sie verfolgt ihren Traum, eine professionelle Tänzerin zu werden."
+      }
+    ]
+  },
+  "länger": {
+    "lemma": "lang",
+    "pronoun": "",
+    "english": "longer",
+    "examples": [
+      {
+        "english": "Can you stay a little longer?",
+        "german": "Kannst du noch ein bisschen länger bleiben?"
+      },
+      {
+        "english": "The days are getting longer in summer.",
+        "german": "Die Tage werden im Sommer länger."
+      }
+    ]
+  },
+  "manchmal": {
+    "lemma": "manchmal",
+    "pronoun": "",
+    "english": "sometimes",
+    "examples": [
+      {
+        "english": "Sometimes I like to go for a walk in the park.",
+        "german": "Manchmal gehe ich gerne im Park spazieren."
+      },
+      {
+        "english": "She gets tired easily, but sometimes she has bursts of energy.",
+        "german": "Sie wird leicht müde, aber manchmal hat sie Energieschübe."
+      }
+    ]
+  },
+  "anrufen": {
+    "lemma": "anrufen",
+    "pronoun": "",
+    "english": "call",
+    "examples": [
+      {
+        "english": "I'll call you later.",
+        "german": "Ich rufe dich später an."
+      },
+      {
+        "english": "She called her friend to invite her to the party.",
+        "german": "Sie hat ihre Freundin angerufen, um sie zur Party einzuladen."
+      }
+    ]
+  },
+  "sechs": {
+    "lemma": "sechs",
+    "pronoun": "",
+    "english": "six",
+    "examples": [
+      {
+        "english": "There are six chairs around the table.",
+        "german": "Es gibt sechs Stühle um den Tisch."
+      },
+      {
+        "english": "He counted from one to six.",
+        "german": "Er zählte von eins bis sechs."
+      }
+    ]
+  },
+  "Arschloch": {
+    "lemma": "Arschloch",
+    "pronoun": "das",
+    "english": "asshole",
+    "examples": [
+      {
+        "english": "He called his opponent an asshole during the argument.",
+        "german": "Er nannte seinen Gegner während des Streits ein Arschloch."
+      },
+      {
+        "english": "She ignored the rude comment from the asshole.",
+        "german": "Sie ignorierte den unhöflichen Kommentar des Arschlochs."
+      }
+    ]
+  },
+  "sollst": {
+    "lemma": "sollen",
+    "pronoun": "",
+    "english": "should",
+    "examples": [
+      {
+        "english": "You should eat your vegetables.",
+        "german": "Du solltest dein Gemüse essen."
+      },
+      {
+        "english": "He should apologize for his behavior.",
+        "german": "Er sollte sich für sein Verhalten entschuldigen."
+      }
+    ]
+  },
+  "Gedanken": {
+    "lemma": "Gedanke",
+    "pronoun": "der",
+    "english": "thought",
+    "examples": [
+      {
+        "english": "I can't get you out of my thoughts.",
+        "german": "Ich kann dich nicht aus meinen Gedanken bekommen."
+      },
+      {
+        "english": "Deep in thought, she didn't notice the time passing.",
+        "german": "Vertieft in Gedanken bemerkte sie nicht, wie die Zeit verging."
+      }
+    ]
+  },
+  "Weile": {
+    "lemma": "Weile",
+    "pronoun": "die",
+    "english": "while",
+    "examples": [
+      {
+        "english": "Wait here for a while, I'll be right back.",
+        "german": "Warten Sie hier eine Weile, ich bin gleich zurück."
+      },
+      {
+        "english": "He lived in Paris for a while before moving to Berlin.",
+        "german": "Er lebte eine Weile in Paris, bevor er nach Berlin zog."
+      }
+    ]
+  },
+  "verdammt": {
+    "lemma": "verdammt",
+    "pronoun": "",
+    "english": "damn",
+    "examples": [
+      {
+        "english": "This coffee is damn hot!",
+        "german": "Dieser Kaffee ist verdammt heiß!"
+      },
+      {
+        "english": "He's a damn good musician.",
+        "german": "Er ist ein verdammt guter Musiker."
+      }
+    ]
+  },
+  "sagen": {
+    "lemma": "sagen",
+    "pronoun": "",
+    "english": "say",
+    "examples": [
+      {
+        "english": "What did you say?",
+        "german": "Was hast du gesagt?"
+      },
+      {
+        "english": "She said goodbye and left the room.",
+        "german": "Sie sagte auf Wiedersehen und verließ den Raum."
+      }
+    ]
+  },
+  "besonders": {
+    "lemma": "besonders",
+    "pronoun": "",
+    "english": "especially",
+    "examples": [
+      {
+        "english": "I like all kinds of fruits, especially strawberries.",
+        "german": "Ich mag alle Arten von Obst, besonders Erdbeeren."
+      },
+      {
+        "english": "She dressed up for the party and looked especially beautiful.",
+        "german": "Sie kleidete sich für die Party heraus und sah besonders schön aus."
+      }
+    ]
+  },
+  "Waffe": {
+    "lemma": "Waffe",
+    "pronoun": "die",
+    "english": "weapon",
+    "examples": [
+      {
+        "english": "He always carries a weapon for self-defense.",
+        "german": "Er trägt immer eine Waffe zur Selbstverteidigung bei sich."
+      },
+      {
+        "english": "The police confiscated the suspect's weapons.",
+        "german": "Die Polizei beschlagnahmte die Waffen des Verdächtigen."
+      }
+    ]
+  },
+  "Bür": {
+    "lemma": "Bür",
+    "pronoun": "die",
+    "english": "brush",
+    "examples": [
+      {
+        "english": "She uses a brush to comb her hair.",
+        "german": "Sie benutzt eine Bürste, um ihre Haare zu kämmen."
+      },
+      {
+        "english": "The painter cleaned the canvas with a brush.",
+        "german": "Der Maler reinigte die Leinwand mit einem Pinsel."
+      }
+    ]
+  },
+  "Wah": {
+    "lemma": "Wah",
+    "pronoun": "die",
+    "english": "choice",
+    "examples": [
+      {
+        "english": "It's your choice whether to come or not.",
+        "german": "Es ist deine Wahl, ob du kommst oder nicht."
+      },
+      {
+        "english": "She made a wise choice by pursuing her passion.",
+        "german": "Sie traf eine kluge Entscheidung, indem sie ihrer Leidenschaft nachging."
+      }
+    ]
+  },
+  "verliere": {
+    "lemma": "verlieren",
+    "pronoun": null,
+    "english": "to lose",
+    "examples": [
+      {
+        "english": "I don't want to lose you.",
+        "german": "Ich möchte dich nicht verlieren."
+      },
+      {
+        "english": "They lost the game due to a last-minute goal.",
+        "german": "Sie verloren das Spiel aufgrund eines Last-Minute-Tors."
+      }
+    ]
+  },
+  "Woche": {
+    "lemma": "Woche",
+    "pronoun": "die",
+    "english": "week",
+    "examples": [
+      {
+        "english": "We're going on vacation next week.",
+        "german": "Wir fahren nächste Woche in den Urlaub."
+      },
+      {
+        "english": "She has a busy schedule this week.",
+        "german": "Sie hat diese Woche einen vollen Terminplan."
+      }
+    ]
+  },
+  "Dami": {
+    "lemma": "dami",
+    "pronoun": null,
+    "english": "with it",
+    "examples": [
+      {
+        "english": "You need to be careful with it.",
+        "german": "Du musst vorsichtig damit sein."
+      },
+      {
+        "english": "She managed to fix the problem with it.",
+        "german": "Es gelang ihr, das Problem damit zu beheben."
+      }
+    ]
+  },
+  "Stüc": {
+    "lemma": "Stück",
+    "pronoun": "das",
+    "english": "piece",
+    "examples": [
+      {
+        "english": "Can I have a piece of cake, please?",
+        "german": "Kann ich bitte ein Stück Kuchen haben?"
+      },
+      {
+        "english": "He owns a valuable piece of art.",
+        "german": "Er besitzt ein wertvolles Kunstwerk."
+      }
+    ]
+  },
+  "liebe": {
+    "lemma": "lieben",
+    "pronoun": null,
+    "english": "to love",
+    "examples": [
+      {
+        "english": "I love spending time with my family.",
+        "german": "Ich liebe es, Zeit mit meiner Familie zu verbringen."
+      },
+      {
+        "english": "She loves to read books in her free time.",
+        "german": "Sie liebt es, in ihrer Freizeit Bücher zu lesen."
+      }
+    ]
+  },
+  "alle": {
+    "lemma": "alle",
+    "pronoun": null,
+    "english": "all",
+    "examples": [
+      {
+        "english": "They all agreed with the decision.",
+        "german": "Sie waren alle mit der Entscheidung einverstanden."
+      },
+      {
+        "english": "I've read all of his books.",
+        "german": "Ich habe alle seine Bücher gelesen."
+      }
+    ]
+  },
+  "getroffe": {
+    "lemma": "treffen",
+    "pronoun": null,
+    "english": "to meet",
+    "examples": [
+      {
+        "english": "We're meeting at the restaurant tonight.",
+        "german": "Wir treffen uns heute Abend im Restaurant."
+      },
+      {
+        "english": "He met his childhood friend after many years.",
+        "german": "Er traf seinen Kindheitsfreund nach vielen Jahren wieder."
+      }
+    ]
+  },
+  "ä": {
+    "lemma": "ä",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "A": {
+    "lemma": "a",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "geschaff": {
+    "lemma": "schaffen",
+    "pronoun": null,
+    "english": "to create",
+    "examples": [
+      {
+        "english": "She has created a beautiful piece of artwork.",
+        "german": "Sie hat ein wunderschönes Kunstwerk geschaffen."
+      },
+      {
+        "english": "They managed to create a successful business together.",
+        "german": "Es gelang ihnen, gemeinsam ein erfolgreiches Unternehmen zu schaffen."
+      }
+    ]
+  },
+  "tu": {
+    "lemma": "tun",
+    "pronoun": null,
+    "english": "to do",
+    "examples": [
+      {
+        "english": "What are you doing this weekend?",
+        "german": "Was machst du an diesem Wochenende?"
+      },
+      {
+        "english": "She does her best in everything she does.",
+        "german": "Sie gibt in allem, was sie tut, ihr Bestes."
+      }
+    ]
+  },
+  "gefalle": {
+    "lemma": "gefallen",
+    "pronoun": null,
+    "english": "to like",
+    "examples": [
+      {
+        "english": "Do you like this song?",
+        "german": "Gefällt dir dieses Lied?"
+      },
+      {
+        "english": "She liked the movie because of its beautiful cinematography.",
+        "german": "Ihr gefiel der Film wegen seiner schönen Kameraarbeit."
+      }
+    ]
+  },
+  "Tj": {
+    "lemma": "tj",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "Bos": {
+    "lemma": "Bos",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "überal": {
+    "lemma": "überall",
+    "pronoun": null,
+    "english": "everywhere",
+    "examples": [
+      {
+        "english": "I searched for my keys everywhere but couldn't find them.",
+        "german": "Ich habe überall nach meinen Schlüsseln gesucht, aber konnte sie nicht finden."
+      },
+      {
+        "english": "There were flowers blooming everywhere in the garden.",
+        "german": "Überall im Garten blühten Blumen."
+      }
+    ]
+  },
+  "Sieh": {
+    "lemma": "sieh",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "passiere": {
+    "lemma": "passieren",
+    "pronoun": null,
+    "english": "to happen",
+    "examples": [
+      {
+        "english": "Accidents can happen at any time.",
+        "german": "Unfälle können jederzeit passieren."
+      },
+      {
+        "english": "She wondered what had happened to her missing phone.",
+        "german": "Sie fragte sich, was mit ihrem verlorenen Handy passiert war."
+      }
+    ]
+  },
+  "lusti": {
+    "lemma": "lustig",
+    "pronoun": null,
+    "english": "funny",
+    "examples": [
+      {
+        "english": "He always tells funny jokes that make everyone laugh.",
+        "german": "Er erzählt immer lustige Witze, über die alle lachen."
+      },
+      {
+        "english": "The comedy show was hilarious and filled with funny moments.",
+        "german": "Die Comedy-Show war urkomisch und voller lustiger Momente."
+      }
+    ]
+  },
+  "Lich": {
+    "lemma": "lich",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "gebrach": {
+    "lemma": "gebrauchen",
+    "pronoun": null,
+    "english": "to use",
+    "examples": [
+      {
+        "english": "You can use my computer if you need to.",
+        "german": "Du kannst meinen Computer benutzen, wenn du musst."
+      },
+      {
+        "english": "She used her creativity to solve the problem.",
+        "german": "Sie gebrauchte ihre Kreativität, um das Problem zu lösen."
+      }
+    ]
+  },
+  "nenne": {
+    "lemma": "nennen",
+    "pronoun": null,
+    "english": "to name",
+    "examples": [
+      {
+        "english": "What do you want to name your new pet?",
+        "german": "Wie möchtest du dein neues Haustier nennen?"
+      },
+      {
+        "english": "She named her bakery after her grandmother.",
+        "german": "Sie benannte ihre Bäckerei nach ihrer Großmutter."
+      }
+    ]
+  },
+  "Folg": {
+    "lemma": "folgen",
+    "pronoun": null,
+    "english": "to follow",
+    "examples": [
+      {
+        "english": "Please follow me to the meeting room.",
+        "german": "Bitte folgen Sie mir zum Besprechungsraum."
+      },
+      {
+        "english": "He followed his dreams and pursued a career in music.",
+        "german": "Er folgte seinen Träumen und verfolgte eine Karriere in der Musik."
+      }
+    ]
+  },
+  "Gefüh": {
+    "lemma": "Gefühl",
+    "pronoun": "das",
+    "english": "feeling",
+    "examples": [
+      {
+        "english": "She had a strange feeling that something was about to happen.",
+        "german": "Sie hatte ein seltsames Gefühl, dass etwas passieren würde."
+      },
+      {
+        "english": "Love is a complex and powerful feeling.",
+        "german": "Liebe ist ein komplexes und mächtiges Gefühl."
+      }
+    ]
+  },
+  "völli": {
+    "lemma": "völlig",
+    "pronoun": null,
+    "english": "completely",
+    "examples": [
+      {
+        "english": "The room was completely empty.",
+        "german": "Der Raum war völlig leer."
+      },
+      {
+        "english": "I completely forgot about our meeting.",
+        "german": "Ich habe völlig vergessen, dass wir uns treffen wollten."
+      }
+    ]
+  },
+  "denk": {
+    "lemma": "denken",
+    "pronoun": null,
+    "english": "to think",
+    "examples": [
+      {
+        "english": "I think we should go for a walk.",
+        "german": "Ich denke, wir sollten spazieren gehen."
+      },
+      {
+        "english": "She thought about the problem for a long time before finding a solution.",
+        "german": "Sie dachte lange über das Problem nach, bevor sie eine Lösung fand."
+      }
+    ]
+  },
+  "Schlüsse": {
+    "lemma": "Schluss",
+    "pronoun": "der",
+    "english": "conclusion",
+    "examples": [
+      {
+        "english": "Based on the evidence, they reached the conclusion that he was guilty.",
+        "german": "Aufgrund der Beweise gelangten sie zu dem Schluss, dass er schuldig war."
+      },
+      {
+        "english": "She drew the wrong conclusion from the information she received.",
+        "german": "Sie zog aus den erhaltenen Informationen den falschen Schluss."
+      }
+    ]
+  },
+  "drübe": {
+    "lemma": "drüber",
+    "pronoun": null,
+    "english": "about it",
+    "examples": [
+      {
+        "english": "Let's talk about it tomorrow.",
+        "german": "Lass uns morgen darüber sprechen."
+      },
+      {
+        "english": "She was excited and couldn't stop talking about it.",
+        "german": "Sie war aufgeregt und konnte nicht aufhören, darüber zu reden."
+      }
+    ]
+  },
+  "Richti": {
+    "lemma": "richtig",
+    "pronoun": null,
+    "english": "correct",
+    "examples": [
+      {
+        "english": "You answered the question correctly.",
+        "german": "Du hast die Frage richtig beantwortet."
+      },
+      {
+        "english": "She made the right decision by pursuing her passion.",
+        "german": "Sie traf die richtige Entscheidung, indem sie ihrer Leidenschaft nachging."
+      }
+    ]
+  },
+  "wies": {
+    "lemma": "weisen",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "Leute": {
+    "lemma": "Leute",
+    "pronoun": "die",
+    "english": "people",
+    "examples": [
+      {
+        "english": "There were many people at the party.",
+        "german": "Es waren viele Leute auf der Party."
+      },
+      {
+        "english": "She enjoys being around positive and kind-hearted people.",
+        "german": "Sie genießt die Gesellschaft positiver und herzlicher Leute."
+      }
+    ]
+  },
+  "Buc": {
+    "lemma": "Buch",
+    "pronoun": "das",
+    "english": "book",
+    "examples": [
+      {
+        "english": "I'm reading a book about history.",
+        "german": "Ich lese ein Buch über Geschichte."
+      },
+      {
+        "english": "She wrote a bestselling book that became very popular.",
+        "german": "Sie schrieb ein Bestseller-Buch, das sehr populär wurde."
+      }
+    ]
+  },
+  "laufe": {
+    "lemma": "laufen",
+    "pronoun": null,
+    "english": "to run",
+    "examples": [
+      {
+        "english": "He enjoys running in the park every morning.",
+        "german": "Er läuft jeden Morgen gerne im Park."
+      },
+      {
+        "english": "She's training for a marathon and runs long distances regularly.",
+        "german": "Sie trainiert für einen Marathon und läuft regelmäßig lange Strecken."
+      }
+    ]
+  },
+  "spiel": {
+    "lemma": "spielen",
+    "pronoun": null,
+    "english": "to play",
+    "examples": [
+      {
+        "english": "Let's play a board game together.",
+        "german": "Lass uns gemeinsam ein Brettspiel spielen."
+      },
+      {
+        "english": "She plays the piano beautifully.",
+        "german": "Sie spielt wunderschön Klavier."
+      }
+    ]
+  },
+  "frühe": {
+    "lemma": "früh",
+    "pronoun": null,
+    "english": "early",
+    "examples": [
+      {
+        "english": "She woke up early to catch the morning train.",
+        "german": "Sie stand früh auf, um den Morgenzug zu erwischen."
+      },
+      {
+        "english": "He likes to start his day with an early morning jog.",
+        "german": "Er startet gerne seinen Tag mit einem frühen Morgenlauf."
+      }
+    ]
+  },
+  "Sei": {
+    "lemma": "sein",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "kran": {
+    "lemma": "krank",
+    "pronoun": null,
+    "english": "sick",
+    "examples": [
+      {
+        "english": "She couldn't go to work because she was sick.",
+        "german": "Sie konnte nicht zur Arbeit gehen, weil sie krank war."
+      },
+      {
+        "english": "He stayed home to take care of his sick child.",
+        "german": "Er blieb zu Hause, um sich um sein krankes Kind zu kümmern."
+      }
+    ]
+  },
+  "gegange": {
+    "lemma": "gehen",
+    "pronoun": null,
+    "english": "to go",
+    "examples": [
+      {
+        "english": "They have gone to the beach for a vacation.",
+        "german": "Sie sind zum Strand in den Urlaub gefahren."
+      },
+      {
+        "english": "She went to the supermarket to buy groceries.",
+        "german": "Sie ist zum Supermarkt gegangen, um Lebensmittel zu kaufen."
+      }
+    ]
+  },
+  "fan": {
+    "lemma": "fan",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "Sein": {
+    "lemma": "sein",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "Pas": {
+    "lemma": "pass",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "fühl": {
+    "lemma": "fühlen",
+    "pronoun": null,
+    "english": "to feel",
+    "examples": [
+      {
+        "english": "She feels happy when she's surrounded by loved ones.",
+        "german": "Sie fühlt sich glücklich, wenn sie von geliebten Menschen umgeben ist."
+      },
+      {
+        "english": "I feel tired after a long day at work.",
+        "german": "Ich fühle mich müde nach einem langen Arbeitstag."
+      }
+    ]
+  },
+  "Himme": {
+    "lemma": "Himmel",
+    "pronoun": "der",
+    "english": "sky",
+    "examples": [
+      {
+        "english": "The sun was shining brightly in the clear blue sky.",
+        "german": "Die Sonne schien hell am klaren blauen Himmel."
+      },
+      {
+        "english": "She gazed at the stars in the night sky.",
+        "german": "Sie starrte auf die Sterne am Nachthimmel."
+      }
+    ]
+  },
+  "fro": {
+    "lemma": "froh",
+    "pronoun": null,
+    "english": "happy",
+    "examples": [
+      {
+        "english": "He was happy to see his friends after a long time.",
+        "german": "Er war froh, seine Freunde nach langer Zeit zu sehen."
+      },
+      {
+        "english": "She's always in a good mood and happy.",
+        "german": "Sie ist immer gut gelaunt und fröhlich."
+      }
+    ]
+  },
+  "leich": {
+    "lemma": "leicht",
+    "pronoun": null,
+    "english": "easy",
+    "examples": [
+      {
+        "english": "Learning a new language is not easy, but it's rewarding.",
+        "german": "Eine neue Sprache zu lernen ist nicht leicht, aber es lohnt sich."
+      },
+      {
+        "english": "She found the math problem quite easy to solve.",
+        "german": "Sie fand die Mathematikaufgabe ziemlich leicht zu lösen."
+      }
+    ]
+  },
+  "direk": {
+    "lemma": "direkt",
+    "pronoun": null,
+    "english": "direct",
+    "examples": [
+      {
+        "english": "You can reach the office directly by taking the elevator to the 5th floor.",
+        "german": "Sie können das Büro direkt erreichen, indem Sie mit dem Aufzug in den 5. Stock fahren."
+      },
+      {
+        "english": "She gave me direct instructions on how to assemble the furniture.",
+        "german": "Sie gab mir direkte Anweisungen, wie ich die Möbel zusammenbauen sollte."
+      }
+    ]
+  },
+  "langsa": {
+    "lemma": "langsam",
+    "pronoun": null,
+    "english": "slow",
+    "examples": [
+      {
+        "english": "He drove slowly on the narrow and winding road.",
+        "german": "Er fuhr langsam auf der schmalen und kurvenreichen Straße."
+      },
+      {
+        "english": "She walked slowly to enjoy the peacefulness of the garden.",
+        "german": "Sie ging langsam, um die Ruhe des Gartens zu genießen."
+      }
+    ]
+  },
+  "wolltes": {
+    "lemma": "wollen",
+    "pronoun": null,
+    "english": "to want",
+    "examples": [
+      {
+        "english": "What did you want to tell me?",
+        "german": "Was wolltest du mir sagen?"
+      },
+      {
+        "english": "She wanted to go on a vacation but couldn't due to work.",
+        "german": "Sie wollte in den Urlaub fahren, konnte aber wegen der Arbeit nicht."
+      }
+    ]
+  },
+  "erinner": {
+    "lemma": "erinnern",
+    "pronoun": null,
+    "english": "to remember",
+    "examples": [
+      {
+        "english": "I can't remember where I put my keys.",
+        "german": "Ich kann mich nicht erinnern, wo ich meine Schlüssel hingelegt habe."
+      },
+      {
+        "english": "She remembered their anniversary and bought him a gift.",
+        "german": "Sie erinnerte sich an ihren Jahrestag und kaufte ihm ein Geschenk."
+      }
+    ]
+  },
+  "zuers": {
+    "lemma": "zuerst",
+    "pronoun": null,
+    "english": "first",
+    "examples": [
+      {
+        "english": "First, we need to prepare the ingredients.",
+        "german": "Zuerst müssen wir die Zutaten vorbereiten."
+      },
+      {
+        "english": "She finished her work first and then went to the party.",
+        "german": "Sie beendete ihre Arbeit zuerst und ging dann zur Party."
+      }
+    ]
+  },
+  "Krankenhau": {
+    "lemma": "Krankenhaus",
+    "pronoun": "das",
+    "english": "hospital",
+    "examples": [
+      {
+        "english": "He was admitted to the hospital for surgery.",
+        "german": "Er wurde ins Krankenhaus zur Operation eingeliefert."
+      },
+      {
+        "english": "She works as a nurse at a children's hospital.",
+        "german": "Sie arbeitet als Krankenschwester in einem Kinderkrankenhaus."
+      }
+    ]
+  },
+  "Vie": {
+    "lemma": "vie",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "best": {
+    "lemma": "best",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "welch": {
+    "lemma": "welch",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "genomme": {
+    "lemma": "nehmen",
+    "pronoun": null,
+    "english": "to take",
+    "examples": [
+      {
+        "english": "Please take a seat and make yourself comfortable.",
+        "german": "Bitte nehmen Sie Platz und machen Sie es sich bequem."
+      },
+      {
+        "english": "She took the opportunity to travel and explore new places.",
+        "german": "Sie nutzte die Gelegenheit, um zu reisen und neue Orte zu erkunden."
+      }
+    ]
+  },
+  "Arz": {
+    "lemma": "Arzt",
+    "pronoun": "der",
+    "english": "doctor",
+    "examples": [
+      {
+        "english": "She visited the doctor for a check-up.",
+        "german": "Sie besuchte den Arzt zur Untersuchung."
+      },
+      {
+        "english": "He's a renowned doctor in the field of neurology.",
+        "german": "Er ist ein renommierter Arzt auf dem Gebiet der Neurologie."
+      }
+    ]
+  },
+  "unsere": {
+    "lemma": "unser",
+    "pronoun": null,
+    "english": "our",
+    "examples": [
+      {
+        "english": "Our house is located near the beach.",
+        "german": "Unser Haus befindet sich in der Nähe des Strandes."
+      },
+      {
+        "english": "She enjoys spending time with our family.",
+        "german": "Sie genießt es, Zeit mit unserer Familie zu verbringen."
+      }
+    ]
+  },
+  "Idio": {
+    "lemma": "Idiot",
+    "pronoun": "der",
+    "english": "idiot",
+    "examples": [
+      {
+        "english": "Don't listen to him, he's just being an idiot.",
+        "german": "Hör nicht auf ihn, er benimmt sich nur wie ein Idiot."
+      },
+      {
+        "english": "She called her ex-boyfriend an idiot for cheating on her.",
+        "german": "Sie nannte ihren Ex-Freund einen Idioten, weil er sie betrogen hatte."
+      }
+    ]
+  },
+  "Mache": {
+    "lemma": "machen",
+    "pronoun": null,
+    "english": "to do",
+    "examples": [
+      {
+        "english": "What are you doing tonight?",
+        "german": "Was machst du heute Abend?"
+      },
+      {
+        "english": "She did her best to complete the project on time.",
+        "german": "Sie gab ihr Bestes, um das Projekt rechtzeitig abzuschließen."
+      }
+    ]
+  },
+  "glaubs": {
+    "lemma": "glauben",
+    "pronoun": null,
+    "english": "to believe",
+    "examples": [
+      {
+        "english": "I believe in you and your abilities.",
+        "german": "Ich glaube an dich und deine Fähigkeiten."
+      },
+      {
+        "english": "She believes that hard work and determination lead to success.",
+        "german": "Sie glaubt daran, dass harte Arbeit und Entschlossenheit zum Erfolg führen."
+      }
+    ]
+  },
+  "jed": {
+    "lemma": "jeder",
+    "pronoun": null,
+    "english": "every",
+    "examples": [
+      {
+        "english": "Every student needs to submit their assignment by tomorrow.",
+        "german": "Jeder Schüler muss seine Aufgabe bis morgen abgeben."
+      },
+      {
+        "english": "She enjoys every moment of her vacation.",
+        "german": "Sie genießt jeden Moment ihres Urlaubs."
+      }
+    ]
+  },
+  "Ohn": {
+    "lemma": "ohne",
+    "pronoun": null,
+    "english": "without",
+    "examples": [
+      {
+        "english": "I can't imagine my life without you.",
+        "german": "Ich kann mir mein Leben ohne dich nicht vorstellen."
+      },
+      {
+        "english": "She went to the store without her wallet and couldn't buy anything.",
+        "german": "Sie ging ohne ihre Geldbörse in den Laden und konnte nichts kaufen."
+      }
+    ]
+  },
+  "gro": {
+    "lemma": "groß",
+    "pronoun": null,
+    "english": "big",
+    "examples": [
+      {
+        "english": "They live in a big house with a large backyard.",
+        "german": "Sie leben in einem großen Haus mit einem großen Hinterhof."
+      },
+      {
+        "english": "She has a big family with many siblings.",
+        "german": "Sie hat eine große Familie mit vielen Geschwistern."
+      }
+    ]
+  },
+  "hattes": {
+    "lemma": "haben",
+    "pronoun": null,
+    "english": "to have",
+    "examples": [
+      {
+        "english": "She had a great time at the party.",
+        "german": "Sie hatte eine tolle Zeit auf der Party."
+      },
+      {
+        "english": "He has a lot of work to do this week.",
+        "german": "Er hat diese Woche viel Arbeit zu erledigen."
+      }
+    ]
+  },
+  "Ä": {
+    "lemma": "ä",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "Junge": {
+    "lemma": "Junge",
+    "pronoun": "der",
+    "english": "boy",
+    "examples": [
+      {
+        "english": "The little boy was playing in the park.",
+        "german": "Der kleine Junge spielte im Park."
+      },
+      {
+        "english": "She has two sons, one is a teenager and the other is a little boy.",
+        "german": "Sie hat zwei Söhne, einer ist ein Teenager und der andere ein kleiner Junge."
+      }
+    ]
+  },
+  "Res": {
+    "lemma": "Res",
+    "pronoun": null,
+    "english": null,
+    "examples": []
+  },
+  "Unser": {
+    "lemma": "unser",
+    "pronoun": null,
+    "english": "our",
+    "examples": [
+      {
+        "english": "Our team won the championship.",
+        "german": "Unser Team hat die Meisterschaft gewonnen."
+      },
+      {
+        "english": "She enjoys spending time with our family.",
+        "german": "Sie genießt es, Zeit mit unserer Familie zu verbringen."
+      }
+    ]
+  },
+  "versuch": {
+    "lemma": "versuchen",
+    "pronoun": null,
+    "english": "to try",
+    "examples": [
+      {
+        "english": "I will try my best to finish the project on time.",
+        "german": "Ich werde mein Bestes versuchen, das Projekt rechtzeitig abzuschließen."
+      },
+      {
+        "english": "She tried to learn a new skill but found it challenging.",
+        "german": "Sie versuchte, eine neue Fähigkeit zu erlernen, fand es jedoch herausfordernd."
+      }
+    ]
+  },
+  "schlaf": {
+    "lemma": "schlafen",
+    "pronoun": null,
+    "english": "to sleep",
+    "examples": [
+      {
+        "english": "I need to sleep early tonight because I have an early morning tomorrow.",
+        "german": "Ich muss heute Abend früh schlafen, weil ich morgen früh aufstehen muss."
+      },
+      {
+        "english": "She sleeps peacefully and wakes up refreshed.",
+        "german": "Sie schläft friedlich und wacht erfrischt auf."
+      }
+    ]
+  },
+  "schlecht": {
+    "lemma": "schlecht",
+    "pronoun": null,
+    "english": "bad",
+    "examples": [
+      {
+        "english": "She had a bad day at work.",
+        "german": "Sie hatte einen schlechten Tag auf der Arbeit."
+      },
+      {
+        "english": "The weather was bad, and it rained all day.",
+        "german": "Das Wetter war schlecht und es regnete den ganzen Tag."
+      }
+    ]
+  },
+  "Gedanke": {
+    "lemma": "Gedanke",
+    "pronoun": "der",
+    "english": "thought",
+    "examples": [
+      {
+        "english": "I can't get you out of my thoughts.",
+        "german": "Ich kann dich nicht aus meinen Gedanken bekommen."
+      },
+      {
+        "english": "Deep in thought, she didn't notice the time passing.",
+        "german": "Vertieft in Gedanken bemerkte sie nicht, wie die Zeit verging."
+      }
+    ]
+  },
+  "Lasst": {
+    "lemma": "Lasst",
+    "pronoun": "ihr",
+    "english": "Let",
+    "examples": [
+      {
+        "english": "Let them go.",
+        "german": "Lasst sie gehen."
+      }
+    ]
+  },
+  "gegeben": {
+    "lemma": "gegeben",
+    "pronoun": "gegeben",
+    "english": "given",
+    "examples": [
+      {
+        "english": "Given the circumstances, we had no choice.",
+        "german": "Gegeben die Umstände, hatten wir keine Wahl."
+      }
+    ]
+  },
+  "An": {
+    "lemma": "an",
+    "pronoun": "",
+    "english": "At",
+    "examples": [
+      {
+        "english": "I will meet you at the park.",
+        "german": "Ich treffe dich am Park."
+      }
+    ]
+  },
+  "hör": {
+    "lemma": "hör",
+    "pronoun": "hör",
+    "english": "hear",
+    "examples": [
+      {
+        "english": "Can you hear the music?",
+        "german": "Hörst du die Musik?"
+      }
+    ]
+  },
+  "glücklich": {
+    "lemma": "glücklich",
+    "pronoun": "",
+    "english": "happy",
+    "examples": [
+      {
+        "english": "She looks so happy.",
+        "german": "Sie sieht so glücklich aus."
+      }
+    ]
+  },
+  "verdammt": {
+    "lemma": "verdammt",
+    "pronoun": "",
+    "english": "damn",
+    "examples": [
+      {
+        "english": "You're such a damn liar.",
+        "german": "Du bist so ein verdammt Lügner."
+      }
+    ]
+  },
+  "alt": {
+    "lemma": "alt",
+    "pronoun": "",
+    "english": "old",
+    "examples": [
+      {
+        "english": "My grandmother is 80 years old.",
+        "german": "Meine Großmutter ist 80 Jahre alt."
+      }
+    ]
+  },
+  "Platz": {
+    "lemma": "Platz",
+    "pronoun": "der",
+    "english": "place",
+    "examples": [
+      {
+        "english": "Find a quiet place to study.",
+        "german": "Finde einen ruhigen Platz zum Lernen."
+      }
+    ]
+  },
+  "darum": {
+    "lemma": "darum",
+    "pronoun": "",
+    "english": "therefore",
+    "examples": [
+      {
+        "english": "He was late for the meeting; therefore, he missed important information.",
+        "german": "Er war zu spät zum Meeting; darum hat er wichtige Informationen verpasst."
+      }
+    ]
+  },
+  "Vielen": {
+    "lemma": "Vielen",
+    "pronoun": "",
+    "english": "many",
+    "examples": [
+      {
+        "english": "Thank you very much for your help.",
+        "german": "Vielen Dank für deine Hilfe."
+      }
+    ]
+  },
+  "falsch": {
+    "lemma": "falsch",
+    "pronoun": "",
+    "english": "wrong",
+    "examples": [
+      {
+        "english": "You're spelling that word wrong.",
+        "german": "Du buchstabierst das Wort falsch."
+      }
+    ]
+  },
+  "unseren": {
+    "lemma": "unseren",
+    "pronoun": "unser",
+    "english": "our",
+    "examples": [
+      {
+        "english": "These are our friends from school.",
+        "german": "Das sind unsere Freunde aus der Schule."
+      }
+    ]
+  },
+  "schlafen": {
+    "lemma": "schlafen",
+    "pronoun": "",
+    "english": "sleep",
+    "examples": [
+      {
+        "english": "I need to sleep early tonight.",
+        "german": "Ich muss heute Abend früh schlafen."
+      }
+    ]
+  },
+  "Sagen": {
+    "lemma": "Sagen",
+    "pronoun": "sagen",
+    "english": "say",
+    "examples": [
+      {
+        "english": "What did she say about the project?",
+        "german": "Was hat sie über das Projekt gesagt?"
+      }
+    ]
+  },
+  "nächsten": {
+    "lemma": "nächsten",
+    "pronoun": "nächste",
+    "english": "next",
+    "examples": [
+      {
+        "english": "We will meet again next week.",
+        "german": "Wir treffen uns nächste Woche wieder."
+      }
+    ]
+  },
+  "fünf": {
+    "lemma": "fünf",
+    "pronoun": "",
+    "english": "five",
+    "examples": [
+      {
+        "english": "I have five siblings.",
+        "german": "Ich habe fünf Geschwister."
+      }
+    ]
+  },
+  "frei": {
+    "lemma": "frei",
+    "pronoun": "",
+    "english": "free",
+    "examples": [
+      {
+        "english": "I have a free day tomorrow.",
+        "german": "Ich habe morgen einen freien Tag."
+      }
+    ]
+  },
+  "Sorge": {
+    "lemma": "Sorge",
+    "pronoun": "die",
+    "english": "worry",
+    "examples": [
+      {
+        "english": "Don't worry, everything will be fine.",
+        "german": "Keine Sorge, alles wird gut."
+      }
+    ]
+  },
+  "Vor": {
+    "lemma": "Vor",
+    "pronoun": "",
+    "english": "before",
+    "examples": [
+      {
+        "english": "Please arrive 15 minutes before the meeting.",
+        "german": "Bitte kommen Sie 15 Minuten vor dem Meeting."
+      }
+    ]
+  },
+  "fest": {
+    "lemma": "fest",
+    "pronoun": "",
+    "english": "firm",
+    "examples": [
+      {
+        "english": "Hold the rope tight and keep a firm grip.",
+        "german": "Halte das Seil fest und behalte einen festen Griff."
+      }
+    ]
+  },
+  "bereits": {
+    "lemma": "bereits",
+    "pronoun": "",
+    "english": "already",
+    "examples": [
+      {
+        "english": "I have already finished my homework.",
+        "german": "Ich habe bereits meine Hausaufgaben gemacht."
+      }
+    ]
+  },
+  "alleine": {
+    "lemma": "alleine",
+    "pronoun": "",
+    "english": "alone",
+    "examples": [
+      {
+        "english": "She prefers to be alone when she's working.",
+        "german": "Sie arbeitet lieber alleine."
+      }
+    ]
+  },
+  "Denn": {
+    "lemma": "Denn",
+    "pronoun": "",
+    "english": "because",
+    "examples": [
+      {
+        "english": "I couldn't come to the party because I was sick.",
+        "german": "Ich konnte nicht zur Party kommen, denn ich war krank."
+      }
+    ]
+  },
+  "Zwei": {
+    "lemma": "Zwei",
+    "pronoun": "",
+    "english": "two",
+    "examples": [
+      {
+        "english": "I have two cats.",
+        "german": "Ich habe zwei Katzen."
+      }
+    ]
+  },
+  "Fragen": {
+    "lemma": "Fragen",
+    "pronoun": "fragen",
+    "english": "ask",
+    "examples": [
+      {
+        "english": "Can I ask you a question?",
+        "german": "Kann ich dir eine Frage stellen?"
+      }
+    ]
+  },
+  "möglich": {
+    "lemma": "möglich",
+    "pronoun": "",
+    "english": "possible",
+    "examples": [
+      {
+        "english": "Please arrive as soon as possible.",
+        "german": "Bitte kommen Sie so schnell wie möglich."
+      }
+    ]
+  },
+  "irgendwie": {
+    "lemma": "irgendwie",
+    "pronoun": "",
+    "english": "somehow",
+    "examples": [
+      {
+        "english": "We'll figure it out somehow.",
+        "german": "Wir werden es irgendwie hinbekommen."
+      }
+    ]
+  },
+  "Papa": {
+    "lemma": "Papa",
+    "pronoun": "der",
+    "english": "dad",
+    "examples": [
+      {
+        "english": "My dad is coming to visit us tomorrow.",
+        "german": "Mein Papa kommt uns morgen besuchen."
+      }
+    ]
+  },
+  "lernen": {
+    "lemma": "lernen",
+    "pronoun": "",
+    "english": "learn",
+    "examples": [
+      {
+        "english": "I want to learn how to play the guitar.",
+        "german": "Ich möchte lernen, Gitarre zu spielen."
+      }
+    ]
+  },
+  "gestern": {
+    "lemma": "gestern",
+    "pronoun": "",
+    "english": "yesterday",
+    "examples": [
+      {
+        "english": "I saw her at the grocery store yesterday.",
+        "german": "Ich habe sie gestern im Supermarkt gesehen."
+      }
+    ]
+  },
+  "hierher": {
+    "lemma": "hierher",
+    "pronoun": "",
+    "english": "here",
+    "examples": [
+      {
+        "english": "Come here!",
+        "german": "Komm hierher!"
+      }
+    ]
+  },
+  "Schiff": {
+    "lemma": "Schiff",
+    "pronoun": "das",
+    "english": "ship",
+    "examples": [
+      {
+        "english": "The ship sailed across the ocean.",
+        "german": "Das Schiff segelte über den Ozean."
+      }
+    ]
+  },
+  "vier": {
+    "lemma": "vier",
+    "pronoun": "",
+    "english": "four",
+    "examples": [
+      {
+        "english": "She has four siblings.",
+        "german": "Sie hat vier Geschwister."
+      }
+    ]
+  },
+  "irgendwas": {
+    "lemma": "irgendwas",
+    "pronoun": "",
+    "english": "something",
+    "examples": [
+      {
+        "english": "I need to buy something for dinner.",
+        "german": "Ich muss noch etwas für das Abendessen kaufen."
+      }
+    ]
+  },
+  "Stimmt": {
+    "lemma": "Stimmt",
+    "pronoun": "",
+    "english": "correct",
+    "examples": [
+      {
+        "english": "You're right, the answer is correct.",
+        "german": "Stimmt, die Antwort ist korrekt."
+      }
+    ]
+  },
+  "Menge": {
+    "lemma": "Menge",
+    "pronoun": "die",
+    "english": "amount",
+    "examples": [
+      {
+        "english": "There is a large amount of work to be done.",
+        "german": "Es gibt eine große Menge Arbeit zu erledigen."
+      }
+    ]
+  },
+  "keiner": {
+    "lemma": "keiner",
+    "pronoun": "",
+    "english": "none",
+    "examples": [
+      {
+        "english": "None of the students had the correct answer.",
+        "german": "Keiner der Schüler hatte die richtige Antwort."
+      }
+    ]
+  },
+  "brauchst": {
+    "lemma": "brauchst",
+    "pronoun": "du",
+    "english": "need",
+    "examples": [
+      {
+        "english": "Do you need any help?",
+        "german": "Brauchst du Hilfe?"
+      }
+    ]
+  },
+  "Typen": {
+    "lemma": "Typen",
+    "pronoun": "die",
+    "english": "guys",
+    "examples": [
+      {
+        "english": "Those guys are always causing trouble.",
+        "german": "Diese Typen machen immer Ärger."
+      }
+    ]
+  },
+  "Dass": {
+    "lemma": "Dass",
+    "pronoun": "",
+    "english": "that",
+    "examples": [
+      {
+        "english": "I know that it's true.",
+        "german": "Ich weiß, dass es wahr ist."
+      }
+    ]
+  },
+  "Stunde": {
+    "lemma": "Stunde",
+    "pronoun": "die",
+    "english": "hour",
+    "examples": [
+      {
+        "english": "The meeting will last for an hour.",
+        "german": "Das Meeting dauert eine Stunde."
+      }
+    ]
+  },
+  "Szene": {
+    "lemma": "Szene",
+    "pronoun": "die",
+    "english": "scene",
+    "examples": [
+      {
+        "english": "The movie had a dramatic opening scene.",
+        "german": "Der Film hatte eine dramatische Eröffnungsszene."
+      }
+    ]
+  },
+  "Hölle": {
+    "lemma": "Hölle",
+    "pronoun": "die",
+    "english": "hell",
+    "examples": [
+      {
+        "english": "It was hot as hell outside.",
+        "german": "Es war heiß wie die Hölle draußen."
+      }
+    ]
+  },
+  "einige": {
+    "lemma": "einige",
+    "pronoun": "",
+    "english": "some",
+    "examples": [
+      {
+        "english": "I have some apples in the fridge.",
+        "german": "Ich habe einige Äpfel im Kühlschrank."
+      }
+    ]
+  },
+  "Deshalb": {
+    "lemma": "Deshalb",
+    "pronoun": "",
+    "english": "therefore",
+    "examples": [
+      {
+        "english": "She missed the train; therefore, she arrived late.",
+        "german": "Sie hat den Zug verpasst; deshalb ist sie zu spät gekommen."
+      }
+    ]
+  },
+  "geworden": {
+    "lemma": "geworden",
+    "pronoun": "",
+    "english": "become",
+    "examples": [
+      {
+        "english": "He has become a successful businessman.",
+        "german": "Er ist ein erfolgreicher Geschäftsmann geworden."
+      }
+    ]
+  },
+  "Telefon": {
+    "lemma": "Telefon",
+    "pronoun": "das",
+    "english": "telephone",
+    "examples": [
+      {
+        "english": "Can you pass me the telephone?",
+        "german": "Kannst du mir das Telefon geben?"
+      }
+    ]
+  },
+  "Darf": {
+    "lemma": "Darf",
+    "pronoun": "",
+    "english": "may",
+    "examples": [
+      {
+        "english": "May I have another slice of cake?",
+        "german": "Darf ich noch ein Stück Kuchen haben?"
+      }
+    ]
+  },
+  "Feuer": {
+    "lemma": "Feuer",
+    "pronoun": "das",
+    "english": "fire",
+    "examples": [
+      {
+        "english": "Don't play with fire.",
+        "german": "Spiele nicht mit dem Feuer."
+      }
+    ]
+  },
+  "Wollen": {
+    "lemma": "Wollen",
+    "pronoun": "wollen",
+    "english": "want",
+    "examples": [
+      {
+        "english": "What do you want to do today?",
+        "german": "Was möchtest du heute machen?"
+      }
+    ]
+  },
+  "Bin": {
+    "lemma": "Bin",
+    "pronoun": "",
+    "english": "am",
+    "examples": [
+      {
+        "english": "I am at home right now.",
+        "german": "Ich bin gerade zu Hause."
+      }
+    ]
+  },
+  "Alter": {
+    "lemma": "Alter",
+    "pronoun": "das",
+    "english": "age",
+    "examples": [
+      {
+        "english": "What's your age?",
+        "german": "Wie alt bist du?"
+      }
+    ]
+  },
+  "Captain": {
+    "lemma": "Captain",
+    "pronoun": "der",
+    "english": "captain",
+    "examples": [
+      {
+        "english": "The captain of the ship gave the order to set sail.",
+        "german": "Der Captain des Schiffs gab den Befehl zum Auslaufen."
+      }
+    ]
+  },
+  "Aus": {
+    "lemma": "Aus",
+    "pronoun": "",
+    "english": "out",
+    "examples": [
+      {
+        "english": "Please take your shoes off before entering the house.",
+        "german": "Bitte ziehen Sie Ihre Schuhe aus, bevor Sie das Haus betreten."
+      }
+    ]
+  },
+  "Dieses": {
+    "lemma": "Dieses",
+    "pronoun": "",
+    "english": "this",
+    "examples": [
+      {
+        "english": "I don't like this color.",
+        "german": "Ich mag diese Farbe nicht."
+      }
+    ]
+  },
+  "Probleme": {
+    "lemma": "Probleme",
+    "pronoun": "die",
+    "english": "problems",
+    "examples": [
+      {
+        "english": "I have a lot of problems to solve.",
+        "german": "Ich habe viele Probleme zu lösen."
+      }
+    ]
+  },
+  "Jeder": {
+    "lemma": "Jeder",
+    "pronoun": "",
+    "english": "everyone",
+    "examples": [
+      {
+        "english": "Everyone is invited to the party.",
+        "german": "Jeder ist zur Party eingeladen."
+      }
+    ]
+  },
+  "verstanden": {
+    "lemma": "verstanden",
+    "pronoun": "",
+    "english": "understood",
+    "examples": [
+      {
+        "english": "I have understood the instructions.",
+        "german": "Ich habe die Anweisungen verstanden."
+      }
+    ]
+  },
+  "wann": {
+    "lemma": "wann",
+    "pronoun": "",
+    "english": "when",
+    "examples": [
+      {
+        "english": "When are you coming home?",
+        "german": "Wann kommst du nach Hause?"
+      }
+    ]
+  },
+  "alten": {
+    "lemma": "alten",
+    "pronoun": "alt",
+    "english": "old",
+    "examples": [
+      {
+        "english": "I found an old photo in the attic.",
+        "german": "Ich habe ein altes Foto auf dem Dachboden gefunden."
+      }
+    ]
+  },
+  "gibt's": {
+    "lemma": "gibt's",
+    "pronoun": "es",
+    "english": "there is",
+    "examples": [
+      {
+        "english": "There is a party tonight, are you coming?",
+        "german": "Es gibt heute Abend eine Party, kommst du?"
+      }
+    ]
+  },
+  "sondern": {
+    "lemma": "sondern",
+    "pronoun": "",
+    "english": "but",
+    "examples": [
+      {
+        "english": "I don't want pizza, but I want pasta.",
+        "german": "Ich möchte keine Pizza, sondern ich möchte Pasta."
+      }
+    ]
+  },
+  "guten": {
+    "lemma": "guten",
+    "pronoun": "gut",
+    "english": "good",
+    "examples": [
+      {
+        "english": "Have a good day!",
+        "german": "Einen guten Tag!"
+      }
+    ]
+  },
+  "zwar": {
+    "lemma": "zwar",
+    "pronoun": "",
+    "english": "indeed",
+    "examples": [
+      {
+        "english": "It's raining, indeed, but I still want to go outside.",
+        "german": "Es regnet zwar, aber ich möchte trotzdem nach draußen gehen."
+      }
+    ]
+  },
+  "eigenen": {
+    "lemma": "eigenen",
+    "pronoun": "eigen",
+    "english": "own",
+    "examples": [
+      {
+        "english": "She has her own car.",
+        "german": "Sie hat ihr eigenes Auto."
+      }
+    ]
+  },
+  "New": {
+    "lemma": "New",
+    "pronoun": "",
+    "english": "new",
+    "examples": [
+      {
+        "english": "I bought a new laptop.",
+        "german": "Ich habe einen neuen Laptop gekauft."
+      }
+    ]
+  },
+  "Körper": {
+    "lemma": "Körper",
+    "pronoun": "der",
+    "english": "body",
+    "examples": [
+      {
+        "english": "Exercise is good for your body.",
+        "german": "Bewegung ist gut für deinen Körper."
+      }
+    ]
+  },
+  "hört": {
+    "lemma": "hört",
+    "pronoun": "hören",
+    "english": "listen",
+    "examples": [
+      {
+        "english": "Listen to what she has to say.",
+        "german": "Hör zu, was sie zu sagen hat."
+      }
+    ]
+  },
+  "Zum": {
+    "lemma": "Zum",
+    "pronoun": "",
+    "english": "to the",
+    "examples": [
+      {
+        "english": "I'm going to the park.",
+        "german": "Ich gehe zum Park."
+      }
+    ]
+  },
+  "gebe": {
+    "lemma": "gebe",
+    "pronoun": "geben",
+    "english": "give",
+    "examples": [
+      {
+        "english": "Give me your hand.",
+        "german": "Gib mir deine Hand."
+      }
+    ]
+  },
+  "Kumpel": {
+    "lemma": "Kumpel",
+    "pronoun": "der",
+    "english": "buddy",
+    "examples": [
+      {
+        "english": "He's my best buddy.",
+        "german": "Er ist mein bester Kumpel."
+      }
+    ]
+  },
+  "Hund": {
+    "lemma": "Hund",
+    "pronoun": "der",
+    "english": "dog",
+    "examples": [
+      {
+        "english": "I have a dog named Max.",
+        "german": "Ich habe einen Hund namens Max."
+      }
+    ]
+  },
+  "nochmal": {
+    "lemma": "nochmal",
+    "pronoun": "",
+    "english": "again",
+    "examples": [
+      {
+        "english": "Can you repeat that again, please?",
+        "german": "Kannst du das bitte nochmal wiederholen?"
+      }
+    ]
+  },
+  "hab's": {
+    "lemma": "hab's",
+    "pronoun": "haben",
+    "english": "have",
+    "examples": [
+      {
+        "english": "I have it in my bag.",
+        "german": "Ich habe es in meiner Tasche."
+      }
+    ]
+  },
+  "früh": {
+    "lemma": "früh",
+    "pronoun": "",
+    "english": "early",
+    "examples": [
+      {
+        "english": "She wakes up early in the morning.",
+        "german": "Sie wacht früh am Morgen auf."
+      }
+    ]
+  },
+  "Hören": {
+    "lemma": "Hören",
+    "pronoun": "hören",
+    "english": "hear",
+    "examples": [
+      {
+        "english": "Can you hear the music?",
+        "german": "Hörst du die Musik?"
+      }
+    ]
+  },
+  "trinken": {
+    "lemma": "trinken",
+    "pronoun": "",
+    "english": "drink",
+    "examples": [
+      {
+        "english": "I like to drink coffee in the morning.",
+        "german": "Ich trinke gerne Kaffee am Morgen."
+      }
+    ]
+  },
+  "besten": {
+    "lemma": "besten",
+    "pronoun": "gut",
+    "english": "best",
+    "examples": [
+      {
+        "english": "She is the best student in the class.",
+        "german": "Sie ist die beste Schülerin in der Klasse."
+      }
+    ]
+  },
+  "meines": {
+    "lemma": "meines",
+    "pronoun": "mein",
+    "english": "mine",
+    "examples": [
+      {
+        "english": "This book is mine.",
+        "german": "Dieses Buch gehört mir."
+      }
+    ]
+  },
+  "schaffen": {
+    "lemma": "schaffen",
+    "pronoun": "",
+    "english": "manage",
+    "examples": [
+      {
+        "english": "I believe you can manage it.",
+        "german": "Ich glaube, du schaffst das."
+      }
+    ]
+  },
+  "alte": {
+    "lemma": "alte",
+    "pronoun": "alt",
+    "english": "old",
+    "examples": [
+      {
+        "english": "I love listening to old music.",
+        "german": "Ich liebe es, alte Musik zu hören."
+      }
+    ]
+  },
+  "Luft": {
+    "lemma": "Luft",
+    "pronoun": "die",
+    "english": "air",
+    "examples": [
+      {
+        "english": "I need some fresh air.",
+        "german": "Ich brauche etwas frische Luft."
+      }
+    ]
+  },
+  "Jemand": {
+    "lemma": "Jemand",
+    "pronoun": "",
+    "english": "someone",
+    "examples": [
+      {
+        "english": "Someone is knocking at the door.",
+        "german": "Jemand klopft an der Tür."
+      }
+    ]
+  },
+  "dürfen": {
+    "lemma": "dürfen",
+    "pronoun": "",
+    "english": "may",
+    "examples": [
+      {
+        "english": "May I borrow your pen?",
+        "german": "Darf ich mir deinen Stift ausleihen?"
+      }
+    ]
+  },
+  "Meister": {
+    "lemma": "Meister",
+    "pronoun": "der",
+    "english": "master",
+    "examples": [
+      {
+        "english": "He is a master of his craft.",
+        "german": "Er ist ein Meister seines Fachs."
+      }
+    ]
+  },
+  "Erde": {
+    "lemma": "Erde",
+    "pronoun": "die",
+    "english": "earth",
+    "examples": [
+      {
+        "english": "The Earth is our home.",
+        "german": "Die Erde ist unser Zuhause."
+      }
+    ]
+  },
+  "Seit": {
+    "lemma": "Seit",
+    "pronoun": "",
+    "english": "since",
+    "examples": [
+      {
+        "english": "I haven't seen her since last year.",
+        "german": "Ich habe sie seit letztem Jahr nicht mehr gesehen."
+      }
+    ]
+  },
+  "Sicher": {
+    "lemma": "Sicher",
+    "pronoun": "",
+    "english": "safe",
+    "examples": [
+      {
+        "english": "Make sure to lock the door before leaving.",
+        "german": "Stell sicher, dass du die Tür abschließt, bevor du gehst."
+      }
+    ]
+  },
+  "Hört": {
+    "lemma": "Hört",
+    "pronoun": "hören",
+    "english": "listen",
+    "examples": [
+      {
+        "english": "Listen to what she has to say.",
+        "german": "Hört, was sie zu sagen hat."
+      }
+    ]
+  },
+  "Zukunft": {
+    "lemma": "Zukunft",
+    "pronoun": "die",
+    "english": "future",
+    "examples": [
+      {
+        "english": "I'm excited to see what the future holds.",
+        "german": "Ich bin gespannt, was die Zukunft bringt."
+      }
+    ]
+  },
+  "kaum": {
+    "lemma": "kaum",
+    "pronoun": "",
+    "english": "hardly",
+    "examples": [
+      {
+        "english": "He hardly ever goes out at night.",
+        "german": "Er geht kaum jemals nachts aus."
+      }
+    ]
+  },
+  "funktioniert": {
+    "lemma": "funktioniert",
+    "pronoun": "",
+    "english": "works",
+    "examples": [
+      {
+        "english": "The TV isn't working.",
+        "german": "Der Fernseher funktioniert nicht."
+      }
+    ]
+  },
+  "voll": {
+    "lemma": "voll",
+    "pronoun": "",
+    "english": "full",
+    "examples": [
+      {
+        "english": "The bus is full, we'll have to wait for the next one.",
+        "german": "Der Bus ist voll, wir müssen auf den nächsten warten."
+      }
+    ]
+  },
+  "Bleib": {
+    "lemma": "Bleib",
+    "pronoun": "",
+    "english": "stay",
+    "examples": [
+      {
+        "english": "Stay here and wait for me.",
+        "german": "Bleib hier und warte auf mich."
+      }
+    ]
+  },
+  "reicht": {
+    "lemma": "reicht",
+    "pronoun": "reichen",
+    "english": "enough",
+    "examples": [
+      {
+        "english": "That amount of food should be enough for everyone.",
+        "german": "Die Menge an Essen sollte für alle reichen."
+      }
+    ]
+  },
+  "weh": {
+    "lemma": "weh",
+    "pronoun": "",
+    "english": "hurt",
+    "examples": [
+      {
+        "english": "My arm hurts.",
+        "german": "Mein Arm tut weh."
+      }
+    ]
+  },
+  "stellen": {
+    "lemma": "stellen",
+    "pronoun": "",
+    "english": "place",
+    "examples": [
+      {
+        "english": "Please place the package on the table.",
+        "german": "Bitte stell das Paket auf den Tisch."
+      }
+    ]
+  },
+  "Siehst": {
+    "lemma": "Siehst",
+    "pronoun": "sehen",
+    "english": "see",
+    "examples": [
+      {
+        "english": "Do you see what I mean?",
+        "german": "Siehst du, was ich meine?"
+      }
+    ]
+  },
+  "kleiner": {
+    "lemma": "kleiner",
+    "pronoun": "klein",
+    "english": "small",
+    "examples": [
+      {
+        "english": "I need a smaller size.",
+        "german": "Ich brauche eine kleinere Größe."
+      }
+    ]
+  },
+  "großen": {
+    "lemma": "großen",
+    "pronoun": "groß",
+    "english": "big",
+    "examples": [
+      {
+        "english": "She has a big house.",
+        "german": "Sie hat ein großes Haus."
+      }
+    ]
+  },
+  "schlecht": {
+    "lemma": "schlecht",
+    "pronoun": "",
+    "english": "bad",
+    "examples": [
+    {
+    "english": "The weather is bad today.",
+    "german": "Das Wetter ist heute schlecht."
+    }
+    ]
+    },
+    "große": {
+    "lemma": "große",
+    "pronoun": "groß",
+    "english": "big",
+    "examples": [
+    {
+    "english": "She has a big house.",
+    "german": "Sie hat ein großes Haus."
+    }
+    ]
+    },
+    "getötet": {
+    "lemma": "getötet",
+    "pronoun": "töten",
+    "english": "killed",
+    "examples": [
+    {
+    "english": "The soldier was killed in action.",
+    "german": "Der Soldat wurde im Einsatz getötet."
+    }
+    ]
+    },
+    "verstehen": {
+    "lemma": "verstehen",
+    "pronoun": "",
+    "english": "understand",
+    "examples": [
+    {
+    "english": "I don't understand what you're saying.",
+    "german": "Ich verstehe nicht, was du sagst."
+    }
+    ]
+    },
+    "hoffe": {
+    "lemma": "hoffe",
+    "pronoun": "hoffen",
+    "english": "hope",
+    "examples": [
+    {
+    "english": "I hope everything goes well.",
+    "german": "Ich hoffe, dass alles gut läuft."
+    }
+    ]
+    },
+    "Ah": {
+    "lemma": "Ah",
+    "pronoun": "",
+    "english": "ah",
+    "examples": [
+    {
+    "english": "Ah, I see what you mean now.",
+    "german": "Ah, jetzt verstehe ich, was du meinst."
+    }
+    ]
+    },
+    "Sei": {
+    "lemma": "Sei",
+    "pronoun": "sein",
+    "english": "be",
+    "examples": [
+    {
+    "english": "Just be yourself.",
+    "german": "Sei einfach du selbst."
+    }
+    ]
+    },
+    "Zimmer": {
+    "lemma": "Zimmer",
+    "pronoun": "das",
+    "english": "room",
+    "examples": [
+    {
+    "english": "The hotel room is spacious and comfortable.",
+    "german": "Das Hotelzimmer ist geräumig und komfortabel."
+    }
+    ]
+    },
+    "hoch": {
+    "lemma": "hoch",
+    "pronoun": "",
+    "english": "high",
+    "examples": [
+    {
+    "english": "The mountain peak is very high.",
+    "german": "Der Berggipfel ist sehr hoch."
+    }
+    ]
+    },
+    "unserer": {
+    "lemma": "unserer",
+    "pronoun": "unser",
+    "english": "our",
+    "examples": [
+    {
+    "english": "This is our house.",
+    "german": "Das ist unser Haus."
+    }
+    ]
+    },
+    "Tage": {
+    "lemma": "Tage",
+    "pronoun": "der",
+    "english": "days",
+    "examples": [
+    {
+    "english": "The days are getting shorter in winter.",
+    "german": "Im Winter werden die Tage kürzer."
+    }
+    ]
+    },
+    "Teil": {
+    "lemma": "Teil",
+    "pronoun": "der",
+    "english": "part",
+    "examples": [
+    {
+    "english": "I played a part in the school play.",
+    "german": "Ich hatte eine Rolle im Schultheaterstück."
+    }
+    ]
+    },
+    "Wann": {
+    "lemma": "Wann",
+    "pronoun": "",
+    "english": "when",
+    "examples": [
+    {
+    "english": "When will you arrive?",
+    "german": "Wann wirst du ankommen?"
+    }
+    ]
+    },
+    "suchen": {
+    "lemma": "suchen",
+    "pronoun": "",
+    "english": "search",
+    "examples": [
+    {
+    "english": "I need to search for my keys.",
+    "german": "Ich muss meine Schlüssel suchen."
+    }
+    ]
+    },
+    "verlassen": {
+    "lemma": "verlassen",
+    "pronoun": "",
+    "english": "leave",
+    "examples": [
+    {
+    "english": "Don't leave me alone.",
+    "german": "Verlass mich nicht allein."
+    }
+    ]
+    },
+    "zeigen": {
+    "lemma": "zeigen",
+    "pronoun": "",
+    "english": "show",
+    "examples": [
+    {
+    "english": "Can you show me the way to the train station?",
+    "german": "Kannst du mir den Weg zum Bahnhof zeigen?"
+    }
+    ]
+    },
+    "wollten": {
+    "lemma": "wollten",
+    "pronoun": "wollen",
+    "english": "wanted",
+    "examples": [
+    {
+    "english": "We wanted to go on vacation, but it didn't work out.",
+    "german": "Wir wollten in den Urlaub fahren, aber es hat nicht geklappt."
+    }
+    ]
+    },
+    "lässt": {
+    "lemma": "lässt",
+    "pronoun": "lassen",
+    "english": "let",
+    "examples": [
+    {
+    "english": "Don't let fear control your life.",
+    "german": "Lass die Angst nicht dein Leben bestimmen."
+    }
+    ]
+    },
+    "Wort": {
+    "lemma": "Wort",
+    "pronoun": "das",
+    "english": "word",
+    "examples": [
+    {
+    "english": "I don't have the right words to express my feelings.",
+    "german": "Ich habe nicht die richtigen Worte, um meine Gefühle auszudrücken."
+    }
+    ]
+    },
+    "eins": {
+    "lemma": "eins",
+    "pronoun": "eine",
+    "english": "one",
+    "examples": [
+    {
+    "english": "Can I have one piece of cake, please?",
+    "german": "Kann ich bitte ein Stück Kuchen haben?"
+    }
+    ]
+    },
+    "zwischen": {
+    "lemma": "zwischen",
+    "pronoun": "",
+    "english": "between",
+    "examples": [
+    {
+    "english": "The store is located between the bank and the library.",
+    "german": "Der Laden befindet sich zwischen der Bank und der Bibliothek."
+    }
+    ]
+    },
+    "Woher": {
+    "lemma": "Woher",
+    "pronoun": "",
+    "english": "where from",
+    "examples": [
+    {
+    "english": "Where are you from?",
+    "german": "Woher kommst du?"
+    }
+    ]
+    },
+    "Schatz": {
+    "lemma": "Schatz",
+    "pronoun": "der",
+    "english": "treasure",
+    "examples": [
+    {
+    "english": "This necklace is my most precious treasure.",
+    "german": "Diese Halskette ist mein wertvollster Schatz."
+    }
+    ]
+    },
+    "Wissen": {
+    "lemma": "Wissen",
+    "pronoun": "das",
+    "english": "knowledge",
+    "examples": [
+    {
+    "english": "He has a deep knowledge of history.",
+    "german": "Er hat ein fundiertes Wissen über Geschichte."
+    }
+    ]
+    },
+    "versuchen": {
+    "lemma": "versuchen",
+    "pronoun": "",
+    "english": "try",
+    "examples": [
+    {
+    "english": "I will try my best to finish the project on time.",
+    "german": "Ich werde mein Bestes versuchen, das Projekt rechtzeitig abzuschließen."
+    }
+    ]
+    },
+    "Können": {
+    "lemma": "Können",
+    "pronoun": "",
+    "english": "ability",
+    "examples": [
+    {
+    "english": "She has the ability to learn languages quickly.",
+    "german": "Sie hat die Fähigkeit, Sprachen schnell zu lernen."
+    }
+    ]
+    },
+    "Kannst": {
+    "lemma": "Kannst",
+    "pronoun": "können",
+    "english": "can",
+    "examples": [
+    {
+    "english": "Can you help me carry these boxes?",
+    "german": "Kannst du mir helfen, diese Kisten zu tragen?"
+    }
+    ]
+    },
+    "nett": {
+    "lemma": "nett",
+    "pronoun": "",
+    "english": "nice",
+    "examples": [
+    {
+    "english": "He is a very nice person.",
+    "german": "Er ist eine sehr nette Person."
+    }
+    ]
+    },
+    "Zu": {
+    "lemma": "Zu",
+    "pronoun": "",
+    "english": "to",
+    "examples": [
+    {
+    "english": "I'm going to the park.",
+    "german": "Ich gehe in den Park."
+    }
+    ]
+    },
+    "kriegen": {
+    "lemma": "kriegen",
+    "pronoun": "",
+    "english": "get",
+    "examples": [
+    {
+    "english": "I want to get a new car.",
+    "german": "Ich möchte ein neues Auto kriegen."
+    }
+    ]
+    },
+    "Geht": {
+    "lemma": "Geht",
+    "pronoun": "gehen",
+    "english": "goes",
+    "examples": [
+    {
+    "english": "The bus goes to the city center.",
+    "german": "Der Bus fährt zum Stadtzentrum."
+    }
+    ]
+    },
+    "Arsch": {
+    "lemma": "Arsch",
+    "pronoun": "der",
+    "english": "ass",
+    "examples": [
+    {
+    "english": "He kicked him in the ass.",
+    "german": "Er trat ihm in den Arsch."
+    }
+    ]
+    },
+    "kleinen": {
+    "lemma": "kleinen",
+    "pronoun": "klein",
+    "english": "small",
+    "examples": [
+    {
+    "english": "She has a small apartment in the city.",
+    "german": "Sie hat eine kleine Wohnung in der Stadt."
+    }
+    ]
+    },
+    "Hab": {
+    "lemma": "Hab",
+    "pronoun": "haben",
+    "english": "have",
+    "examples": [
+    {
+    "english": "I have a cat as a pet.",
+    "german": "Ich habe eine Katze als Haustier."
+    }
+    ]
+    },
+    "weiss": {
+    "lemma": "weiss",
+    "pronoun": "wissen",
+    "english": "know",
+    "examples": [
+    {
+    "english": "I don't know the answer to that question.",
+    "german": "Ich weiss die Antwort auf diese Frage nicht."
+    }
+    ]
+    },
+    "erste": {
+    "lemma": "erste",
+    "pronoun": "erst",
+    "english": "first",
+    "examples": [
+    {
+    "english": "This is my first time visiting this city.",
+    "german": "Das ist das erste Mal, dass ich diese Stadt besuche."
+    }
+    ]
+    },
+    "läuft": {
+    "lemma": "läuft",
+    "pronoun": "laufen",
+    "english": "runs",
+    "examples": [
+    {
+    "english": "The dog runs in the park every morning.",
+    "german": "Der Hund läuft jeden Morgen im Park."
+    }
+    ]
+    },
+    "kommst": {
+    "lemma": "kommst",
+    "pronoun": "kommen",
+    "english": "come",
+    "examples": [
+    {
+    "english": "Are you coming to the party tonight?",
+    "german": "Kommst du heute Abend zur Party?"
+    }
+    ]
+    },
+    "Freundin": {
+    "lemma": "Freundin",
+    "pronoun": "die",
+    "english": "friend (female)",
+    "examples": [
+    {
+    "english": "My best friend is a great friend.",
+    "german": "Meine beste Freundin ist eine tolle Freundin."
+    }
+    ]
+    },
+    "Mensch": {
+    "lemma": "Mensch",
+    "pronoun": "der",
+    "english": "human",
+    "examples": [
+    {
+    "english": "We are all human beings.",
+    "german": "Wir sind alle Menschen."
+    }
+    ]
+    },
+    "beiden": {
+    "lemma": "beiden",
+    "pronoun": "beide",
+    "english": "both",
+    "examples": [
+    {
+    "english": "Both of them were happy with the outcome.",
+    "german": "Beide waren mit dem Ergebnis zufrieden."
+    }
+    ]
+    },
+    "Ding": {
+    "lemma": "Ding",
+    "pronoun": "das",
+    "english": "thing",
+    "examples": [
+    {
+    "english": "I forgot to bring my phone. It's the most important thing.",
+    "german": "Ich habe vergessen, mein Handy mitzubringen. Es ist das wichtigste Ding."
+    }
+    ]
+    },
+    "niemals": {
+    "lemma": "niemals",
+    "pronoun": "",
+    "english": "never",
+    "examples": [
+    {
+    "english": "I will never forget this moment.",
+    "german": "Ich werde diesen Moment niemals vergessen."
+    }
+    ]
+    },
+    "endlich": {
+    "lemma": "endlich",
+    "pronoun": "",
+    "english": "finally",
+    "examples": [
+    {
+    "english": "I'm so happy to finally see you.",
+    "german": "Ich bin so glücklich, dich endlich zu sehen."
+    }
+    ]
+    },
+    "Nimm": {
+    "lemma": "Nimm",
+    "pronoun": "nehmen",
+    "english": "take",
+    "examples": [
+    {
+    "english": "Take your time to decide.",
+    "german": "Nimm dir Zeit, um zu entscheiden."
+    }
+    ]
+    },
+    "muß": {
+    "lemma": "muß",
+    "pronoun": "müssen",
+    "english": "must",
+    "examples": [
+    {
+    "english": "I must finish this report by tomorrow.",
+    "german": "Ich muss diesen Bericht bis morgen fertigstellen."
+    }
+    ]
+    },
+    "gehst": {
+    "lemma": "gehst",
+    "pronoun": "gehen",
+    "english": "go",
+    "examples": [
+    {
+    "english": "Are you going to the party tonight?",
+    "german": "Gehst du heute Abend zur Party?"
+    }
+    ]
+    },
+    "Heute": {
+    "lemma": "Heute",
+    "pronoun": "",
+    "english": "today",
+    "examples": [
+    {
+    "english": "I have a meeting with a client today.",
+    "german": "Ich habe heute ein Treffen mit einem Kunden."
+    }
+    ]
+    },
+    "denkst": {
+    "lemma": "denkst",
+    "pronoun": "denken",
+    "english": "think",
+    "examples": [
+    {
+    "english": "What do you think about this idea?",
+    "german": "Was denkst du über diese Idee?"
+    }
+    ]
+    },
+    "Herz": {
+    "lemma": "Herz",
+    "pronoun": "das",
+    "english": "heart",
+    "examples": [
+    {
+    "english": "My heart beats faster when I'm excited.",
+    "german": "Mein Herz schlägt schneller, wenn ich aufgeregt bin."
+    }
+    ]
+    },
+    "Waffe": {
+    "lemma": "Waffe",
+    "pronoun": "die",
+    "english": "weapon",
+    "examples": [
+    {
+    "english": "He was holding a weapon in his hand.",
+    "german": "Er hielt eine Waffe in der Hand."
+    }
+    ]
+    },
+    "Soll": {
+    "lemma": "Soll",
+    "pronoun": "sollen",
+    "english": "should",
+    "examples": [
+    {
+    "english": "You should eat more fruits and vegetables.",
+    "german": "Du solltest mehr Obst und Gemüse essen."
+    }
+    ]
+    },
+    "tust": {
+    "lemma": "tust",
+    "pronoun": "tun",
+    "english": "do",
+    "examples": [
+    {
+    "english": "What are you doing tonight?",
+    "german": "Was tust du heute Abend?"
+    }
+    ]
+    },
+    "Dollar": {
+    "lemma": "Dollar",
+    "pronoun": "der",
+    "english": "dollar",
+    "examples": [
+    {
+    "english": "The price is 10 dollars.",
+    "german": "Der Preis beträgt 10 Dollar."
+    }
+    ]
+    },
+    "nehme": {
+    "lemma": "nehme",
+    "pronoun": "nehmen",
+    "english": "take",
+    "examples": [
+    {
+    "english": "I will take the blue one.",
+    "german": "Ich nehme den blauen."
+    }
+    ]
+    },
+    "Schau": {
+    "lemma": "Schau",
+    "pronoun": "schauen",
+    "english": "look",
+    "examples": [
+    {
+    "english": "Look at that beautiful sunset.",
+    "german": "Schau dir den wunderschönen Sonnenuntergang an."
+    }
+    ]
+    },
+    "holen": {
+    "lemma": "holen",
+    "pronoun": "",
+    "english": "fetch",
+    "examples": [
+    {
+    "english": "Can you fetch me a glass of water?",
+    "german": "Kannst du mir ein Glas Wasser holen?"
+    }
+    ]
+    },
+    "oft": {
+    "lemma": "oft",
+    "pronoun": "",
+    "english": "often",
+    "examples": [
+    {
+    "english": "I often go jogging in the morning.",
+    "german": "Ich gehe oft morgens joggen."
+    }
+    ]
+    },
+    "drauf": {
+    "lemma": "drauf",
+    "pronoun": "darauf",
+    "english": "on it",
+    "examples": [
+    {
+    "english": "Put the book on the table.",
+    "german": "Leg das Buch drauf den Tisch."
+    }
+    ]
+    },
+    "anderes": {
+    "lemma": "anderes",
+    "pronoun": "anders",
+    "english": "different",
+    "examples": [
+    {
+    "english": "I prefer a different color for the walls.",
+    "german": "Ich bevorzuge eine andere Farbe für die Wände."
+    }
+    ]
+    },
+    "Niemand": {
+    "lemma": "Niemand",
+    "pronoun": "",
+    "english": "nobody",
+    "examples": [
+    {
+    "english": "Nobody knows the answer to that question.",
+    "german": "Niemand kennt die Antwort auf diese Frage."
+    }
+    ]
+    },
+    "unten": {
+    "lemma": "unten",
+    "pronoun": "",
+    "english": "down",
+    "examples": [
+    {
+    "english": "Please go down the stairs to the basement.",
+    "german": "Bitte gehe die Treppe hinunter in den Keller."
+    }
+    ]
+    },
+    "Wagen": {
+    "lemma": "Wagen",
+    "pronoun": "der",
+    "english": "car",
+    "examples": [
+    {
+    "english": "I want to buy a new car.",
+    "german": "Ich möchte ein neues Auto kaufen."
+    }
+    ]
+    },
+    "Yeah": {
+    "lemma": "Yeah",
+    "pronoun": "",
+    "english": "yeah",
+    "examples": [
+    {
+    "english": "Yeah, I totally agree with you.",
+    "german": "Ja, ich stimme dir vollkommen zu."
+    }
+    ]
+    },
+    "Schön": {
+    "lemma": "Schön",
+    "pronoun": "",
+    "english": "beautiful",
+    "examples": [
+    {
+    "english": "What a beautiful sunset!",
+    "german": "Was für ein schöner Sonnenuntergang!"
+    }
+    ]
+    },
+    "wichtig": {
+    "lemma": "wichtig",
+    "pronoun": "",
+    "english": "important",
+    "examples": [
+    {
+    "english": "It's important to drink enough water every day.",
+    "german": "Es ist wichtig, jeden Tag genug Wasser zu trinken."
+    }
+    ]
+    },
+    "Mrs": {
+    "lemma": "Mrs",
+    "pronoun": "Frau",
+    "english": "Mrs.",
+    "examples": [
+    {
+    "english": "Mrs. Smith is my neighbor.",
+    "german": "Frau Smith ist meine Nachbarin."
+    }
+    ]
+    },
+    "hättest": {
+    "lemma": "hättest",
+    "pronoun": "haben",
+    "english": "would have",
+    "examples": [
+    {
+    "english": "If you had studied more, you would have passed the exam.",
+    "german": "Wenn du mehr gelernt hättest, hättest du die Prüfung bestanden."
+    }
+    ]
+    },
+    "allen": {
+    "lemma": "allen",
+    "pronoun": "alle",
+    "english": "all",
+    "examples": [
+    {
+    "english": "All the guests have arrived.",
+    "german": "Alle Gäste sind angekommen."
+    }
+    ]
+    },
+    "Miss": {
+    "lemma": "Miss",
+    "pronoun": "Fräulein",
+    "english": "Miss",
+    "examples": [
+    {
+    "english": "Miss Johnson is my teacher.",
+    "german": "Fräulein Johnson ist meine Lehrerin."
+    }
+    ]
+    },
+    "ihrer": {
+    "lemma": "ihrer",
+    "pronoun": "ihr",
+    "english": "her",
+    "examples": [
+    {
+    "english": "She loves spending time with her friends.",
+    "german": "Sie verbringt gerne Zeit mit ihren Freunden."
+    }
+    ]
+    },
+    "gedacht": {
+    "lemma": "gedacht",
+    "pronoun": "denken",
+    "english": "thought",
+    "examples": [
+    {
+    "english": "I thought you would be here earlier.",
+    "german": "Ich habe gedacht, du wärst früher hier."
+    }
+    ]
+    },
+    "Nummer": {
+    "lemma": "Nummer",
+    "pronoun": "die",
+    "english": "number",
+    "examples": [
+    {
+    "english": "What's your phone number?",
+    "german": "Wie lautet deine Telefonnummer?"
+    }
+    ]
+    },
+    "würdest": {
+    "lemma": "würdest",
+    "pronoun": "werden",
+    "english": "would",
+    "examples": [
+    {
+    "english": "If you asked nicely, he would help you.",
+    "german": "Wenn du nett fragen würdest, würde er dir helfen."
+    }
+    ]
+    },
+    "erzählen": {
+    "lemma": "erzählen",
+    "pronoun": "",
+    "english": "tell",
+    "examples": [
+    {
+    "english": "Can you tell me a bedtime story?",
+    "german": "Kannst du mir eine Gute-Nacht-Geschichte erzählen?"
+    }
+    ]
+    },
+    "bleibt": {
+    "lemma": "bleibt",
+    "pronoun": "bleiben",
+    "english": "stays",
+    "examples": [
+    {
+    "english": "The cat stays outside all night.",
+    "german": "Die Katze bleibt die ganze Nacht draußen."
+    }
+    ]
+    },
+    "Auch": {
+    "lemma": "Auch",
+    "pronoun": "",
+    "english": "also",
+    "examples": [
+    {
+    "english": "I also want to go to the movies.",
+    "german": "Ich möchte auch ins Kino gehen."
+    }
+    ]
+    },
+    "Hände": {
+    "lemma": "Hände",
+    "pronoun": "die",
+    "english": "hands",
+    "examples": [
+    {
+    "english": "Wash your hands before eating.",
+    "german": "Wasche dir die Hände, bevor du isst."
+    }
+    ]
+    },
+    "Blut": {
+    "lemma": "Blut",
+    "pronoun": "das",
+    "english": "blood",
+    "examples": [
+    {
+    "english": "The wound was bleeding a lot.",
+    "german": "Die Wunde hat stark geblutet."
+    }
+    ]
+    },
+    "Sehen": {
+    "lemma": "Sehen",
+    "pronoun": "sehen",
+    "english": "see",
+    "examples": [
+    {
+    "english": "I can see a bird in the tree.",
+    "german": "Ich kann einen Vogel im Baum sehen."
+    }
+    ]
+    },
+    "bloß": {
+    "lemma": "bloß",
+    "pronoun": "",
+    "english": "just",
+    "examples": [
+    {
+    "english": "I was just kidding.",
+    "german": "Ich habe bloß Spaß gemacht."
+    }
+    ]
+    },
+    "recht": {
+    "lemma": "recht",
+    "pronoun": "",
+    "english": "right",
+    "examples": [
+    {
+    "english": "You are absolutely right.",
+    "german": "Du hast absolut recht."
+    }
+    ]
+    },
+    "bringt": {
+    "lemma": "bringt",
+    "pronoun": "bringen",
+    "english": "brings",
+    "examples": [
+    {
+    "english": "Exercise brings many health benefits.",
+    "german": "Sport bringt viele gesundheitliche Vorteile."
+    }
+    ]
+    },
+    "Bett": {
+    "lemma": "Bett",
+    "pronoun": "das",
+    "english": "bed",
+    "examples": [
+    {
+    "english": "I'm going to sleep. Goodnight and sweet dreams!",
+    "german": "Ich gehe ins Bett. Gute Nacht und süße Träume!"
+    }
+    ]
+    },
+    "Lassen": {
+    "lemma": "Lassen",
+    "pronoun": "lassen",
+    "english": "let",
+    "examples": [
+    {
+    "english": "Let me know if you need any help.",
+    "german": "Lass mich wissen, wenn du Hilfe brauchst."
+    }
+    ]
+    },
+    "Eltern": {
+    "lemma": "Eltern",
+    "pronoun": "die",
+    "english": "parents",
+    "examples": [
+    {
+    "english": "My parents are coming to visit next week.",
+    "german": "Meine Eltern kommen nächste Woche zu Besuch."
+    }
+    ]
+    },
+    "gefällt": {
+    "lemma": "gefällt",
+    "pronoun": "gefallen",
+    "english": "like",
+    "examples": [
+    {
+    "english": "Do you like the new hairstyle?",
+    "german": "Gefällt dir die neue Frisur?"
+    }
+    ]
+    },
+    "Schuld": {
+    "lemma": "Schuld",
+    "pronoun": "die",
+    "english": "guilt",
+    "examples": [
+    {
+    "english": "He felt a sense of guilt for what he had done.",
+    "german": "Er fühlte eine Schuld für das, was er getan hatte."
+    }
+    ]
+    },
+    "eure": {
+    "lemma": "eure",
+    "pronoun": "euer",
+    "english": "your",
+    "examples": [
+    {
+    "english": "I like your new car.",
+    "german": "Ich mag euer neues Auto."
+    }
+    ]
+    },
+    "Plan": {
+    "lemma": "Plan",
+    "pronoun": "der",
+    "english": "plan",
+    "examples": [
+    {
+    "english": "Let's make a plan for the weekend.",
+    "german": "Lass uns einen Plan für das Wochenende machen."
+    }
+    ]
+    },
+    "Krieg": {
+    "lemma": "Krieg",
+    "pronoun": "der",
+    "english": "war",
+    "examples": [
+    {
+    "english": "The country was devastated by the war.",
+    "german": "Das Land wurde vom Krieg verwüstet."
+    }
+    ]
+    },
+    "neuen": {
+    "lemma": "neuen",
+    "pronoun": "neu",
+    "english": "new",
+    "examples": [
+    {
+    "english": "I bought a new car.",
+    "german": "Ich habe ein neues Auto gekauft."
+    }
+    ]
+    },
+    "Klar": {
+    "lemma": "Klar",
+    "pronoun": "",
+    "english": "clear",
+    "examples": [
+    {
+    "english": "It's clear that he is not telling the truth.",
+    "german": "Es ist klar, dass er nicht die Wahrheit sagt."
+    }
+    ]
+    },
+    "retten": {
+    "lemma": "retten",
+    "pronoun": "",
+    "english": "save",
+    "examples": [
+    {
+    "english": "The firefighters worked hard to save the people trapped inside the building.",
+    "german": "Die Feuerwehrleute haben hart gearbeitet, um die Menschen zu retten, die in dem Gebäude gefangen waren."
+    }
+    ]
+    },
+    "guter": {
+    "lemma": "guter",
+    "pronoun": "gut",
+    "english": "good",
+    "examples": [
+    {
+    "english": "He is a good friend.",
+    "german": "Er ist ein guter Freund."
+    }
+    ]
+    },
+    "während": {
+    "lemma": "während",
+    "pronoun": "",
+    "english": "during",
+    "examples": [
+    {
+    "english": "I like to listen to music while I'm studying.",
+    "german": "Ich höre gerne Musik, während ich studiere."
+    }
+    ]
+    },
+    "ihrem": {
+    "lemma": "ihrem",
+    "pronoun": "ihr",
+    "english": "their",
+    "examples": [
+    {
+    "english": "They went on a trip with their friends.",
+    "german": "Sie sind mit ihren Freunden verreist."
+    }
+    ]
+    },
+    "wären": {
+    "lemma": "wären",
+    "pronoun": "sein",
+    "english": "would be",
+    "examples": [
+    {
+    "english": "If I had more time, I would be able to finish the project.",
+    "german": "Wenn ich mehr Zeit hätte, könnte ich das Projekt fertigstellen."
+    }
+    ]
+    },
+    "Fehler": {
+    "lemma": "Fehler",
+    "pronoun": "der",
+    "english": "mistake",
+    "examples": [
+    {
+    "english": "Everyone makes mistakes.",
+    "german": "Jeder macht Fehler."
+    }
+    ]
+    },
+    "scheint": {
+    "lemma": "scheint",
+    "pronoun": "scheinen",
+    "english": "seems",
+    "examples": [
+    {
+    "english": "It seems like it's going to rain.",
+    "german": "Es scheint, als ob es regnen wird."
+    }
+    ]
+    }
+}

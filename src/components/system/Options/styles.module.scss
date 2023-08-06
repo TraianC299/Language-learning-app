@@ -1,0 +1,16 @@
+.optionContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: $white;
+    max-width: fit-content;
+    border: none;
+    cursor: pointer;
+
+    &.selected{
+        background: $primary;
+        color: $white;
+    }
+}

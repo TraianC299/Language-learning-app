@@ -1,0 +1,690 @@
+{
+  "Fritz": {
+    "german": "Fritz",
+    "english": "Fritz",
+    "examples": [
+      {"german": "Fritz ist ein kleiner Hund.", "english": "Fritz is a small dog."}
+    ],
+    "pronoun": "der"
+  },
+  "wohnte": {
+    "german": "wohnte",
+    "english": "lived",
+    "examples": [
+      {"german": "Fritz wohnte in einer ruhigen Stadt.", "english": "Fritz lived in a quiet city."}
+    ],
+    "pronoun": "-"
+  },
+  "in": {
+    "german": "in",
+    "english": "in",
+    "examples": [
+      {"german": "Fritz wohnte in einer ruhigen Stadt.", "english": "Fritz lived in a quiet city."}
+    ],
+    "pronoun": "-"
+  },
+  "ruhigen": {
+    "german": "ruhigen",
+    "english": "quiet",
+    "examples": [
+      {"german": "Fritz wohnte in einer ruhigen Stadt.", "english": "Fritz lived in a quiet city."}
+    ],
+    "pronoun": "-"
+  },
+  "mit": {
+    "german": "mit",
+    "english": "with",
+    "examples": [
+      {"german": "Fritz wohnte in einer ruhigen Stadt mit seiner Familie.", "english": "Fritz lived in a quiet city with his family."}
+    ],
+    "pronoun": "-"
+  },
+  "seiner": {
+    "german": "seiner",
+    "english": "his",
+    "examples": [
+      {"german": "Fritz wohnte in einer ruhigen Stadt mit seiner Familie.", "english": "Fritz lived in a quiet city with his family."}
+    ],
+    "pronoun": "-"
+  },
+  "Schmetterlingen": {
+    "german": "Schmetterlingen",
+    "english": "butterflies",
+    "examples": [
+      {"german": "Fritz liebte es, im Park zu spielen und nach Schmetterlingen zu jagen.", "english": "Fritz loved to play in the park and chase butterflies."}
+    ],
+    "pronoun": "die"
+  },
+  "Eines": {
+    "german": "Eines",
+    "english": "One",
+    "examples": [
+      {"german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.", "english": "One day, he saw a particularly beautiful butterfly and chased after it."}
+    ],
+    "pronoun": "-"
+  },
+  "Tages": {
+    "german": "Tages",
+    "english": "day",
+    "examples": [
+      {"german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.", "english": "One day, he saw a particularly beautiful butterfly and chased after it."}
+    ],
+    "pronoun": "der"
+  },
+  "sah": {
+    "german": "sah",
+    "english": "saw",
+    "examples": [
+      {"german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.", "english": "One day, he saw a particularly beautiful butterfly and chased after it."}
+    ],
+    "pronoun": "-"
+  },
+  "einen": {
+    "german": "einen",
+    "english": "a",
+    "examples": [
+      {"german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.", "english": "One day, he saw a particularly beautiful butterfly and chased after it."}
+    ],
+    "pronoun": "-"
+  },
+  "besonders": {
+    "german": "besonders",
+    "english": "particularly",
+    "examples": [
+      {"german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.", "english": "One day, he saw a particularly beautiful butterfly and chased after it."}
+    ],
+    "pronoun": "-"
+  },
+  "schönen": {
+    "german": "schönen",
+    "english": "beautiful",
+    "examples": [
+      {"german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.", "english": "One day, he saw a particularly beautiful butterfly and chased after it."}
+    ],
+    "pronoun": "-"
+  },
+  "rannte": {
+    "german": "rannte",
+    "english": "ran",
+    "examples": [
+      {"german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.", "english": "One day, he saw a particularly beautiful butterfly and ran after it."}
+    ],
+    "pronoun": "-"
+  },
+  "hinterher": {
+    "german": "hinterher",
+    "english": "after it",
+    "examples": [
+      {"german": "Eines Tages sah er einen besonders schönen Schmetterling und rannte ihm hinterher.", "english": "One day, he saw a particularly beautiful butterfly and ran after it."}
+    ],
+    "pronoun": "-"
+  },
+  "flog": {
+    "german": "flog",
+    "english": "flew",
+    "examples": [
+      {"german": "Der Schmetterling flog hoch in den Himmel.", "english": "The butterfly flew high into the sky."}
+    ],
+    "pronoun": "-"
+  },
+  "hoch": {
+    "german": "hoch",
+    "english": "high",
+    "examples": [
+      {"german": "Der Schmetterling flog hoch in den Himmel.", "english": "The butterfly flew high into the sky."}
+    ],
+    "pronoun": "-"
+  },
+  "den": {
+    "german": "den",
+    "english": "the",
+    "examples": [
+      {"german": "Der Schmetterling flog hoch in den Himmel.", "english": "The butterfly flew high into the sky."}
+    ],
+    "pronoun": "-"
+  },
+  "Himmel": {
+    "german": "Himmel",
+    "english": "sky",
+    "examples": [
+      {"german": "Der Schmetterling flog hoch in den Himmel.", "english": "The butterfly flew high into the sky."}
+    ],
+    "pronoun": "der"
+  },
+  "verlor": {
+    "german": "verlor",
+    "english": "lost",
+    "examples": [
+      {"german": "Fritz verlor sich in der Stadt.", "english": "Fritz got lost in the city."}
+    ],
+    "pronoun": "-"
+  },
+  "sich": {
+    "german": "sich",
+    "english": "himself",
+    "examples": [
+      {"german": "Fritz verlor sich in der Stadt.", "english": "Fritz got lost in the city."}
+    ],
+    "pronoun": "-"
+  },
+  "der": {
+    "german": "der",
+    "english": "the",
+    "examples": [
+      {"german": "Fritz verlor sich in der Stadt.", "english": "Fritz got lost in the city."}
+    ],
+    "pronoun": "-"
+  },
+  "Stadt": {
+    "german": "Stadt",
+    "english": "city",
+    "examples": [
+      {"german": "Fritz verlor sich in der Stadt.", "english": "Fritz got lost in the city."}
+    ],
+    "pronoun": "die"
+  },
+  "war": {
+    "german": "war",
+    "english": "was",
+    "examples": [
+      {"german": "Er war sehr ängstlich und wusste nicht, wo er war.", "english": "He was very anxious and didn't know where he was."}
+    ],
+    "pronoun": "-"
+  },
+  "ängstlich": {
+    "german": "ängstlich",
+    "english": "anxious",
+    "examples": [
+      {"german": "Er war sehr ängstlich und wusste nicht, wo er war.", "english": "He was very anxious and didn't know where he was."}
+    ],
+    "pronoun": "-"
+  },
+  "und": {
+    "german": "und",
+    "english": "and",
+    "examples": [
+      {"german": "Er war sehr ängstlich und wusste nicht, wo er war.", "english": "He was very anxious and didn't know where he was."}
+    ],
+    "pronoun": "-"
+  },
+  "wusste": {
+    "german": "wusste",
+    "english": "knew",
+    "examples": [
+      {"german": "Er war sehr ängstlich und wusste nicht, wo er war.", "english": "He was very anxious and didn't know where he was."}
+    ],
+    "pronoun": "-"
+  },
+  "nicht": {
+    "german": "nicht",
+    "english": "not",
+    "examples": [
+      {"german": "Er war sehr ängstlich und wusste nicht, wo er war.", "english": "He was very anxious and didn't know where he was."}
+    ],
+    "pronoun": "-"
+  },
+  "wo": {
+    "german": "wo",
+    "english": "where",
+    "examples": [
+      {"german": "Er war sehr ängstlich und wusste nicht, wo er war.", "english": "He was very anxious and didn't know where he was."}
+    ],
+    "pronoun": "-"
+  },
+  "er": {
+    "german": "er",
+    "english": "he",
+    "examples": [
+      {"german": "Er war sehr ängstlich und wusste nicht, wo er war.", "english": "He was very anxious and didn't know where he was."}
+    ],
+    "pronoun": "-"
+  },
+  "versuchte": {
+    "german": "versuchte",
+    "english": "tried",
+    "examples": [
+      {"german": "Er versuchte den Weg nach Hause zu finden.", "english": "He tried to find the way home."}
+    ],
+    "pronoun": "-"
+  },
+  "Weg": {
+    "german": "Weg",
+    "english": "way",
+    "examples": [
+      {"german": "Er versuchte den Weg nach Hause zu finden.", "english": "He tried to find the way home."}
+    ],
+    "pronoun": "der"
+  },
+  "aber": {
+    "german": "aber",
+    "english": "but",
+    "examples": [
+      {"german": "Aber es war alles so anders.", "english": "But everything was so different."}
+    ],
+    "pronoun": "-"
+  },
+  "es": {
+    "german": "es",
+    "english": "it",
+    "examples": [
+      {"german": "Aber es war alles so anders.", "english": "But everything was so different."}
+    ],
+    "pronoun": "-"
+  },
+  "alles": {
+    "german": "alles",
+    "english": "everything",
+    "examples": [
+      {"german": "Aber es war alles so anders.", "english": "But everything was so different."}
+    ],
+    "pronoun": "-"
+  },
+  "so": {
+    "german": "so",
+    "english": "so",
+    "examples": [
+      {"german": "Aber es war alles so anders.", "english": "But everything was so different."}
+    ],
+    "pronoun": "-"
+  },
+  "anders": {
+    "german": "anders",
+    "english": "different",
+    "examples": [
+      {"german": "Aber es war alles so anders.", "english": "But everything was so different."}
+    ],
+    "pronoun": "-"
+  },
+  "traurig": {
+    "german": "traurig",
+    "english": "sad",
+    "examples": [
+      {"german": "Fritz war traurig und vermisste seine Familie sehr.", "english": "Fritz was sad and missed his family a lot."}
+    ],
+    "pronoun": "-"
+  },
+  "vermisste": {
+    "german": "vermisste",
+    "english": "missed",
+    "examples": [
+      {"german": "Fritz war traurig und vermisste seine Familie sehr.", "english": "Fritz was sad and missed his family a lot."}
+    ],
+    "pronoun": "-"
+  },
+  "Er": {
+    "german": "Er",
+    "english": "He",
+    "examples": [
+      {"german": "Er saß auf einer Bank und heulte leise.", "english": "He sat on a bench and cried softly."}
+    ],
+    "pronoun": "-"
+  },
+  "saß": {
+    "german": "saß",
+    "english": "sat",
+    "examples": [
+      {"german": "Er saß auf einer Bank und heulte leise.", "english": "He sat on a bench and cried softly."}
+    ],
+    "pronoun": "-"
+  },
+  "auf": {
+    "german": "auf",
+    "english": "on",
+    "examples": [
+      {"german": "Er saß auf einer Bank und heulte leise.", "english": "He sat on a bench and cried softly."}
+    ],
+    "pronoun": "-"
+  },
+  "einer": {
+    "german": "einer",
+    "english": "a",
+    "examples": [
+      {"german": "Er saß auf einer Bank und heulte leise.", "english": "He sat on a bench and cried softly."}
+    ],
+    "pronoun": "-"
+  },
+  "Bank": {
+    "german": "Bank",
+    "english": "bench",
+    "examples": [
+      {"german": "Er saß auf einer Bank und heulte leise.", "english": "He sat on a bench and cried softly."}
+    ],
+    "pronoun": "die"
+  },
+  "heulte": {
+    "german": "heulte",
+    "english": "cried",
+    "examples": [
+      {"german": "Er saß auf einer Bank und heulte leise.", "english": "He sat on a bench and cried softly."}
+    ],
+    "pronoun": "-"
+  },
+  "leise": {
+    "german": "leise",
+    "english": "softly",
+    "examples": [
+      {"german": "Er saß auf einer Bank und heulte leise.", "english": "He sat on a bench and cried softly."}
+    ],
+    "pronoun": "-"
+  },
+  "Ein": {
+    "german": "Ein",
+    "english": "A",
+    "examples": [
+      {"german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.", "english": "A little girl named Lisa heard his crying."}
+    ],
+    "pronoun": "-"
+  },
+  "kleines": {
+    "german": "kleines",
+    "english": "little",
+    "examples": [
+      {"german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.", "english": "A little girl named Lisa heard his crying."}
+    ],
+    "pronoun": "-"
+  },
+  "Mädchen": {
+    "german": "Mädchen",
+    "english": "girl",
+    "examples": [
+      {"german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.", "english": "A little girl named Lisa heard his crying."}
+    ],
+    "pronoun": "das"
+  },
+  "namens": {
+    "german": "namens",
+    "english": "named",
+    "examples": [
+      {"german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.", "english": "A little girl named Lisa heard his crying."}
+    ],
+    "pronoun": "-"
+  },
+  "hörte": {
+    "german": "hörte",
+    "english": "heard",
+    "examples": [
+      {"german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.", "english": "A little girl named Lisa heard his crying."}
+    ],
+    "pronoun": "-"
+  },
+  "sein": {
+    "german": "sein",
+    "english": "his",
+    "examples": [
+      {"german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.", "english": "A little girl named Lisa heard his crying."}
+    ],
+    "pronoun": "-"
+  },
+  "Weinen": {
+    "german": "Weinen",
+    "english": "crying",
+    "examples": [
+      {"german": "Ein kleines Mädchen namens Lisa hörte sein Weinen.", "english": "A little girl named Lisa heard his crying."}
+    ],
+    "pronoun": "das"
+  },
+  "traurigen": {
+    "german": "traurigen",
+    "english": "sad",
+    "examples": [
+      {"german": "Sie sah den traurigen Hund.", "english": "She saw the sad dog."}
+    ],
+    "pronoun": "-"
+  },
+  "Hund": {
+    "german": "Hund",
+    "english": "dog",
+    "examples": [
+      {"german": "Sie sah den traurigen Hund.", "english": "She saw the sad dog."}
+    ],
+    "pronoun": "der"
+  },
+  "entschied": {
+    "german": "entschied",
+    "english": "decided",
+    "examples": [
+      {"german": "Sie entschied, ihm zu helfen.", "english": "She decided to help him."}
+    ],
+    "pronoun": "-"
+  },
+  "ihm": {
+    "german": "ihm",
+    "english": "him",
+    "examples": [
+      {"german": "Sie entschied, ihm zu helfen.", "english": "She decided to help him."}
+    ],
+    "pronoun": "-"
+  },
+  "zu": {
+    "german": "zu",
+    "english": "to",
+    "examples": [
+      {"german": "Sie entschied, ihm zu helfen.", "english": "She decided to help him."}
+    ],
+    "pronoun": "-"
+  },
+  "helfen": {
+    "german": "helfen",
+    "english": "help",
+    "examples": [
+      {"german": "Sie entschied, ihm zu helfen.", "english": "She decided to help him."}
+    ],
+    "pronoun": "-"
+  },
+  "kannte": {
+    "german": "kannte",
+    "english": "knew",
+    "examples": [
+      {"german": "Lisa kannte sich gut in der Stadt aus.", "english": "Lisa knew her way around the city."}
+    ],
+    "pronoun": "-"
+  },
+  "gut": {
+    "german": "gut",
+    "english": "well",
+    "examples": [
+      {"german": "Lisa kannte sich gut in der Stadt aus.", "english": "Lisa knew her way around the city."}
+    ],
+    "pronoun": "-"
+  },
+  "aus": {
+    "german": "aus",
+    "english": "around",
+    "examples": [
+      {"german": "Lisa kannte sich gut in der Stadt aus.", "english": "Lisa knew her way around the city."}
+    ],
+    "pronoun": "-"
+  },
+  "führte": {
+    "german": "führte",
+    "english": "led",
+    "examples": [
+      {"german": "Sie führte Fritz sicher nach Hause.", "english": "She led Fritz safely home."}
+    ],
+    "pronoun": "-"
+  },
+  "sicher": {
+    "german": "sicher",
+    "english": "safely",
+    "examples": [
+      {"german": "Sie führte Fritz sicher nach Hause.", "english": "She led Fritz safely home."}
+    ],
+    "pronoun": "-"
+  },
+  "nach": {
+    "german": "nach",
+    "english": "to",
+    "examples": [
+      {"german": "Sie führte Fritz sicher nach Hause.", "english": "She led Fritz safely home."}
+    ],
+    "pronoun": "-"
+  },
+  "Hause": {
+    "german": "Hause",
+    "english": "home",
+    "examples": [
+      {"german": "Sie führte Fritz sicher nach Hause.", "english": "She led Fritz safely home."}
+    ],
+    "pronoun": "das"
+  },
+  "Als": {
+    "german": "Als",
+    "english": "When",
+    "examples": [
+      {"german": "Als Fritz seine Familie wieder sah,", "english": "When Fritz saw his family again,"}
+    ],
+    "pronoun": "-"
+  },
+  "seine": {
+    "german": "seine",
+    "english": "his",
+    "examples": [
+      {"german": "Als Fritz seine Familie wieder sah,", "english": "When Fritz saw his family again,"}
+    ],
+    "pronoun": "-"
+  },
+  "Familie": {
+    "german": "Familie",
+    "english": "family",
+    "examples": [
+      {"german": "Als Fritz seine Familie wieder sah,", "english": "When Fritz saw his family again,"}
+    ],
+    "pronoun": "die"
+  },
+  "wieder": {
+    "german": "wieder",
+    "english": "again",
+    "examples": [
+      {"german": "Als Fritz seine Familie wieder sah,", "english": "When Fritz saw his family again,"}
+    ],
+    "pronoun": "-"
+  },
+  "glücklich": {
+    "german": "glücklich",
+    "english": "happy",
+    "examples": [
+      {"german": "war er so glücklich,", "english": "he was so happy,"}
+    ],
+    "pronoun": "-"
+  },
+  "dass": {
+    "german": "dass",
+    "english": "that",
+    "examples": [
+      {"german": "dass er vor Freude bellte.", "english": "that he barked with joy."}
+    ],
+    "pronoun": "-"
+  },
+  "vor": {
+    "german": "vor",
+    "english": "with",
+    "examples": [
+      {"german": "dass er vor Freude bellte.", "english": "that he barked with joy."}
+    ],
+    "pronoun": "-"
+  },
+  "Freude": {
+    "german": "Freude",
+    "english": "joy",
+    "examples": [
+      {"german": "dass er vor Freude bellte.", "english": "that he barked with joy."}
+    ],
+    "pronoun": "die"
+  },
+  "bellte": {
+    "german": "bellte",
+    "english": "barked",
+    "examples": [
+      {"german": "dass er vor Freude bellte.", "english": "that he barked with joy."}
+    ],
+    "pronoun": "-"
+  },
+  "Seit": {
+    "german": "Seit",
+    "english": "Since",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "-"
+  },
+  "diesem": {
+    "german": "diesem",
+    "english": "that",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "-"
+  },
+  "Tag": {
+    "german": "Tag",
+    "english": "day",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "der"
+  },
+  "liebte": {
+    "german": "liebte",
+    "english": "loved",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "-"
+  },
+  "Lisa": {
+    "german": "Lisa",
+    "english": "Lisa",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "die"
+  },
+  "sehr": {
+    "german": "sehr",
+    "english": "very",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "-"
+  },
+  "besuchte": {
+    "german": "besuchte",
+    "english": "visited",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "-"
+  },
+  "sie": {
+    "german": "sie",
+    "english": "her",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "-"
+  },
+  "jeden": {
+    "german": "jeden",
+    "english": "every",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "-"
+  },
+  "im": {
+    "german": "im",
+    "english": "in the",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "-"
+  },
+  "Park": {
+    "german": "Park",
+    "english": "park",
+    "examples": [
+      {"german": "Seit diesem Tag liebte Fritz Lisa sehr und besuchte sie jeden Tag im Park.", "english": "Since that day, Fritz loved Lisa very much and visited her every day in the park."}
+    ],
+    "pronoun": "der"
+  }
+}

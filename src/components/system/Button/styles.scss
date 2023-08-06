@@ -1,0 +1,51 @@
+.button{
+    background-color: $primary;
+    color: $black;
+    padding: 0.75rem 2rem;
+    border-radius: 5px;
+    width: fit-content;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-weight: 600;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &:hover{
+        background-color: lighten($primary, 10%);
+    }
+    &.ghost{
+        background-color: transparent;
+        border: 1px solid $black;
+    }
+
+    &.text{
+        background-color: transparent;
+        border: none;
+        color: $black;
+        &:hover{
+            color: $primary;
+        }
+    }
+
+    &.small{
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+    }
+
+    //dark mode
+    @media (prefers-color-scheme: dark) {
+        color: $white;
+        &.ghost{
+            border: 1px solid $white;
+        }
+        &.text{
+            color: $white;
+            &:hover{
+                color: $primary;
+            }
+        }
+    }
+    
+}
